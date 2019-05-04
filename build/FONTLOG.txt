@@ -1,0 +1,48 @@
+Changes
+
+2014-05-27: Version 2.017
+- Change Unicode Ranges bits for correct preview icons on Windows
+
+2014-05-15: Version 2.016
+- Renamed Font to "Comic Jens Free Pro"
+
+2011-02-13: Version 2.015
+- Minor bugs noticed by FontValidator fixed
+- Removed horizontal hints and VDMX, LTSH, hdmx tables to make file size a bit smaller
+
+2010-08-19: Version 2.014
+- Bugfix in Ligature OT feature (was not working correctly in InDesign)
+- Some characters from the Dingbats Unicode range added
+- Mark-to-Base positioning feature for Latin basic alphabet
+
+2010-08-04: Version 2.012
+- OpenType features now work in Microsoft Office 2010
+
+2010-05-15: Version 2.011
+
+- Some more characters, only composites added
+- Bugfix in OpenType features for Greek and Cyrillic
+
+2010-05-13: Version 2.010
+
+Comic Jens Pro: Complete revision of the font.
+- It is not metric-compatible with the previous version (Units per em
+  value has been changed from 1000 to 1024).
+- TrueType-based OpenType format for better compatibility.
+- Bold weight has been discontinued, it was a lousy hack anyway.
+- »Black« characters with loops (f, t) replaced by simpler versions.
+  The old versions are included as Stylistic Sets.
+- Cyrillic and Greek added, as well as the complete »Windows Glyph
+  List 4« character set.
+- Lots of small changes
+
+
+2009-04-03: Version 1.1
+
+- Added kerning, mostly combinations of P with lowercase.
+- Fixed /invsmileface in Bold.
+
+
+2008-06-04: Version 1.0
+
+- Initial Release
