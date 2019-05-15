@@ -2,7 +2,8 @@
 .appVersion = "1237";
 DisplayStrings = (
 e,
-nnednn
+nnednn,
+f
 );
 classes = (
 {
@@ -17992,9 +17993,9 @@ width = 649;
 unicode = 018F;
 },
 {
-color = 8;
+color = 4;
 glyphname = T;
-lastChange = "2019-05-05 17:13:27 +0000";
+lastChange = "2019-05-15 22:27:47 +0000";
 layers = (
 {
 anchors = (
@@ -18145,6 +18146,27 @@ position = "{290, 695}";
 }
 );
 color = -1;
+hints = (
+{
+horizontal = 1;
+origin = "{0, 0}";
+type = Anchor;
+},
+{
+horizontal = 1;
+origin = "{0, 17}";
+target = "{0, 26}";
+type = TTStem;
+options = 4;
+},
+{
+horizontal = 1;
+origin = "{0, 26}";
+target = "{0, 5}";
+type = Align;
+options = 4;
+}
+);
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 paths = (
 {
@@ -18161,7 +18183,6 @@ nodes = (
 "61 592 QCURVE",
 "32 590 OFFCURVE",
 "6 619 OFFCURVE",
-"6 639 QCURVE",
 "6 661 OFFCURVE",
 "32 688 OFFCURVE",
 "62 690 QCURVE",
@@ -18172,8 +18193,7 @@ nodes = (
 "525 703 QCURVE",
 "556 702 OFFCURVE",
 "585 676 OFFCURVE",
-"585 654 QCURVE",
-"585 636 OFFCURVE",
+"585 637 OFFCURVE",
 "560 614 OFFCURVE",
 "534 613 QCURVE",
 "484 611 OFFCURVE",
@@ -18183,8 +18203,7 @@ nodes = (
 "321 187 OFFCURVE",
 "316 44 QCURVE",
 "314 15 OFFCURVE",
-"285 -9 OFFCURVE",
-"265 -9 QCURVE {name = ab01;}"
+"285 -9 OFFCURVE"
 );
 }
 );
@@ -27553,9 +27572,9 @@ width = 703;
 unicode = 01FD;
 },
 {
-color = 8;
+color = 4;
 glyphname = b;
-lastChange = "2019-05-15 22:18:22 +0000";
+lastChange = "2019-05-15 22:27:51 +0000";
 layers = (
 {
 anchors = (
@@ -28784,9 +28803,9 @@ rightKerningGroup = c;
 unicode = 010B;
 },
 {
-color = 8;
+color = 4;
 glyphname = d;
-lastChange = "2019-05-15 22:20:34 +0000";
+lastChange = "2019-05-15 22:27:51 +0000";
 layers = (
 {
 anchors = (
@@ -31558,7 +31577,7 @@ unicode = 0259;
 {
 color = 8;
 glyphname = f;
-lastChange = "2019-05-05 17:13:27 +0000";
+lastChange = "2019-05-15 22:29:45 +0000";
 layers = (
 {
 anchors = (
@@ -31738,6 +31757,51 @@ position = "{360, 725}";
 }
 );
 color = -1;
+hints = (
+{
+horizontal = 1;
+origin = "{0, 23}";
+target = "{0, 34}";
+type = TTStem;
+options = 4;
+},
+{
+horizontal = 1;
+origin = "{0, 23}";
+type = Anchor;
+},
+{
+horizontal = 1;
+origin = "{0, 23}";
+target = "{0, 2}";
+type = Align;
+options = 4;
+},
+{
+horizontal = 1;
+origin = "{0, 34}";
+target = "{0, 48}";
+type = Align;
+options = 4;
+},
+{
+horizontal = 1;
+origin = "{0, 40}";
+type = Anchor;
+},
+{
+horizontal = 1;
+origin = "{0, 7}";
+target = "{0, 20}";
+type = TTStem;
+options = 4;
+},
+{
+horizontal = 1;
+origin = "{0, 7}";
+type = Anchor;
+}
+);
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 paths = (
 {
