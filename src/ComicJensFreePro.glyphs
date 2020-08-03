@@ -12267,7 +12267,7 @@ name = M;
 },
 {
 name = dotaccentcomb.case;
-transform = "{1, 0, 0, 1, 510, -16}";
+transform = "{1, 0, 0, 1, 480, -16}";
 }
 );
 layerId = master01;
@@ -12311,7 +12311,7 @@ name = M;
 },
 {
 name = dotaccentcomb.case;
-transform = "{1, 0, 0, 1, 510, -16}";
+transform = "{1, 0, 0, 1, 480, -16}";
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
