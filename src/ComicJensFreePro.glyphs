@@ -6,7 +6,7 @@ DisplayStrings = (
 jumps over the lazy dog.
 Hasta la vista, baby!
 Velvet Underground",
-"Ē"
+"Ö"
 );
 axes = (
 {
@@ -9649,6 +9649,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
@@ -9664,7 +9665,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 297;
+width = 273;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -9729,6 +9730,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
@@ -9744,7 +9746,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 297;
+width = 273;
 }
 );
 unicode = 205;
@@ -11620,6 +11622,8 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
@@ -11635,7 +11639,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 },
 {
 color = 6;
@@ -11667,6 +11671,8 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
@@ -11682,7 +11688,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 }
 );
 unicode = 313;
@@ -11697,11 +11703,13 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
-pos = (543,-33);
-ref = commaabovecomb;
+pos = (446,40);
+ref = caroncomb.alt001;
 }
 );
 userData = {
@@ -11712,7 +11720,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 },
 {
 color = 6;
@@ -11744,10 +11752,12 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
-pos = (466,40);
+pos = (446,40);
 ref = caroncomb.alt001;
 }
 );
@@ -11759,7 +11769,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 }
 );
 unicode = 317;
@@ -11774,6 +11784,8 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
@@ -11789,7 +11801,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 },
 {
 color = 6;
@@ -11821,10 +11833,13 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
+pos = (-20,0);
 ref = L;
 },
 {
-pos = (408,-73);
+alignment = -1;
+pos = (403,-73);
 ref = commaaccentcomb;
 }
 );
@@ -11836,7 +11851,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 509;
 }
 );
 unicode = 315;
@@ -11936,10 +11951,12 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
-pos = (263,155);
+alignment = -1;
+pos = (519,-292);
 ref = dotaccentcomb;
 }
 );
@@ -11951,7 +11968,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 529;
+width = 533;
 }
 );
 unicode = 319;
@@ -12014,10 +12031,12 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
-pos = (263,155);
+alignment = -1;
+pos = (374,-834);
 ref = dotaccentcomb;
 }
 );
@@ -13730,6 +13749,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = N;
 },
 {
@@ -13737,7 +13757,7 @@ pos = (709,10);
 ref = tildecomb.case;
 }
 );
-width = 678;
+width = 660;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -13889,6 +13909,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = N;
 },
 {
@@ -13904,7 +13925,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 678;
+width = 660;
 }
 );
 unicode = 209;
