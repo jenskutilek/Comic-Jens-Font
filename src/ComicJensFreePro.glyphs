@@ -11856,9 +11856,11 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
+alignment = -1;
 pos = (519,-292);
 ref = dotaccentcomb;
 }
@@ -11969,9 +11971,11 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = L;
 },
 {
+alignment = -1;
 pos = (374,-834);
 ref = dotaccentcomb;
 }
@@ -41684,9 +41688,11 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
+alignment = -1;
 pos = (386,-278);
 ref = dotaccentcomb;
 }
@@ -41778,9 +41784,11 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
+alignment = -1;
 pos = (386,-278);
 ref = dotaccentcomb;
 }
@@ -41808,9 +41816,11 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
+alignment = -1;
 pos = (233,-834);
 ref = dotaccentcomb;
 }
@@ -41854,9 +41864,11 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
+alignment = -1;
 pos = (233,-834);
 ref = dotaccentcomb;
 }
@@ -43153,10 +43165,12 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 pos = (140,0);
 ref = n;
 },
 {
+alignment = -1;
 pos = (-23,56);
 ref = quoteright;
 }
@@ -43201,10 +43215,12 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 pos = (140,0);
 ref = n;
 },
 {
+alignment = -1;
 pos = (-23,56);
 ref = quoteright;
 }
@@ -51626,9 +51642,11 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 pos = (581,19);
 ref = circumflexcomb;
 }
