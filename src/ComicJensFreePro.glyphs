@@ -5,7 +5,8 @@ DisplayStrings = (
 "The quick brown fox
 jumps over the lazy dog.
 Hasta la vista, baby!
-Velvet Underground"
+Velvet Underground",
+"Ē"
 );
 axes = (
 {
@@ -4025,6 +4026,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = C;
 },
 {
@@ -4040,7 +4042,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 576;
+width = 577;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -4148,6 +4150,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = C;
 },
 {
@@ -4163,7 +4166,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 576;
+width = 577;
 }
 );
 unicode = 199;
@@ -6571,6 +6574,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = E;
 },
 {
@@ -6578,7 +6582,7 @@ pos = (666,45);
 ref = circumflexcomb.case;
 }
 );
-width = 566;
+width = 571;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -6728,6 +6732,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = E;
 },
 {
@@ -6735,7 +6740,7 @@ pos = (666,45);
 ref = circumflexcomb.case;
 }
 );
-width = 566;
+width = 571;
 }
 );
 unicode = 202;
@@ -6902,6 +6907,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = E.001;
 },
 {
@@ -6917,7 +6923,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 600;
+width = 541;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -7042,6 +7048,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = E.001;
 },
 {
@@ -7057,7 +7064,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 600;
+width = 541;
 }
 );
 unicode = 200;
@@ -86837,7 +86844,8 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (743,0);
+alignment = -1;
+pos = (553,0);
 ref = cyrdescender;
 }
 );
@@ -86849,7 +86857,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 966;
+width = 743;
 },
 {
 color = 6;
@@ -86883,7 +86891,8 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (743,0);
+alignment = -1;
+pos = (553,0);
 ref = cyrdescender;
 }
 );
@@ -86895,7 +86904,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 966;
+width = 743;
 }
 );
 unicode = 1174;
@@ -86912,7 +86921,8 @@ shapes = (
 ref = K;
 },
 {
-pos = (582,0);
+alignment = -1;
+pos = (412,0);
 ref = cyrdescender;
 }
 );
@@ -86924,7 +86934,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 805;
+width = 582;
 },
 {
 color = 6;
@@ -86958,7 +86968,8 @@ shapes = (
 ref = K;
 },
 {
-pos = (582,0);
+alignment = -1;
+pos = (412,0);
 ref = cyrdescender;
 }
 );
@@ -86970,7 +86981,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 805;
+width = 582;
 }
 );
 unicode = 1178;
@@ -86986,7 +86997,8 @@ shapes = (
 ref = H;
 },
 {
-pos = (604,0);
+alignment = -1;
+pos = (432,0);
 ref = cyrdescender;
 }
 );
@@ -86998,7 +87010,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 827;
+width = 604;
 },
 {
 color = 6;
@@ -87032,7 +87044,8 @@ shapes = (
 ref = H;
 },
 {
-pos = (604,0);
+alignment = -1;
+pos = (432,0);
 ref = cyrdescender;
 }
 );
@@ -87044,7 +87057,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 827;
+width = 604;
 }
 );
 unicode = 1186;
@@ -87433,7 +87446,8 @@ shapes = (
 ref = X;
 },
 {
-pos = (724,0);
+alignment = -1;
+pos = (548,24);
 ref = cyrdescender;
 }
 );
@@ -87445,7 +87459,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 947;
+width = 724;
 },
 {
 color = 6;
@@ -87479,7 +87493,8 @@ shapes = (
 ref = X;
 },
 {
-pos = (724,0);
+alignment = -1;
+pos = (548,24);
 ref = cyrdescender;
 }
 );
@@ -87491,7 +87506,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 947;
+width = 724;
 }
 );
 unicode = 1202;
@@ -87507,7 +87522,8 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (581,0);
+alignment = -1;
+pos = (408,0);
 ref = cyrdescender;
 }
 );
@@ -87519,7 +87535,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 804;
+width = 581;
 },
 {
 color = 6;
@@ -87553,7 +87569,8 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (581,0);
+alignment = -1;
+pos = (408,0);
 ref = cyrdescender;
 }
 );
@@ -87565,7 +87582,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 804;
+width = 581;
 }
 );
 unicode = 1206;
