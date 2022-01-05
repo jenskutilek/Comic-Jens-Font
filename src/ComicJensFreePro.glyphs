@@ -5,11 +5,7 @@ DisplayStrings = (
 "The quick brown fox
 jumps over the lazy dog.
 Hasta la vista, baby!
-Velvet Underground",
-"/longs_i",
-"Ĕ",
-Q,
-"Ŵ"
+Velvet Underground"
 );
 axes = (
 {
@@ -639,6 +635,7 @@ stemValues = (
 100,
 100
 );
+visible = 1;
 },
 {
 axesValues = (
@@ -895,7 +892,6 @@ stemValues = (
 100,
 100
 );
-visible = 1;
 }
 );
 glyphs = (
@@ -1286,7 +1282,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-28,13);
+alignment = -1;
 ref = Adieresis.comp;
 },
 {
@@ -1427,7 +1423,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-28,13);
+alignment = -1;
 ref = Adieresis.comp;
 },
 {
@@ -1903,7 +1899,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-7,0);
+alignment = -1;
 ref = A;
 },
 {
@@ -2036,7 +2032,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-7,0);
+alignment = -1;
 ref = A;
 },
 {
@@ -2225,11 +2221,13 @@ pos = (373,1021);
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 pos = (1,0);
 ref = A;
 },
 {
-pos = (565,199);
+alignment = -1;
+pos = (564,199);
 ref = ringcomb;
 }
 );
@@ -2379,11 +2377,13 @@ pos = (373,1021);
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 pos = (1,0);
 ref = A;
 },
 {
-pos = (565,199);
+alignment = -1;
+pos = (564,199);
 ref = ringcomb;
 }
 );
@@ -4028,7 +4028,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (469,0);
+pos = (490,0);
 ref = cedillacomb;
 }
 );
@@ -4040,7 +4040,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 577;
+width = 576;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -4151,7 +4151,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (469,0);
+pos = (490,0);
 ref = cedillacomb;
 }
 );
@@ -4163,7 +4163,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 577;
+width = 576;
 }
 );
 unicode = 199;
@@ -6571,7 +6571,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (4,0);
 ref = E;
 },
 {
@@ -6579,7 +6578,7 @@ pos = (666,45);
 ref = circumflexcomb.case;
 }
 );
-width = 571;
+width = 566;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -6729,7 +6728,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (4,0);
 ref = E;
 },
 {
@@ -6737,7 +6735,7 @@ pos = (666,45);
 ref = circumflexcomb.case;
 }
 );
-width = 571;
+width = 566;
 }
 );
 unicode = 202;
@@ -6919,7 +6917,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 541;
+width = 600;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -7059,7 +7057,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 541;
+width = 600;
 }
 );
 unicode = 200;
@@ -8617,7 +8615,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (487,-57);
+pos = (368,-75);
 ref = commaaccentcomb;
 }
 );
@@ -9644,7 +9642,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-6,0);
 ref = I;
 },
 {
@@ -9660,7 +9657,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 273;
+width = 297;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -9725,7 +9722,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-6,0);
 ref = I;
 },
 {
@@ -9741,7 +9737,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 273;
+width = 297;
 }
 );
 unicode = 205;
@@ -10136,7 +10132,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (8,0);
 ref = I;
 },
 {
@@ -10231,7 +10226,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (8,0);
 ref = I;
 },
 {
@@ -11331,7 +11325,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (434,-3);
+pos = (413,-70);
 ref = commaaccentcomb;
 }
 );
@@ -11619,7 +11613,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
@@ -11635,7 +11628,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 },
 {
 color = 6;
@@ -11667,7 +11660,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
@@ -11683,7 +11675,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 }
 );
 unicode = 313;
@@ -11698,7 +11690,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
@@ -11714,7 +11705,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 },
 {
 color = 6;
@@ -11746,7 +11737,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
@@ -11762,7 +11752,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 }
 );
 unicode = 317;
@@ -11777,7 +11767,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
@@ -11793,7 +11782,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 },
 {
 color = 6;
@@ -11825,11 +11814,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-20,0);
 ref = L;
 },
 {
-pos = (402,-80);
+pos = (408,-73);
 ref = commaaccentcomb;
 }
 );
@@ -11841,7 +11829,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 529;
 }
 );
 unicode = 315;
@@ -11944,7 +11932,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (519,-292);
+pos = (263,155);
 ref = dotaccentcomb;
 }
 );
@@ -11956,7 +11944,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 533;
+width = 529;
 }
 );
 unicode = 319;
@@ -12022,7 +12010,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (374,-834);
+pos = (263,155);
 ref = dotaccentcomb;
 }
 );
@@ -13710,7 +13698,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (459,-17);
+pos = (438,-70);
 ref = commaaccentcomb;
 }
 );
@@ -13742,7 +13730,7 @@ pos = (709,10);
 ref = tildecomb.case;
 }
 );
-width = 660;
+width = 678;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -13909,7 +13897,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 660;
+width = 678;
 }
 );
 unicode = 209;
@@ -15211,7 +15199,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 744;
+width = 730;
 },
 {
 anchors = (
@@ -15384,7 +15372,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 744;
+width = 730;
 }
 );
 unicode = 214;
@@ -15418,7 +15406,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 744;
+width = 730;
 },
 {
 color = 6;
@@ -18671,7 +18659,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (463,-10);
+pos = (438,-70);
 ref = commaaccentcomb;
 }
 );
@@ -19200,8 +19188,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (54,188);
-ref = caron;
+pos = (541,0);
+ref = caroncomb.case;
 }
 );
 width = 541;
@@ -19342,8 +19330,8 @@ shapes = (
 ref = S;
 },
 {
-pos = (54,188);
-ref = caron;
+pos = (541,0);
+ref = caroncomb.case;
 }
 );
 width = 541;
@@ -19364,7 +19352,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (418,-15);
+pos = (407,-15);
 ref = cedillacomb;
 }
 );
@@ -19514,7 +19502,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (418,-15);
+pos = (407,-15);
 ref = cedillacomb;
 }
 );
@@ -19666,7 +19654,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (387,-97);
+pos = (373,-85);
 ref = commaaccentcomb;
 }
 );
@@ -20304,7 +20292,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (536,-314);
+pos = (546,175);
 ref = macroncomb;
 }
 );
@@ -20437,7 +20425,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (536,-314);
+pos = (546,175);
 ref = macroncomb;
 }
 );
@@ -20615,7 +20603,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (126,-19);
+pos = (125,-12);
 ref = cedilla;
 }
 );
@@ -20748,7 +20736,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (126,-19);
+pos = (125,-12);
 ref = cedilla;
 }
 );
@@ -20816,7 +20804,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (394,-77);
+pos = (386,-56);
 ref = commaaccentcomb;
 }
 );
@@ -21592,7 +21580,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (20,0);
 ref = U;
 },
 {
@@ -21600,7 +21587,7 @@ pos = (489,-10);
 ref = dieresiscomb.case;
 }
 );
-width = 648;
+width = 605;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -21767,7 +21754,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (20,0);
 ref = U;
 },
 {
@@ -21783,7 +21769,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 648;
+width = 605;
 }
 );
 unicode = 220;
@@ -24407,7 +24393,7 @@ pos = (682,0);
 ref = acutecomb.case;
 }
 );
-width = 672;
+width = 657;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -24541,7 +24527,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 672;
+width = 657;
 }
 );
 unicode = 221;
@@ -24639,7 +24625,7 @@ pos = (480,-10);
 ref = dieresiscomb.case;
 }
 );
-width = 671;
+width = 657;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -24787,7 +24773,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 671;
+width = 657;
 }
 );
 unicode = 376;
@@ -25326,8 +25312,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (109,145);
-ref = caron;
+pos = (687,0);
+ref = caroncomb.case;
 }
 );
 width = 687;
@@ -25479,8 +25465,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (109,145);
-ref = caron;
+pos = (687,0);
+ref = caroncomb.case;
 }
 );
 width = 687;
@@ -25577,7 +25563,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (591,-308);
+alignment = -1;
+pos = (589,-312);
 ref = macroncomb;
 }
 );
@@ -25705,7 +25692,8 @@ shapes = (
 ref = Z;
 },
 {
-pos = (591,-308);
+alignment = -1;
+pos = (589,-312);
 ref = macroncomb;
 }
 );
@@ -30004,7 +29992,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (558,17);
+pos = (521,30);
 ref = brevecomb;
 }
 );
@@ -30050,7 +30038,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (558,17);
+pos = (521,30);
 ref = brevecomb;
 }
 );
@@ -30080,7 +30068,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (620,0);
+pos = (627,30);
 ref = caroncomb;
 }
 );
@@ -30126,7 +30114,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (620,0);
+pos = (627,30);
 ref = caroncomb;
 }
 );
@@ -30738,7 +30726,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (600,-40);
+pos = (586,-20);
 ref = macroncomb;
 }
 );
@@ -30784,7 +30772,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (600,-40);
+pos = (586,-20);
 ref = macroncomb;
 }
 );
@@ -30814,7 +30802,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (732,17);
+pos = (729,15);
 ref = ogonekcomb;
 }
 );
@@ -30860,7 +30848,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (732,17);
+pos = (729,15);
 ref = ogonekcomb;
 }
 );
@@ -30902,7 +30890,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 599;
+width = 600;
 },
 {
 anchors = (
@@ -31087,7 +31075,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 599;
+width = 600;
 }
 );
 unicode = 229;
@@ -31121,7 +31109,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 599;
+width = 600;
 },
 {
 color = 6;
@@ -31152,18 +31140,15 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-ref = aring;
+ref = a.005;
+},
+{
+pos = (507,12);
+ref = ringcomb;
 },
 {
 pos = (661,101);
 ref = acutecomb.case;
-},
-{
-ref = a.005;
-},
-{
-pos = (510,-1);
-ref = ringcomb;
 }
 );
 userData = {
@@ -31174,7 +31159,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 599;
+width = 600;
 }
 );
 unicode = 507;
@@ -31881,7 +31866,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (543,-3);
+pos = (547,0);
 ref = acutecomb;
 }
 );
@@ -31927,7 +31912,7 @@ shapes = (
 ref = ae;
 },
 {
-pos = (543,-3);
+pos = (547,0);
 ref = acutecomb;
 }
 );
@@ -32296,7 +32281,8 @@ shapes = (
 ref = b;
 },
 {
-pos = (476,-12);
+alignment = -1;
+pos = (477,-12);
 ref = dotaccentcomb;
 }
 );
@@ -32342,7 +32328,8 @@ shapes = (
 ref = b;
 },
 {
-pos = (476,-12);
+alignment = -1;
+pos = (477,-12);
 ref = dotaccentcomb;
 }
 );
@@ -32647,7 +32634,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (491,0);
+pos = (503,0);
 ref = acutecomb;
 }
 );
@@ -32765,7 +32752,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (491,0);
+pos = (503,0);
 ref = acutecomb;
 }
 );
@@ -32795,7 +32782,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (595,0);
+pos = (597,30);
 ref = caroncomb;
 }
 );
@@ -32841,7 +32828,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (595,0);
+pos = (597,30);
 ref = caroncomb;
 }
 );
@@ -32944,8 +32931,8 @@ shapes = (
 ref = c.001;
 },
 {
-pos = (120,-9);
-ref = cedilla;
+pos = (430,0);
+ref = cedillacomb;
 }
 );
 width = 516;
@@ -33057,8 +33044,8 @@ shapes = (
 ref = c.001;
 },
 {
-pos = (120,-9);
-ref = cedilla;
+pos = (430,0);
+ref = cedillacomb;
 }
 );
 width = 516;
@@ -33079,7 +33066,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (526,0);
+pos = (534,0);
 ref = circumflexcomb;
 }
 );
@@ -33125,7 +33112,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (526,0);
+pos = (534,0);
 ref = circumflexcomb;
 }
 );
@@ -33155,7 +33142,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (406,-23);
+pos = (404,-20);
 ref = dotaccentcomb;
 }
 );
@@ -33201,7 +33188,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (406,-23);
+pos = (404,-20);
 ref = dotaccentcomb;
 }
 );
@@ -33951,6 +33938,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = d;
 },
 {
@@ -33997,6 +33985,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = d;
 },
 {
@@ -34030,7 +34019,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (696,-70);
+alignment = -1;
+pos = (696,-71);
 ref = macroncomb;
 }
 );
@@ -34076,7 +34066,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (696,-70);
+alignment = -1;
+pos = (696,-71);
 ref = macroncomb;
 }
 );
@@ -34106,7 +34097,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (361,-26);
+alignment = -1;
+pos = (360,-22);
 ref = dotaccentcomb;
 }
 );
@@ -34152,7 +34144,8 @@ shapes = (
 ref = d;
 },
 {
-pos = (361,-26);
+alignment = -1;
+pos = (360,-22);
 ref = dotaccentcomb;
 }
 );
@@ -34555,11 +34548,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (13,4);
 ref = e;
 },
 {
-pos = (500,0);
+pos = (478,0);
 ref = acutecomb;
 }
 );
@@ -34571,7 +34563,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 498;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -34696,11 +34688,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (13,4);
 ref = e;
 },
 {
-pos = (500,0);
+pos = (478,0);
 ref = acutecomb;
 }
 );
@@ -34712,7 +34703,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 509;
+width = 498;
 }
 );
 unicode = 233;
@@ -34730,7 +34721,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (480,19);
+pos = (466,30);
 ref = brevecomb;
 }
 );
@@ -34776,7 +34767,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (480,19);
+pos = (466,30);
 ref = brevecomb;
 }
 );
@@ -34806,7 +34797,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (560,2);
+pos = (572,30);
 ref = caroncomb;
 }
 );
@@ -34852,7 +34843,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (560,2);
+pos = (572,30);
 ref = caroncomb;
 }
 );
@@ -34879,15 +34870,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-5,-15);
 ref = e;
 },
 {
-pos = (511,0);
+pos = (509,0);
 ref = circumflexcomb;
 }
 );
-width = 480;
+width = 498;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -35045,11 +35035,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-5,-15);
 ref = e;
 },
 {
-pos = (511,0);
+pos = (509,0);
 ref = circumflexcomb;
 }
 );
@@ -35061,7 +35050,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 480;
+width = 498;
 }
 );
 unicode = 234;
@@ -35079,7 +35068,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (418,0);
+pos = (433,-20);
 ref = dieresiscomb;
 }
 );
@@ -35248,7 +35237,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (418,0);
+pos = (433,-20);
 ref = dieresiscomb;
 }
 );
@@ -35278,7 +35267,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (371,2);
+pos = (379,-20);
 ref = dotaccentcomb;
 }
 );
@@ -35324,7 +35313,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (371,2);
+pos = (379,-20);
 ref = dotaccentcomb;
 }
 );
@@ -35773,7 +35762,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (505,-31);
+pos = (531,-20);
 ref = macroncomb;
 }
 );
@@ -35819,7 +35808,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (505,-31);
+pos = (531,-20);
 ref = macroncomb;
 }
 );
@@ -36883,7 +36872,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (471,182);
+pos = (464,205);
 ref = dotaccentcomb;
 }
 );
@@ -36929,7 +36918,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (471,182);
+pos = (464,205);
 ref = dotaccentcomb;
 }
 );
@@ -37434,7 +37423,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (546,-7);
+pos = (511,30);
 ref = brevecomb;
 }
 );
@@ -37480,7 +37469,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (546,-7);
+pos = (511,30);
 ref = brevecomb;
 }
 );
@@ -37510,7 +37499,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (585,0);
+pos = (554,0);
 ref = circumflexcomb;
 }
 );
@@ -37556,7 +37545,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (585,0);
+pos = (554,0);
 ref = circumflexcomb;
 }
 );
@@ -37586,7 +37575,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (591,-61);
+pos = (599,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -37632,7 +37621,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (591,-61);
+pos = (599,0);
 ref = commaturnedabovecomb;
 }
 );
@@ -37662,7 +37651,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (449,-16);
+pos = (424,-20);
 ref = dotaccentcomb;
 }
 );
@@ -37708,7 +37697,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (449,-16);
+pos = (424,-20);
 ref = dotaccentcomb;
 }
 );
@@ -38087,7 +38076,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (470,-50);
+alignment = -1;
+pos = (470,-51);
 ref = macroncomb;
 }
 );
@@ -38241,7 +38231,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (470,-50);
+alignment = -1;
+pos = (470,-51);
 ref = macroncomb;
 }
 );
@@ -38261,7 +38252,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (583,239);
+pos = (414,250);
 ref = circumflexcomb;
 }
 );
@@ -38307,7 +38298,7 @@ shapes = (
 ref = h;
 },
 {
-pos = (583,239);
+pos = (414,250);
 ref = circumflexcomb;
 }
 );
@@ -38806,11 +38797,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-18,0);
 ref = idotless;
 },
 {
-pos = (337,0);
+pos = (355,0);
 ref = acutecomb;
 }
 );
@@ -38822,7 +38812,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 240;
+width = 290;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -38903,11 +38893,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-18,0);
 ref = idotless;
 },
 {
-pos = (337,0);
+pos = (355,0);
 ref = acutecomb;
 }
 );
@@ -38919,7 +38908,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 240;
+width = 290;
 }
 );
 unicode = 237;
@@ -38937,7 +38926,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (337,0);
+pos = (343,30);
 ref = brevecomb;
 }
 );
@@ -38983,7 +38972,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (337,0);
+pos = (343,30);
 ref = brevecomb;
 }
 );
@@ -39013,7 +39002,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (457,0);
+pos = (449,30);
 ref = caroncomb;
 }
 );
@@ -39059,7 +39048,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (457,0);
+pos = (449,30);
 ref = caroncomb;
 }
 );
@@ -39089,7 +39078,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (375,0);
+pos = (386,0);
 ref = circumflexcomb;
 }
 );
@@ -39135,7 +39124,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (375,0);
+pos = (386,0);
 ref = circumflexcomb;
 }
 );
@@ -39165,7 +39154,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (294,0);
+pos = (310,-20);
 ref = dieresiscomb;
 }
 );
@@ -39211,7 +39200,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (294,0);
+pos = (310,-20);
 ref = dieresiscomb;
 }
 );
@@ -39241,7 +39230,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (358,-2);
+pos = (373,0);
 ref = gravecomb;
 }
 );
@@ -39287,7 +39276,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (358,-2);
+pos = (373,0);
 ref = gravecomb;
 }
 );
@@ -39315,11 +39304,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (237,0);
+pos = (240,0);
 ref = j;
 }
 );
-width = 532;
+width = 556;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -39477,7 +39466,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (237,0);
+pos = (240,0);
 ref = j;
 }
 );
@@ -39489,7 +39478,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 532;
+width = 556;
 }
 );
 unicode = 307;
@@ -39507,7 +39496,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (399,-44);
+pos = (408,-20);
 ref = macroncomb;
 }
 );
@@ -39553,7 +39542,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (399,-44);
+pos = (408,-20);
 ref = macroncomb;
 }
 );
@@ -39659,7 +39648,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (398,-2);
+pos = (418,0);
 ref = tildecomb;
 }
 );
@@ -39705,7 +39694,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (398,-2);
+pos = (418,0);
 ref = tildecomb;
 }
 );
@@ -40356,7 +40345,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (385,9);
+pos = (395,-1);
 ref = circumflexcomb;
 }
 );
@@ -40402,7 +40391,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (385,9);
+pos = (395,-1);
 ref = circumflexcomb;
 }
 );
@@ -40842,7 +40831,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (436,7);
+pos = (420,-70);
 ref = commaaccentcomb;
 }
 );
@@ -40888,7 +40877,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (436,7);
+pos = (420,-70);
 ref = commaaccentcomb;
 }
 );
@@ -41462,7 +41451,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (349,262);
+pos = (349,250);
 ref = acutecomb;
 }
 );
@@ -41508,7 +41497,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (349,262);
+pos = (349,250);
 ref = acutecomb;
 }
 );
@@ -41536,6 +41525,7 @@ color = 6;
 layerId = master01;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
@@ -41582,6 +41572,7 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
@@ -41615,7 +41606,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (305,-70);
+pos = (250,-70);
 ref = commaaccentcomb;
 }
 );
@@ -41661,7 +41652,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (305,-70);
+pos = (250,-70);
 ref = commaaccentcomb;
 }
 );
@@ -42639,7 +42630,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (571,-44);
+pos = (554,-40);
 ref = dotaccentcomb;
 }
 );
@@ -42685,7 +42676,7 @@ shapes = (
 ref = m;
 },
 {
-pos = (571,-44);
+pos = (554,-40);
 ref = dotaccentcomb;
 }
 );
@@ -43092,7 +43083,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (524,-17);
+pos = (533,0);
 ref = acutecomb;
 }
 );
@@ -43138,7 +43129,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (524,-17);
+pos = (533,0);
 ref = acutecomb;
 }
 );
@@ -43251,7 +43242,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (645,-13);
+pos = (627,30);
 ref = caroncomb;
 }
 );
@@ -43297,7 +43288,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (645,-13);
+pos = (627,30);
 ref = caroncomb;
 }
 );
@@ -43327,7 +43318,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (446,-47);
+pos = (401,-70);
 ref = commaaccentcomb;
 }
 );
@@ -43373,7 +43364,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (446,-47);
+pos = (401,-70);
 ref = commaaccentcomb;
 }
 );
@@ -43403,7 +43394,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (577,-10);
+pos = (596,0);
 ref = tildecomb;
 }
 );
@@ -43570,7 +43561,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (577,-10);
+pos = (596,0);
 ref = tildecomb;
 }
 );
@@ -44185,7 +44176,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (496,2);
+pos = (503,0);
 ref = acutecomb;
 }
 );
@@ -44197,7 +44188,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44231,7 +44222,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (496,2);
+pos = (503,0);
 ref = acutecomb;
 }
 );
@@ -44243,7 +44234,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 243;
@@ -44261,7 +44252,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (523,19);
+pos = (491,30);
 ref = brevecomb;
 }
 );
@@ -44273,7 +44264,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44307,7 +44298,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (523,19);
+pos = (491,30);
 ref = brevecomb;
 }
 );
@@ -44319,7 +44310,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 335;
@@ -44337,7 +44328,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (609,0);
+pos = (597,30);
 ref = caroncomb;
 }
 );
@@ -44383,7 +44374,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (609,0);
+pos = (597,30);
 ref = caroncomb;
 }
 );
@@ -44413,7 +44404,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (517,2);
+pos = (534,0);
 ref = circumflexcomb;
 }
 );
@@ -44425,7 +44416,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44459,7 +44450,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (517,2);
+pos = (534,0);
 ref = circumflexcomb;
 }
 );
@@ -44471,7 +44462,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 244;
@@ -44486,11 +44477,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (0,18);
 ref = o;
 },
 {
-pos = (457,-18);
+pos = (458,-20);
 ref = dieresiscomb;
 }
 );
@@ -44502,7 +44492,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -44643,11 +44633,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (0,18);
 ref = o;
 },
 {
-pos = (457,-18);
+pos = (458,-20);
 ref = dieresiscomb;
 }
 );
@@ -44659,7 +44648,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 246;
@@ -44674,15 +44663,15 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (0,18);
 ref = o;
 },
 {
-pos = (457,-18);
+pos = (458,-20);
 ref = dieresiscomb;
 },
 {
-pos = (509,184);
+alignment = -1;
+pos = (521,165);
 ref = gravecomb;
 }
 );
@@ -44694,7 +44683,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44725,15 +44714,15 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (0,18);
 ref = o;
 },
 {
-pos = (457,-18);
+pos = (458,-20);
 ref = dieresiscomb;
 },
 {
-pos = (509,184);
+alignment = -1;
+pos = (521,165);
 ref = gravecomb;
 }
 );
@@ -44745,7 +44734,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 },
@@ -44762,7 +44751,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (500,0);
+pos = (521,0);
 ref = gravecomb;
 }
 );
@@ -44774,7 +44763,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44808,7 +44797,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (500,0);
+pos = (521,0);
 ref = gravecomb;
 }
 );
@@ -44820,7 +44809,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 242;
@@ -44838,7 +44827,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (621,-19);
+pos = (610,0);
 ref = hungarumlautcomb;
 }
 );
@@ -44850,7 +44839,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44884,7 +44873,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (621,-19);
+pos = (610,0);
 ref = hungarumlautcomb;
 }
 );
@@ -44896,7 +44885,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 337;
@@ -44914,7 +44903,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (548,-31);
+pos = (556,-20);
 ref = macroncomb;
 }
 );
@@ -44926,7 +44915,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -44960,7 +44949,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (548,-31);
+pos = (556,-20);
 ref = macroncomb;
 }
 );
@@ -44972,7 +44961,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 333;
@@ -45255,15 +45244,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (74,32);
 ref = o;
 },
 {
-pos = (154,-88);
+pos = (66,-141);
 ref = slash;
 }
 );
-width = 707;
+width = 574;
 }
 );
 unicode = 248;
@@ -45325,7 +45313,7 @@ shapes = (
 ref = oslash;
 },
 {
-pos = (579,27);
+pos = (503,0);
 ref = acutecomb;
 }
 );
@@ -45337,7 +45325,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 707;
+width = 574;
 }
 );
 unicode = 511;
@@ -45355,7 +45343,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (540,0);
+pos = (566,0);
 ref = tildecomb;
 }
 );
@@ -45367,7 +45355,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -45401,7 +45389,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (540,0);
+pos = (566,0);
 ref = tildecomb;
 }
 );
@@ -45413,7 +45401,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 245;
@@ -46261,7 +46249,7 @@ shapes = (
 ref = p;
 },
 {
-pos = (448,-16);
+pos = (454,-20);
 ref = dotaccentcomb;
 }
 );
@@ -46307,7 +46295,7 @@ shapes = (
 ref = p;
 },
 {
-pos = (448,-16);
+pos = (454,-20);
 ref = dotaccentcomb;
 }
 );
@@ -47363,7 +47351,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (450,-15);
+pos = (482,0);
 ref = acutecomb;
 }
 );
@@ -47409,7 +47397,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (450,-15);
+pos = (482,0);
 ref = acutecomb;
 }
 );
@@ -47439,7 +47427,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (557,-12);
+pos = (576,30);
 ref = caroncomb;
 }
 );
@@ -47485,7 +47473,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (557,-12);
+pos = (576,30);
 ref = caroncomb;
 }
 );
@@ -47515,7 +47503,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (295,-70);
+pos = (233,-70);
 ref = commaaccentcomb;
 }
 );
@@ -47561,7 +47549,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (295,-70);
+pos = (233,-70);
 ref = commaaccentcomb;
 }
 );
@@ -48353,7 +48341,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (445,0);
+pos = (440,0);
 ref = acutecomb;
 }
 );
@@ -48399,7 +48387,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (445,0);
+pos = (440,0);
 ref = acutecomb;
 }
 );
@@ -48426,11 +48414,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (38,0);
 ref = s;
 },
 {
-pos = (543,0);
+pos = (534,30);
 ref = caroncomb;
 }
 );
@@ -48442,7 +48429,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 454;
+width = 395;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -48570,11 +48557,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (38,0);
 ref = s;
 },
 {
-pos = (543,0);
+pos = (534,30);
 ref = caroncomb;
 }
 );
@@ -48586,7 +48572,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 454;
+width = 395;
 }
 );
 unicode = 353;
@@ -48604,7 +48590,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (300,18);
+pos = (310,0);
 ref = cedillacomb;
 }
 );
@@ -48747,7 +48733,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (300,18);
+pos = (310,0);
 ref = cedillacomb;
 }
 );
@@ -48777,7 +48763,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (466,0);
+pos = (471,0);
 ref = circumflexcomb;
 }
 );
@@ -48823,7 +48809,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (466,0);
+pos = (471,0);
 ref = circumflexcomb;
 }
 );
@@ -48853,7 +48839,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (347,-44);
+pos = (276,-70);
 ref = commaaccentcomb;
 }
 );
@@ -48899,7 +48885,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (347,-44);
+pos = (276,-70);
 ref = commaaccentcomb;
 }
 );
@@ -48927,7 +48913,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (346,-10);
+pos = (341,-20);
 ref = dotaccentcomb;
 }
 );
@@ -48973,7 +48959,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (346,-10);
+pos = (341,-20);
 ref = dotaccentcomb;
 }
 );
@@ -49641,7 +49627,7 @@ pos = (256,0);
 },
 {
 name = top;
-pos = (199,750);
+pos = (209,624);
 }
 );
 layerId = master01;
@@ -49804,11 +49790,11 @@ width = 429;
 anchors = (
 {
 name = bottom;
-pos = (175,0);
+pos = (256,0);
 },
 {
 name = top;
-pos = (199,750);
+pos = (209,624);
 }
 );
 background = {
@@ -50465,7 +50451,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (109,-30);
+pos = (115,-26);
 ref = cedilla;
 }
 );
@@ -50601,8 +50587,8 @@ shapes = (
 ref = t;
 },
 {
-pos = (109,-30);
-ref = cedilla;
+pos = (410,0);
+ref = cedillacomb;
 }
 );
 width = 429;
@@ -50624,7 +50610,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (329,-93);
+pos = (376,-70);
 ref = commaaccentcomb;
 }
 );
@@ -50670,7 +50656,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (329,-93);
+pos = (376,-70);
 ref = commaaccentcomb;
 }
 );
@@ -50701,7 +50687,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (308,124);
+pos = (313,104);
 ref = dotaccentcomb;
 }
 );
@@ -50747,7 +50733,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (308,124);
+pos = (313,104);
 ref = dotaccentcomb;
 }
 );
@@ -50786,19 +50772,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(86,390,o),
-(61,301,o),
-(56,180,cs),
-(51,60,o),
-(114,-24,o),
-(221,-24,cs),
-(308,-24,o),
-(441,32,o),
-(506,343,c),
-(471,346,l),
-(440,99,o),
-(454,-40,o),
-(553,-40,cs),
 (574,-40,o),
 (597,-34,o),
 (620,-24,cs),
@@ -50822,11 +50795,9 @@ nodes = (
 (464,491,o),
 (458,453,cs),
 (427,236,o),
-(337,72,o),
-(220,72,cs),
-(214,72,o),
-(194,72,o),
-(168,72,o),
+(338,72,o),
+(221,72,cs),
+(166,72,o),
 (151,125,o),
 (156,184,cs),
 (165,301,o),
@@ -50837,7 +50808,20 @@ nodes = (
 (160,530,cs),
 (140,530,o),
 (116,517,o),
-(109,488,cs)
+(109,488,cs),
+(86,390,o),
+(61,301,o),
+(56,180,cs),
+(51,60,o),
+(114,-24,o),
+(221,-24,cs),
+(308,-24,o),
+(441,32,o),
+(506,343,c),
+(471,346,l),
+(440,99,o),
+(454,-40,o),
+(553,-40,cs)
 );
 }
 );
@@ -51143,7 +51127,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (531,-18);
+pos = (539,0);
 ref = acutecomb;
 }
 );
@@ -51296,7 +51280,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (531,-18);
+pos = (539,0);
 ref = acutecomb;
 }
 );
@@ -51326,7 +51310,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (550,-3);
+pos = (527,30);
 ref = brevecomb;
 }
 );
@@ -51372,7 +51356,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (550,-3);
+pos = (527,30);
 ref = brevecomb;
 }
 );
@@ -51402,7 +51386,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (652,0);
+pos = (633,30);
 ref = caroncomb;
 }
 );
@@ -51448,7 +51432,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (652,0);
+pos = (633,30);
 ref = caroncomb;
 }
 );
@@ -51478,7 +51462,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (581,19);
+pos = (570,0);
 ref = circumflexcomb;
 }
 );
@@ -51677,7 +51661,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (497,-7);
+pos = (494,-20);
 ref = dieresiscomb;
 }
 );
@@ -51860,7 +51844,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (497,-7);
+pos = (494,-20);
 ref = dieresiscomb;
 }
 );
@@ -51890,11 +51874,12 @@ shapes = (
 ref = u;
 },
 {
-pos = (496,-72);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
-pos = (566,101);
+alignment = -1;
+pos = (570,164);
 ref = acutecomb;
 }
 );
@@ -51945,11 +51930,12 @@ shapes = (
 ref = u;
 },
 {
-pos = (496,-72);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
-pos = (566,101);
+alignment = -1;
+pos = (570,164);
 ref = acutecomb;
 }
 );
@@ -51979,7 +51965,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (489,-67);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
@@ -52034,7 +52020,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (489,-67);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
@@ -52068,7 +52054,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (487,-54);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
@@ -52123,7 +52109,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (487,-54);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
@@ -52157,11 +52143,12 @@ shapes = (
 ref = u;
 },
 {
-pos = (487,-51);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
-pos = (622,117);
+alignment = -1;
+pos = (628,141);
 ref = macroncomb;
 }
 );
@@ -52212,11 +52199,12 @@ shapes = (
 ref = u;
 },
 {
-pos = (487,-51);
+pos = (494,-20);
 ref = dieresiscomb;
 },
 {
-pos = (622,117);
+alignment = -1;
+pos = (628,141);
 ref = macroncomb;
 }
 );
@@ -52246,7 +52234,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (566,0);
+pos = (557,0);
 ref = gravecomb;
 }
 );
@@ -52400,7 +52388,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (566,0);
+pos = (557,0);
 ref = gravecomb;
 }
 );
@@ -52430,7 +52418,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (628,-34);
+pos = (646,0);
 ref = hungarumlautcomb;
 }
 );
@@ -52476,7 +52464,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (628,-34);
+pos = (646,0);
 ref = hungarumlautcomb;
 }
 );
@@ -52506,7 +52494,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (621,-20);
+pos = (592,-20);
 ref = macroncomb;
 }
 );
@@ -52552,7 +52540,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (621,-20);
+pos = (592,-20);
 ref = macroncomb;
 }
 );
@@ -52658,7 +52646,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (559,-7);
+pos = (545,20);
 ref = ringcomb;
 }
 );
@@ -52704,7 +52692,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (559,-7);
+pos = (545,20);
 ref = ringcomb;
 }
 );
@@ -52734,7 +52722,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (620,-9);
+pos = (602,0);
 ref = tildecomb;
 }
 );
@@ -52780,7 +52768,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (620,-9);
+pos = (602,0);
 ref = tildecomb;
 }
 );
@@ -53560,7 +53548,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (591,-17);
+pos = (615,0);
 ref = acutecomb;
 }
 );
@@ -53606,7 +53594,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (591,-17);
+pos = (615,0);
 ref = acutecomb;
 }
 );
@@ -53636,7 +53624,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (642,-20);
+pos = (646,0);
 ref = circumflexcomb;
 }
 );
@@ -53682,7 +53670,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (642,-20);
+pos = (646,0);
 ref = circumflexcomb;
 }
 );
@@ -53712,7 +53700,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (553,-27);
+pos = (570,-20);
 ref = dieresiscomb;
 }
 );
@@ -53758,7 +53746,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (553,-27);
+pos = (570,-20);
 ref = dieresiscomb;
 }
 );
@@ -53788,7 +53776,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (638,-26);
+pos = (633,0);
 ref = gravecomb;
 }
 );
@@ -53834,7 +53822,7 @@ shapes = (
 ref = w;
 },
 {
-pos = (638,-26);
+pos = (633,0);
 ref = gravecomb;
 }
 );
@@ -54260,7 +54248,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (398,-15);
+pos = (389,-20);
 ref = dotaccentcomb;
 }
 );
@@ -54306,7 +54294,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (398,-15);
+pos = (389,-20);
 ref = dotaccentcomb;
 }
 );
@@ -54749,11 +54737,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (34,11);
 ref = y;
 },
 {
-pos = (539,0);
+pos = (483,0);
 ref = acutecomb;
 }
 );
@@ -54765,7 +54752,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 664;
+width = 597;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -54897,11 +54884,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (34,11);
 ref = y;
 },
 {
-pos = (539,0);
+pos = (483,0);
 ref = acutecomb;
 }
 );
@@ -54913,7 +54899,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 664;
+width = 597;
 }
 );
 unicode = 253;
@@ -54931,7 +54917,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (544,-12);
+pos = (514,0);
 ref = circumflexcomb;
 }
 );
@@ -54977,7 +54963,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (544,-12);
+pos = (514,0);
 ref = circumflexcomb;
 }
 );
@@ -55004,11 +54990,10 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (34,11);
 ref = y;
 },
 {
-pos = (488,0);
+pos = (438,-20);
 ref = dieresiscomb;
 }
 );
@@ -55020,7 +55005,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 669;
+width = 597;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -55171,11 +55156,10 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (34,11);
 ref = y;
 },
 {
-pos = (488,0);
+pos = (438,-20);
 ref = dieresiscomb;
 }
 );
@@ -55187,7 +55171,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 669;
+width = 597;
 }
 );
 unicode = 255;
@@ -55205,7 +55189,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (530,-17);
+pos = (501,0);
 ref = gravecomb;
 }
 );
@@ -55251,7 +55235,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (530,-17);
+pos = (501,0);
 ref = gravecomb;
 }
 );
@@ -55656,7 +55640,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (498,5);
+pos = (493,0);
 ref = acutecomb;
 }
 );
@@ -55702,7 +55686,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (498,5);
+pos = (493,0);
 ref = acutecomb;
 }
 );
@@ -55732,7 +55716,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (603,0);
+pos = (587,30);
 ref = caroncomb;
 }
 );
@@ -55778,7 +55762,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (603,0);
+pos = (587,30);
 ref = caroncomb;
 }
 );
@@ -55808,7 +55792,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (399,5);
+pos = (394,-20);
 ref = dotaccentcomb;
 }
 );
@@ -55854,7 +55838,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (399,5);
+pos = (394,-20);
 ref = dotaccentcomb;
 }
 );
@@ -57804,6 +57788,16 @@ nodes = (
 width = 516;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (276,0);
+},
+{
+name = top;
+pos = (300,500);
+}
+);
 background = {
 shapes = (
 {
@@ -58007,7 +58001,7 @@ pos = (258,0);
 },
 {
 name = top;
-pos = (229,750);
+pos = (233,624);
 }
 );
 layerId = master01;
@@ -58068,6 +58062,16 @@ nodes = (
 width = 429;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (258,0);
+},
+{
+name = top;
+pos = (233,624);
+}
+);
 background = {
 shapes = (
 {
@@ -58671,7 +58675,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (96,0);
+pos = (117,-26);
 ref = cedilla;
 }
 );
@@ -58685,7 +58689,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (96,0);
+pos = (117,-26);
 ref = cedilla;
 }
 );
@@ -58717,7 +58721,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (345,-93);
+pos = (378,-70);
 ref = commaaccentcomb;
 }
 );
@@ -58731,7 +58735,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (345,-93);
+pos = (378,-70);
 ref = commaaccentcomb;
 }
 );
@@ -58768,7 +58772,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (344,124);
+pos = (337,104);
 ref = dotaccentcomb;
 }
 );
@@ -58782,7 +58786,7 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (344,124);
+pos = (337,104);
 ref = dotaccentcomb;
 }
 );
@@ -63200,7 +63204,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (466,0);
+pos = (480,0);
 ref = l;
 }
 );
@@ -63212,7 +63216,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 758;
+width = 773;
 },
 {
 color = 6;
@@ -63246,7 +63250,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (466,0);
+pos = (480,0);
 ref = l;
 }
 );
@@ -63258,7 +63262,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 758;
+width = 773;
 }
 );
 },
@@ -64545,7 +64549,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (466,0);
+pos = (480,0);
 ref = l;
 }
 );
@@ -64557,7 +64561,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 758;
+width = 773;
 },
 {
 color = 6;
@@ -64591,7 +64595,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (466,0);
+pos = (480,0);
 ref = l;
 }
 );
@@ -64603,7 +64607,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 758;
+width = 773;
 }
 );
 unicode = 64258;
@@ -70471,11 +70475,11 @@ shapes = (
 ref = longs;
 },
 {
-pos = (267,0);
+pos = (400,0);
 ref = idotless;
 }
 );
-width = 551;
+width = 690;
 },
 {
 layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
@@ -70583,11 +70587,11 @@ shapes = (
 ref = longs;
 },
 {
-pos = (267,0);
+pos = (400,0);
 ref = idotless;
 }
 );
-width = 551;
+width = 690;
 }
 );
 },
@@ -71729,11 +71733,11 @@ pos = (685,13);
 },
 {
 name = top;
-pos = (199,739);
+pos = (209,624);
 },
 {
 name = top2;
-pos = (656,763);
+pos = (656,646);
 }
 );
 background = {
@@ -71957,7 +71961,7 @@ nodes = (
 (129,264,o),
 (133,392,q),
 (53,381,ls),
-(10,374,o),
+(10,375,o),
 (-24,404,o),
 (-24,424,qs),
 (-24,463,o),
@@ -71965,7 +71969,7 @@ nodes = (
 (71,484,o),
 (138,492,q),
 (144,595,ls),
-(145,623,o),
+(146,623,o),
 (175,653,o),
 (196,653,qs),
 (215,653,o),
@@ -71975,7 +71979,7 @@ nodes = (
 (391,520,o),
 (596,528,q),
 (601,619,ls),
-(602,647,o),
+(603,647,o),
 (632,677,o),
 (653,677,qs),
 (672,677,o),
@@ -78180,7 +78184,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 541;
+width = 600;
 },
 {
 color = 6;
@@ -78221,7 +78225,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 541;
+width = 600;
 }
 );
 unicode = 1024;
@@ -86829,7 +86833,7 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (553,0);
+pos = (743,0);
 ref = cyrdescender;
 }
 );
@@ -86841,7 +86845,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 743;
+width = 966;
 },
 {
 color = 6;
@@ -86875,7 +86879,7 @@ shapes = (
 ref = "Zhe-cy";
 },
 {
-pos = (553,0);
+pos = (743,0);
 ref = cyrdescender;
 }
 );
@@ -86887,7 +86891,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 743;
+width = 966;
 }
 );
 unicode = 1174;
@@ -86904,7 +86908,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (412,0);
+pos = (582,0);
 ref = cyrdescender;
 }
 );
@@ -86916,7 +86920,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 582;
+width = 805;
 },
 {
 color = 6;
@@ -86950,7 +86954,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (412,0);
+pos = (582,0);
 ref = cyrdescender;
 }
 );
@@ -86962,7 +86966,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 582;
+width = 805;
 }
 );
 unicode = 1178;
@@ -86978,7 +86982,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (432,0);
+pos = (604,0);
 ref = cyrdescender;
 }
 );
@@ -86990,7 +86994,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 604;
+width = 827;
 },
 {
 color = 6;
@@ -87024,7 +87028,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (432,0);
+pos = (604,0);
 ref = cyrdescender;
 }
 );
@@ -87036,7 +87040,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 604;
+width = 827;
 }
 );
 unicode = 1186;
@@ -87425,7 +87429,7 @@ shapes = (
 ref = X;
 },
 {
-pos = (548,24);
+pos = (724,0);
 ref = cyrdescender;
 }
 );
@@ -87437,7 +87441,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 724;
+width = 947;
 },
 {
 color = 6;
@@ -87471,7 +87475,7 @@ shapes = (
 ref = X;
 },
 {
-pos = (548,24);
+pos = (724,0);
 ref = cyrdescender;
 }
 );
@@ -87483,7 +87487,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 724;
+width = 947;
 }
 );
 unicode = 1202;
@@ -87499,7 +87503,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (408,0);
+pos = (581,0);
 ref = cyrdescender;
 }
 );
@@ -87511,7 +87515,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 581;
+width = 804;
 },
 {
 color = 6;
@@ -87545,7 +87549,7 @@ shapes = (
 ref = "Che-cy";
 },
 {
-pos = (408,0);
+pos = (581,0);
 ref = cyrdescender;
 }
 );
@@ -87557,7 +87561,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 581;
+width = 804;
 }
 );
 unicode = 1206;
@@ -90542,7 +90546,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-11,0);
 ref = g;
 }
 );
@@ -90554,7 +90557,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 602;
+width = 613;
 },
 {
 color = 6;
@@ -90581,7 +90584,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-11,0);
 ref = g;
 }
 );
@@ -90593,7 +90595,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 602;
+width = 613;
 }
 );
 unicode = 1076;
@@ -90784,7 +90786,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (418,0);
+pos = (433,-20);
 ref = dieresiscomb;
 }
 );
@@ -90825,7 +90827,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (418,0);
+pos = (433,-20);
 ref = dieresiscomb;
 }
 );
@@ -92050,7 +92052,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (555,0);
+pos = (557,0);
 ref = gravecomb;
 }
 );
@@ -92096,7 +92098,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (555,0);
+pos = (557,0);
 ref = gravecomb;
 }
 );
@@ -93127,7 +93129,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -93164,7 +93166,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 1086;
@@ -93485,7 +93487,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (498,0);
+pos = (471,30);
 ref = brevecomb;
 }
 );
@@ -93531,7 +93533,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (498,0);
+pos = (471,30);
 ref = brevecomb;
 }
 );
@@ -98015,7 +98017,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (294,0);
+pos = (310,-20);
 ref = dieresiscomb;
 }
 );
@@ -98061,7 +98063,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (294,0);
+pos = (310,-20);
 ref = dieresiscomb;
 }
 );
@@ -99516,7 +99518,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (785,31);
+pos = (940,0);
 ref = cyrdescender;
 }
 );
@@ -99528,7 +99530,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 940;
+width = 1163;
 },
 {
 color = 6;
@@ -99562,7 +99564,7 @@ shapes = (
 ref = "zhe-cy";
 },
 {
-pos = (785,31);
+pos = (940,0);
 ref = cyrdescender;
 }
 );
@@ -99574,7 +99576,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 940;
+width = 1163;
 }
 );
 unicode = 1175;
@@ -99591,7 +99593,7 @@ shapes = (
 ref = kgreenlandic;
 },
 {
-pos = (416,-11);
+pos = (590,0);
 ref = cyrdescender;
 }
 );
@@ -99603,7 +99605,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 590;
+width = 813;
 },
 {
 color = 6;
@@ -99637,7 +99639,7 @@ shapes = (
 ref = kgreenlandic;
 },
 {
-pos = (416,-11);
+pos = (590,0);
 ref = cyrdescender;
 }
 );
@@ -99649,7 +99651,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 590;
+width = 813;
 }
 );
 unicode = 1179;
@@ -99665,7 +99667,7 @@ shapes = (
 ref = "en-cy";
 },
 {
-pos = (504,11);
+pos = (661,0);
 ref = cyrdescender;
 }
 );
@@ -99677,7 +99679,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 661;
+width = 884;
 },
 {
 color = 6;
@@ -99711,7 +99713,7 @@ shapes = (
 ref = "en-cy";
 },
 {
-pos = (504,11);
+pos = (661,0);
 ref = cyrdescender;
 }
 );
@@ -99723,7 +99725,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 661;
+width = 884;
 }
 );
 unicode = 1187;
@@ -100281,7 +100283,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (344,-21);
+pos = (580,0);
 ref = cyrdescender;
 }
 );
@@ -100293,7 +100295,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 580;
+width = 803;
 },
 {
 color = 6;
@@ -100327,7 +100329,7 @@ shapes = (
 ref = x;
 },
 {
-pos = (344,-21);
+pos = (580,0);
 ref = cyrdescender;
 }
 );
@@ -100339,7 +100341,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 580;
+width = 803;
 }
 );
 unicode = 1203;
@@ -100355,7 +100357,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (353,-34);
+pos = (551,0);
 ref = cyrdescender;
 }
 );
@@ -100367,7 +100369,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 551;
+width = 774;
 },
 {
 color = 6;
@@ -100401,7 +100403,7 @@ shapes = (
 ref = "che-cy";
 },
 {
-pos = (353,-34);
+pos = (551,0);
 ref = cyrdescender;
 }
 );
@@ -100413,7 +100415,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 551;
+width = 774;
 }
 );
 unicode = 1207;
@@ -100786,7 +100788,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (621,-21);
+pos = (592,-20);
 ref = macroncomb;
 }
 );
@@ -100832,7 +100834,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (621,-21);
+pos = (592,-20);
 ref = macroncomb;
 }
 );
@@ -101162,7 +101164,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (561,-21);
+pos = (536,-20);
 ref = macroncomb;
 }
 );
@@ -101208,7 +101210,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (561,-21);
+pos = (536,-20);
 ref = macroncomb;
 }
 );
@@ -101356,7 +101358,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (19,0);
 ref = "Ge-cy";
 }
 );
@@ -101368,7 +101369,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 573;
+width = 510;
 },
 {
 color = 6;
@@ -101395,7 +101396,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (19,0);
 ref = "Ge-cy";
 }
 );
@@ -101407,7 +101407,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 573;
+width = 510;
 }
 );
 unicode = 915;
@@ -104386,11 +104386,13 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (71,0);
-ref = A;
+alignment = -1;
+ref = tonos;
 },
 {
-ref = tonos;
+alignment = -1;
+pos = (64,0);
+ref = A;
 }
 );
 userData = {
@@ -104432,11 +104434,13 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (71,0);
-ref = A;
+alignment = -1;
+ref = tonos;
 },
 {
-ref = tonos;
+alignment = -1;
+pos = (64,0);
+ref = A;
 }
 );
 userData = {
@@ -104461,12 +104465,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (188,0);
-ref = E;
+alignment = -1;
+pos = (-2,14);
+ref = tonos;
 },
 {
-pos = (-2,15);
-ref = tonos;
+alignment = -1;
+pos = (186,0);
+ref = E;
 }
 );
 userData = {
@@ -104509,12 +104515,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (188,0);
-ref = E;
+alignment = -1;
+pos = (-2,14);
+ref = tonos;
 },
 {
-pos = (-2,15);
-ref = tonos;
+alignment = -1;
+pos = (186,0);
+ref = E;
 }
 );
 userData = {
@@ -104539,12 +104547,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (181,0);
-ref = H;
-},
-{
+alignment = -1;
 pos = (-3,15);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (181,0);
+ref = H;
 }
 );
 userData = {
@@ -104587,12 +104597,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (181,0);
-ref = H;
-},
-{
+alignment = -1;
 pos = (-3,15);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (181,0);
+ref = H;
 }
 );
 userData = {
@@ -104617,12 +104629,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (140,0);
-ref = I;
-},
-{
+alignment = -1;
 pos = (3,5);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (140,0);
+ref = I;
 }
 );
 userData = {
@@ -104665,12 +104679,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (140,0);
-ref = I;
-},
-{
+alignment = -1;
 pos = (3,5);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (140,0);
+ref = I;
 }
 );
 userData = {
@@ -104695,12 +104711,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (161,0);
-ref = O;
-},
-{
+alignment = -1;
 pos = (4,5);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (161,0);
+ref = O;
 }
 );
 userData = {
@@ -104743,12 +104761,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (161,0);
-ref = O;
-},
-{
+alignment = -1;
 pos = (4,5);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (161,0);
+ref = O;
 }
 );
 userData = {
@@ -104773,12 +104793,14 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (186,0);
-ref = Y;
-},
-{
+alignment = -1;
 pos = (-11,15);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (186,0);
+ref = Y;
 }
 );
 userData = {
@@ -104821,12 +104843,14 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (186,0);
-ref = Y;
-},
-{
+alignment = -1;
 pos = (-11,15);
 ref = tonos;
+},
+{
+alignment = -1;
+pos = (186,0);
+ref = Y;
 }
 );
 userData = {
@@ -104851,11 +104875,13 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-ref = Omega;
-},
-{
+alignment = -1;
 pos = (-156,5);
 ref = tonos;
+},
+{
+alignment = -1;
+ref = Omega;
 }
 );
 userData = {
@@ -104897,11 +104923,13 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-ref = Omega;
-},
-{
+alignment = -1;
 pos = (-156,5);
 ref = tonos;
+},
+{
+alignment = -1;
+ref = Omega;
 }
 );
 userData = {
@@ -108689,7 +108717,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 },
 {
 color = 6;
@@ -108726,7 +108754,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 574;
 }
 );
 unicode = 959;
@@ -111525,14 +111553,14 @@ unicode = 969;
 glyphname = iotatonos;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = iota;
 },
 {
-pos = (99,108);
+pos = (303,0);
 ref = tonos;
 }
 );
@@ -111544,7 +111572,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 303;
+width = 521;
 },
 {
 color = 6;
@@ -111578,7 +111606,7 @@ shapes = (
 ref = iota;
 },
 {
-pos = (99,108);
+pos = (303,0);
 ref = tonos;
 }
 );
@@ -111590,7 +111618,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 303;
+width = 521;
 }
 );
 unicode = 943;
@@ -111599,7 +111627,7 @@ unicode = 943;
 glyphname = iotadieresis;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
@@ -111673,14 +111701,14 @@ unicode = 970;
 glyphname = iotadieresistonos;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = iota;
 },
 {
-pos = (-76,100);
+pos = (303,0);
 ref = dieresistonos;
 }
 );
@@ -111692,7 +111720,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 303;
+width = 898;
 },
 {
 color = 6;
@@ -111726,7 +111754,7 @@ shapes = (
 ref = iota;
 },
 {
-pos = (-76,100);
+pos = (303,0);
 ref = dieresistonos;
 }
 );
@@ -111738,7 +111766,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 303;
+width = 898;
 }
 );
 unicode = 912;
@@ -111749,14 +111777,14 @@ kernLeft = upsilon;
 kernRight = upsilon;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = upsilon;
 },
 {
-pos = (269,91);
+pos = (593,0);
 ref = tonos;
 }
 );
@@ -111768,7 +111796,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 593;
+width = 811;
 },
 {
 color = 6;
@@ -111802,7 +111830,7 @@ shapes = (
 ref = upsilon;
 },
 {
-pos = (269,91);
+pos = (593,0);
 ref = tonos;
 }
 );
@@ -111814,7 +111842,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 593;
+width = 811;
 }
 );
 unicode = 973;
@@ -111825,7 +111853,7 @@ kernLeft = upsilon;
 kernRight = upsilon;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
@@ -111901,14 +111929,14 @@ kernLeft = upsilon;
 kernRight = upsilon;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = upsilon;
 },
 {
-pos = (68,117);
+pos = (593,0);
 ref = dieresistonos;
 }
 );
@@ -111920,7 +111948,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 593;
+width = 1188;
 },
 {
 color = 6;
@@ -111954,7 +111982,7 @@ shapes = (
 ref = upsilon;
 },
 {
-pos = (68,117);
+pos = (593,0);
 ref = dieresistonos;
 }
 );
@@ -111966,7 +111994,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 593;
+width = 1188;
 }
 );
 unicode = 944;
@@ -111977,14 +112005,14 @@ kernLeft = omicron;
 kernRight = omicron;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = o;
 },
 {
-pos = (265,108);
+pos = (574,0);
 ref = tonos;
 }
 );
@@ -111996,7 +112024,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 792;
 },
 {
 color = 6;
@@ -112030,7 +112058,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (265,108);
+pos = (574,0);
 ref = tonos;
 }
 );
@@ -112042,7 +112070,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 572;
+width = 792;
 }
 );
 unicode = 972;
@@ -112053,14 +112081,14 @@ kernLeft = omega;
 kernRight = omega;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = omega;
 },
 {
-pos = (257,91);
+pos = (749,0);
 ref = tonos;
 }
 );
@@ -112072,7 +112100,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 749;
+width = 967;
 },
 {
 color = 6;
@@ -112106,7 +112134,7 @@ shapes = (
 ref = omega;
 },
 {
-pos = (257,91);
+pos = (749,0);
 ref = tonos;
 }
 );
@@ -112118,7 +112146,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 749;
+width = 967;
 }
 );
 unicode = 974;
@@ -112129,14 +112157,14 @@ kernLeft = alpha;
 kernRight = alpha;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = alpha;
 },
 {
-pos = (271,108);
+pos = (627,0);
 ref = tonos;
 }
 );
@@ -112148,7 +112176,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 627;
+width = 845;
 },
 {
 color = 6;
@@ -112182,7 +112210,7 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (271,108);
+pos = (627,0);
 ref = tonos;
 }
 );
@@ -112194,7 +112222,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 627;
+width = 845;
 }
 );
 unicode = 940;
@@ -112205,14 +112233,14 @@ kernLeft = epsilon;
 kernRight = epsilon;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = epsilon;
 },
 {
-pos = (231,109);
+pos = (507,0);
 ref = tonos;
 }
 );
@@ -112224,7 +112252,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 507;
+width = 725;
 },
 {
 color = 6;
@@ -112258,7 +112286,7 @@ shapes = (
 ref = epsilon;
 },
 {
-pos = (231,109);
+pos = (507,0);
 ref = tonos;
 }
 );
@@ -112270,7 +112298,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 507;
+width = 725;
 }
 );
 unicode = 941;
@@ -112281,14 +112309,14 @@ kernLeft = eta;
 kernRight = eta;
 layers = (
 {
-color = 6;
+color = 0;
 layerId = master01;
 shapes = (
 {
 ref = eta;
 },
 {
-pos = (320,84);
+pos = (648,0);
 ref = tonos;
 }
 );
@@ -112300,7 +112328,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 648;
+width = 866;
 },
 {
 color = 6;
@@ -112334,7 +112362,7 @@ shapes = (
 ref = eta;
 },
 {
-pos = (320,84);
+pos = (648,0);
 ref = tonos;
 }
 );
@@ -112346,7 +112374,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 648;
+width = 866;
 }
 );
 unicode = 942;
@@ -122255,7 +122283,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1100;
+width = 1084;
 },
 {
 color = 6;
@@ -122294,7 +122322,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1100;
+width = 1084;
 }
 );
 },
@@ -122306,7 +122334,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (7,0);
 ref = zero_seven.ss03;
 }
 );
@@ -122318,7 +122345,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1100;
+width = 1044;
 },
 {
 color = 6;
@@ -122345,7 +122372,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (7,0);
 ref = zero_seven.ss03;
 }
 );
@@ -122357,7 +122383,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1100;
+width = 1044;
 }
 );
 },
@@ -125572,7 +125598,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-37,0);
 ref = zero;
 }
 );
@@ -125584,7 +125609,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 624;
 },
 {
 color = 6;
@@ -125611,7 +125636,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-37,0);
 ref = zero;
 }
 );
@@ -125623,7 +125647,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 624;
 }
 );
 },
@@ -125635,7 +125659,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-50,0);
 ref = one;
 }
 );
@@ -125647,7 +125670,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 574;
 },
 {
 color = 6;
@@ -125674,7 +125697,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-50,0);
 ref = one;
 }
 );
@@ -125686,7 +125708,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 574;
 }
 );
 },
@@ -125698,7 +125720,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-3,0);
 ref = two;
 }
 );
@@ -125710,7 +125731,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 546;
 },
 {
 color = 6;
@@ -125737,7 +125758,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-3,0);
 ref = two;
 }
 );
@@ -125749,7 +125769,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 546;
 }
 );
 },
@@ -125761,7 +125781,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-15,0);
 ref = three;
 }
 );
@@ -125773,7 +125792,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 562;
 },
 {
 color = 6;
@@ -125800,7 +125819,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-15,0);
 ref = three;
 }
 );
@@ -125812,7 +125830,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 562;
 }
 );
 },
@@ -126089,7 +126107,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (3,0);
 ref = five;
 }
 );
@@ -126101,7 +126118,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 475;
 },
 {
 color = 6;
@@ -126128,7 +126145,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (3,0);
 ref = five;
 }
 );
@@ -126140,7 +126156,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 475;
 }
 );
 },
@@ -126152,7 +126168,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-40,0);
 ref = six;
 }
 );
@@ -126164,7 +126179,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 599;
 },
 {
 color = 6;
@@ -126191,7 +126206,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-40,0);
 ref = six;
 }
 );
@@ -126203,7 +126217,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 599;
 }
 );
 },
@@ -126215,7 +126229,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (22,0);
 ref = seven;
 }
 );
@@ -126227,7 +126240,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 509;
 },
 {
 color = 6;
@@ -126254,7 +126267,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (22,0);
 ref = seven;
 }
 );
@@ -126266,7 +126278,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 509;
 }
 );
 },
@@ -126278,7 +126290,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (-9,0);
 ref = eight;
 }
 );
@@ -126290,7 +126301,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 532;
 },
 {
 color = 6;
@@ -126317,7 +126328,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (-9,0);
 ref = eight;
 }
 );
@@ -126329,7 +126339,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 532;
 }
 );
 },
@@ -126341,7 +126351,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (9,0);
 ref = nine;
 }
 );
@@ -126353,7 +126362,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 514;
 },
 {
 color = 6;
@@ -126380,7 +126389,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (9,0);
 ref = nine;
 }
 );
@@ -126392,7 +126400,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 514;
 }
 );
 },
@@ -126404,7 +126412,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (51,0);
 ref = one.latn_ENG;
 }
 );
@@ -126416,7 +126423,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 395;
 },
 {
 color = 6;
@@ -126443,7 +126450,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (51,0);
 ref = one.latn_ENG;
 }
 );
@@ -126455,7 +126461,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 395;
 }
 );
 },
@@ -126467,7 +126473,6 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-pos = (72,0);
 ref = seven.ss03;
 }
 );
@@ -126479,7 +126484,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 424;
 },
 {
 color = 6;
@@ -126506,7 +126511,6 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-pos = (72,0);
 ref = seven.ss03;
 }
 );
@@ -126518,7 +126522,7 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 550;
+width = 424;
 }
 );
 },
@@ -220289,9 +220293,6 @@ value = "A wonderful font based on the handwriting of Jens Kutilek and destined 
 );
 }
 );
-settings = {
-disablesAutomaticAlignment = 1;
-};
 stems = (
 {
 horizontal = 1;
