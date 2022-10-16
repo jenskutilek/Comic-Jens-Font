@@ -36473,7 +36473,6 @@ name = top;
 pos = (279,725);
 }
 );
-color = 1;
 hints = (
 {
 horizontal = 1;
