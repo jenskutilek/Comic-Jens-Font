@@ -1,5 +1,5 @@
 {
-.appVersion = "3110";
+.appVersion = "3140";
 .formatVersion = 3;
 DisplayStrings = (
 "2022 2021
@@ -2381,7 +2381,7 @@ pos = (1,0);
 ref = A;
 },
 {
-pos = (64,10);
+pos = (65,10);
 ref = ringcomb.case;
 }
 );
@@ -2530,7 +2530,7 @@ pos = (1,0);
 ref = A;
 },
 {
-pos = (64,10);
+pos = (65,10);
 ref = ringcomb.case;
 }
 );
@@ -44513,7 +44513,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (3,0);
+pos = (2,0);
 ref = acutecomb;
 }
 );
@@ -44561,7 +44561,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (3,0);
+pos = (2,0);
 ref = acutecomb;
 }
 );
@@ -44593,7 +44593,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (-9,30);
+pos = (-10,30);
 ref = brevecomb;
 }
 );
@@ -44641,7 +44641,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (-9,30);
+pos = (-10,30);
 ref = brevecomb;
 }
 );
@@ -44749,7 +44749,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (34,0);
+pos = (33,0);
 ref = circumflexcomb;
 }
 );
@@ -44797,7 +44797,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (34,0);
+pos = (33,0);
 ref = circumflexcomb;
 }
 );
@@ -44829,7 +44829,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (-42,-20);
+pos = (-43,-20);
 ref = dieresiscomb;
 }
 );
@@ -44987,7 +44987,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (-42,-20);
+pos = (-43,-20);
 ref = dieresiscomb;
 }
 );
@@ -45096,7 +45096,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (21,0);
+pos = (20,0);
 ref = gravecomb;
 }
 );
@@ -45143,7 +45143,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (21,0);
+pos = (20,0);
 ref = gravecomb;
 }
 );
@@ -45175,7 +45175,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (110,0);
+pos = (109,0);
 ref = hungarumlautcomb;
 }
 );
@@ -45223,7 +45223,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (110,0);
+pos = (109,0);
 ref = hungarumlautcomb;
 }
 );
@@ -45255,7 +45255,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (56,-20);
+pos = (55,-20);
 ref = macroncomb;
 }
 );
@@ -45303,7 +45303,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (56,-20);
+pos = (55,-20);
 ref = macroncomb;
 }
 );
@@ -45817,7 +45817,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (66,0);
+pos = (65,0);
 ref = tildecomb;
 }
 );
@@ -45865,7 +45865,7 @@ pos = (-1,0);
 ref = o;
 },
 {
-pos = (66,0);
+pos = (65,0);
 ref = tildecomb;
 }
 );
