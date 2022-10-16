@@ -225533,6 +225533,9 @@ value = "A wonderful font based on the handwriting of Jens Kutilek and destined 
 );
 }
 );
+settings = {
+snapToObjects = 0;
+};
 stems = (
 {
 horizontal = 1;
