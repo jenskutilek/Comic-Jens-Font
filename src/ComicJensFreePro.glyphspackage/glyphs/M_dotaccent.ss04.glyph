@@ -1,0 +1,45 @@
+{
+color = 9;
+export = 0;
+glyphname = Mdotaccent.ss04;
+layers = (
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+ref = M.ss04;
+},
+{
+ref = dotaccentcomb.case;
+}
+);
+width = 727;
+},
+{
+layerId = master01;
+shapes = (
+{
+ref = M.ss04;
+},
+{
+pos = (-13,10);
+ref = dotaccentcomb.case;
+}
+);
+width = 727;
+},
+{
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+ref = M.ss04;
+},
+{
+pos = (-13,10);
+ref = dotaccentcomb.case;
+}
+);
+width = 727;
+}
+);
+}

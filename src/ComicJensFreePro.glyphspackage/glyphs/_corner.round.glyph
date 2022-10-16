@@ -1,0 +1,56 @@
+{
+export = 0;
+glyphname = _corner.round;
+layers = (
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+width = 200;
+},
+{
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(50,0,ls),
+(14,0,o),
+(0,27,o),
+(0,46,cs),
+(0,65,o),
+(14,92,o),
+(50,92,cs)
+);
+}
+);
+};
+layerId = master01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,48,l),
+(0,19,o),
+(21,0,o),
+(52,0,cs)
+);
+}
+);
+width = 200;
+},
+{
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,48,l),
+(0,19,o),
+(21,0,o),
+(52,0,cs)
+);
+}
+);
+width = 200;
+}
+);
+}

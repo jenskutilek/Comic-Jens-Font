@@ -1,0 +1,188 @@
+{
+glyphname = boxUpDoubleAndHorizontalSingle;
+layers = (
+{
+hints = (
+{
+name = _cap.hor;
+options = 10;
+origin = (0,3);
+scale = (1.08696,-1);
+type = Cap;
+},
+{
+name = _cap.hor;
+options = 10;
+origin = (0,0);
+scale = (1.02174,-1);
+type = Cap;
+},
+{
+name = _cap.hor;
+options = 10;
+origin = (0,10);
+scale = (1.02174,-1);
+type = Cap;
+},
+{
+name = _cap.hor;
+options = 10;
+origin = (0,7);
+scale = (1.08696,-1);
+type = Cap;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,191,l),
+(768,285,l),
+(534,285,l),
+(534,750,l),
+(434,750,l),
+(434,285,l),
+(334,285,l),
+(334,750,l),
+(234,750,l),
+(234,285,l),
+(0,285,l),
+(0,191,l)
+);
+}
+);
+width = 768;
+},
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-27,194,o),
+(-50,222,o),
+(-50,238,q),
+(-50,254,o),
+(-27,282,o),
+(-4,288,q,{
+name = dv02;
+}),
+(235,288,l),
+(235,742,l),
+(235,771,o),
+(265,800,o),
+(284,800,q,{
+name = av01;
+}),
+(301,800,o),
+(329,776,o),
+(334,750,q),
+(334,288,l,{
+name = sv01;
+}),
+(435,288,l),
+(435,742,l),
+(435,771,o),
+(465,800,o),
+(484,800,q,{
+name = av02;
+}),
+(501,800,o),
+(529,776,o),
+(534,750,q),
+(534,288,l,{
+name = sv02;
+}),
+(764,288,l),
+(791,286,o),
+(818,255,o),
+(818,238,q),
+(818,220,o),
+(791,190,o),
+(764,188,q),
+(-4,188,l,{
+name = dv01;
+})
+);
+}
+);
+width = 768;
+},
+{
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,26);
+target = (0,21);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,26);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,21);
+target = (0,13);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,13);
+target = (0,5);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,9);
+target = (0,17);
+type = TTShift;
+}
+);
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-25,191,o),
+(-50,221,o),
+(-50,255,o),
+(-25,285,o),
+(0,285,qs),
+(234,285,l),
+(234,750,ls),
+(234,775,o),
+(265,800,o),
+(303,800,o),
+(334,775,o),
+(334,750,qs),
+(334,285,l),
+(434,285,l),
+(434,750,ls),
+(434,775,o),
+(465,800,o),
+(503,800,o),
+(534,775,o),
+(534,750,qs),
+(534,285,l),
+(768,285,ls),
+(793,285,o),
+(818,255,o),
+(818,221,o),
+(793,191,o),
+(768,191,qs),
+(0,191,ls)
+);
+}
+);
+width = 768;
+}
+);
+unicode = 9576;
+}

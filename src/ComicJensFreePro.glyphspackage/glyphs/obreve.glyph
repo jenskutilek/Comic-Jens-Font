@@ -1,0 +1,80 @@
+{
+glyphname = obreve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+color = 6;
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = o;
+},
+{
+pos = (-10,30);
+ref = brevecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.995,
+1,
+1
+);
+};
+width = 572;
+},
+{
+color = 6;
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (23,19);
+ref = brevecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 572;
+},
+{
+color = 6;
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = o;
+},
+{
+pos = (-10,30);
+ref = brevecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 572;
+}
+);
+unicode = 335;
+}

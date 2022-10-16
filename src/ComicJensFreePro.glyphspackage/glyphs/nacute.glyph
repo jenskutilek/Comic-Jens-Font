@@ -1,0 +1,76 @@
+{
+glyphname = nacute;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+color = 6;
+layerId = master01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (33,0);
+ref = acutecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.995,
+1,
+1
+);
+};
+width = 629;
+},
+{
+color = 6;
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (24,-17);
+ref = acutecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 629;
+},
+{
+color = 6;
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (33,0);
+ref = acutecomb;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 629;
+}
+);
+unicode = 324;
+}

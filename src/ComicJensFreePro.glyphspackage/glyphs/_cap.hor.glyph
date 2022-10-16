@@ -1,0 +1,80 @@
+{
+export = 0;
+glyphname = _cap.hor;
+layers = (
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+width = 100;
+},
+{
+anchors = (
+{
+name = left;
+pos = (-50,0);
+},
+{
+name = node1;
+},
+{
+name = node2;
+pos = (0,92);
+},
+{
+name = right;
+pos = (-50,92);
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,0,ls),
+(36,0,o),
+(50,27,o),
+(50,46,cs),
+(50,65,o),
+(36,92,o),
+(0,92,cs)
+);
+}
+);
+width = 100;
+},
+{
+anchors = (
+{
+name = left;
+pos = (-50,0);
+},
+{
+name = node1;
+},
+{
+name = node2;
+pos = (0,92);
+},
+{
+name = right;
+pos = (-50,92);
+}
+);
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,0,ls),
+(36,0,o),
+(50,27,o),
+(50,46,cs),
+(50,65,o),
+(36,92,o),
+(0,92,cs)
+);
+}
+);
+width = 100;
+}
+);
+}

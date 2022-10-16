@@ -1,0 +1,110 @@
+{
+glyphname = Aringacute;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+color = 6;
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (55,-89);
+ref = ringcomb.case;
+},
+{
+alignment = -1;
+pos = (222,96);
+ref = acutecomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.995,
+1,
+1
+);
+};
+width = 654;
+},
+{
+color = 6;
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+ref = Aring;
+},
+{
+alignment = -1;
+pos = (267,96);
+ref = acutecomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1024;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 654;
+},
+{
+color = 6;
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = A;
+},
+{
+alignment = -1;
+pos = (55,-89);
+ref = ringcomb.case;
+},
+{
+alignment = -1;
+pos = (222,96);
+ref = acutecomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1024;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 654;
+}
+);
+unicode = 506;
+}

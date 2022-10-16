@@ -1,0 +1,76 @@
+{
+glyphname = "Umacron-cy";
+kernLeft = afii10037;
+kernRight = afii10037;
+layers = (
+{
+color = 6;
+layerId = master01;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (49,-14);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.995,
+1,
+1
+);
+};
+width = 568;
+},
+{
+color = 6;
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (62,15);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 568;
+},
+{
+color = 6;
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (49,-14);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 568;
+}
+);
+unicode = 1262;
+}

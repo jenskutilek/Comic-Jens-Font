@@ -1,0 +1,91 @@
+{
+glyphname = Udieresismacron;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+color = 6;
+layerId = master01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (-34,-40);
+ref = dieresiscomb.case;
+},
+{
+alignment = -1;
+pos = (101,183);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.995,
+1,
+1
+);
+};
+width = 605;
+},
+{
+color = 6;
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (-42,-78);
+ref = dieresiscomb.case;
+},
+{
+alignment = -1;
+pos = (85,143);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 605;
+},
+{
+color = 6;
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (-34,-40);
+ref = dieresiscomb.case;
+},
+{
+alignment = -1;
+pos = (101,183);
+ref = macroncomb.case;
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.986,
+1,
+1
+);
+};
+width = 605;
+}
+);
+unicode = 469;
+}

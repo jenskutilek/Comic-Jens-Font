@@ -1,0 +1,39 @@
+{
+color = 9;
+glyphname = two.tf.a2;
+layers = (
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = two;
+}
+);
+width = 550;
+},
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = two.a2;
+}
+);
+width = 550;
+},
+{
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = two.a2;
+}
+);
+width = 550;
+}
+);
+}

@@ -1,0 +1,73 @@
+{
+glyphname = upperHalfBlock;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,238,l),
+(768,750,l),
+(0,750,l),
+(0,238,l)
+);
+}
+);
+width = 768;
+},
+{
+layerId = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,750,l),
+(768,238,l),
+(0,238,l,{
+name = av01;
+}),
+(0,750,l,{
+name = at01;
+})
+);
+}
+);
+width = 768;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,0);
+stem = -1;
+target = (0,3);
+type = TTStem;
+}
+);
+layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,750,l,{
+name = at01;
+}),
+(768,750,l),
+(768,238,l),
+(0,238,l,{
+name = av01;
+})
+);
+}
+);
+width = 768;
+}
+);
+unicode = 9600;
+}
