@@ -281,11 +281,6 @@ origin = (1,9);
 stem = 2;
 target = (1,4);
 type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,39);
-type = TTSnap;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";

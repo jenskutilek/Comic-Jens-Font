@@ -587,6 +587,22 @@ horizontal = 1;
 origin = (1,17);
 target = (1,11);
 type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,45);
+other1 = (0,13);
+target = (0,16);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,32);
+other1 = (1,14);
+target = (1,17);
+type = TTInterpolate;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";

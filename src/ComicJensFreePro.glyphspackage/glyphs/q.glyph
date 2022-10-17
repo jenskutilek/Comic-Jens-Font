@@ -288,6 +288,14 @@ type = TTStem;
 horizontal = 1;
 origin = (0,36);
 type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,18);
+other1 = (0,7);
+target = (0,10);
+type = TTInterpolate;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";

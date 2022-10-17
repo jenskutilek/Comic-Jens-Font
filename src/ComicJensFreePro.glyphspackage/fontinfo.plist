@@ -680,7 +680,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 },
 {
 axesValues = (
@@ -826,7 +825,7 @@ guides = (
 pos = (0,750);
 },
 {
-pos = (0,-275);
+pos = (0,-340);
 }
 );
 id = master01;
@@ -910,8 +909,8 @@ size = -51;
 },
 {
 name = desc;
-pos = -406;
-size = -39;
+pos = -328;
+size = -22;
 },
 {
 filter = "name BEGINSWITH \"box\"";
@@ -970,31 +969,6 @@ value = -93;
 {
 name = "Link Metrics With First Master";
 value = 1;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-pos = 767;
-size = 23;
-},
-{
-pos = 721;
-size = 28;
-},
-{
-pos = 494;
-size = 29;
-},
-{
-pos = 6;
-size = -51;
-},
-{
-pos = -406;
-size = -39;
-}
-);
 }
 );
 guides = (
@@ -1020,8 +994,8 @@ pos = 500;
 over = -51;
 },
 {
-over = -39;
-pos = -406;
+over = -22;
+pos = -328;
 },
 {
 }
