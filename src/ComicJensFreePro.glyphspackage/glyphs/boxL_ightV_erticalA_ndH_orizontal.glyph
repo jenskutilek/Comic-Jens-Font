@@ -8,7 +8,6 @@ name = _cap.hor;
 options = 8;
 origin = (0,8);
 scale = (1.02174,1);
-target = (0,9);
 type = Cap;
 },
 {
@@ -16,7 +15,6 @@ name = _cap.hor;
 options = 8;
 origin = (0,2);
 scale = (1.02174,1);
-target = (0,3);
 type = Cap;
 },
 {
@@ -24,7 +22,6 @@ name = _cap.hor;
 options = 8;
 origin = (0,5);
 scale = (1.08696,1);
-target = (0,6);
 type = Cap;
 },
 {
@@ -32,7 +29,6 @@ name = _cap.hor;
 options = 8;
 origin = (0,11);
 scale = (1.08696,1);
-target = (0,0);
 type = Cap;
 }
 );

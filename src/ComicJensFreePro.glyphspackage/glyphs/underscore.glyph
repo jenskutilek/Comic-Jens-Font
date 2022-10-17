@@ -15,7 +15,6 @@ name = _cap.hor;
 options = 10;
 origin = (0,0);
 scale = (1.02174,1);
-target = (0,1);
 type = Cap;
 }
 );
