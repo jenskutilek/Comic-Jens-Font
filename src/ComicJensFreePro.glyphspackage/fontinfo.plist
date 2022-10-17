@@ -514,7 +514,9 @@ code = "sub [A H M N R W X h k n w x Aring] cedillacomb' by cedillacomb.alt001;
 sub [L d l t t.ss01] caroncomb' by caroncomb.alt001;
 sub [t tbar tcaron tcedilla tcommaaccent tdotaccent ]' [a agrave aacute acircumflex atilde adieresis aring a_a amacron abreve aogonek aringacute acaron] by [t.calt tbar.calt tcaron.calt tcedilla.calt tcommaaccent.calt tdotaccent.calt];
 sub [two two.tf]' [two two.tf] by [two.a1 two.tf.a1];
-sub [two two.tf two.a1 two.tf.a1] [two two.tf]' by [two.a2 two.tf.a2];";
+sub [two two.tf two.a1 two.tf.a1] [two two.tf]' by [two.a2 two.tf.a2];
+sub f_f.ss01' [n r] by f_f.ss01.001;
+";
 tag = calt;
 },
 {
@@ -658,18 +660,23 @@ size = -39;
 id = "8E39700C-2F6D-4A17-B4B3-161F49A69C4C";
 metricValues = (
 {
+over = 1;
 pos = 767;
 },
 {
+over = 1;
 pos = 725;
 },
 {
+over = 1;
 pos = 500;
 },
 {
+over = -1;
 },
 {
-pos = -406;
+over = -22;
+pos = -328;
 },
 {
 }
@@ -846,8 +853,8 @@ pos = 500;
 over = -45;
 },
 {
-over = -39;
-pos = -406;
+over = -22;
+pos = -328;
 },
 {
 }
@@ -3072,6 +3079,18 @@ fraction = -15;
 "zhedescender-cy" = {
 "en-cy" = -20;
 "endescender-cy" = -20;
+};
+f_f.ss01.001 = {
+"@MMK_R_n" = -90;
+"@MMK_R_r" = -110;
+"@MMK_R_a" = -110;
+"@MMK_R_b" = -80;
+"@MMK_R_c" = -100;
+"@MMK_R_d" = -110;
+"@MMK_R_e" = -130;
+"@MMK_R_i" = -60;
+"@MMK_R_l" = -70;
+"@MMK_R_o" = -130;
 };
 };
 master01 = {
