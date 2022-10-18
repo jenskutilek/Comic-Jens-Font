@@ -285,7 +285,7 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,39);
+origin = (0,0);
 type = TTSnap;
 },
 {
@@ -302,7 +302,7 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
-origin = (0,39);
+origin = (0,0);
 other1 = (0,3);
 target = (0,27);
 type = TTInterpolate;
@@ -310,7 +310,7 @@ type = TTInterpolate;
 {
 horizontal = 1;
 options = 4;
-origin = (0,39);
+origin = (0,0);
 other1 = (0,23);
 target = (0,27);
 type = TTInterpolate;
@@ -364,7 +364,6 @@ nodes = (
 (460,534,o),
 (636,686,qs),
 (653,700,o),
-(672,700,qs),
 (692,700,o),
 (721,671,o),
 (718,631,o),

@@ -253,7 +253,7 @@ name = sv02;
 hints = (
 {
 horizontal = 1;
-origin = (0,40);
+origin = (0,39);
 type = TTSnap;
 },
 {
@@ -273,7 +273,7 @@ type = TTShift;
 {
 horizontal = 1;
 options = 8;
-origin = (0,40);
+origin = (0,39);
 other1 = (0,31);
 target = (0,14);
 type = TTInterpolate;
@@ -324,7 +324,6 @@ name = sv02;
 (487,383,o),
 (487,335,o),
 (455,309,o),
-(425,309,qs),
 (397,309,o),
 (373,310,qs),
 (285,312,o),

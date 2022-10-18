@@ -231,31 +231,31 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,42);
+origin = (0,40);
 target = (0,10);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,21);
-target = (0,31);
+origin = (0,20);
+target = (0,30);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,42);
-other1 = (0,15);
-target = (0,31);
+origin = (0,40);
+other1 = (0,14);
+target = (0,30);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,10);
-other1 = (0,36);
-target = (0,21);
+other1 = (0,34);
+target = (0,20);
 type = TTInterpolate;
 }
 );
@@ -274,9 +274,6 @@ nodes = (
 (117,162,qs),
 (140,111,o),
 (213,65,o),
-(270,65,qs,{
-name = sv01;
-}),
 (326,65,o),
 (384,119,o),
 (384,172,qs),
@@ -304,7 +301,6 @@ name = sv02;
 }),
 (227,640,o),
 (178,607,o),
-(178,571,qs),
 (178,533,o),
 (247,465,o),
 (402,362,o),

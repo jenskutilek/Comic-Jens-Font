@@ -316,7 +316,7 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,42);
+origin = (0,40);
 type = TTSnap;
 },
 {
@@ -326,14 +326,14 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,29);
+origin = (0,27);
 type = TTSnap;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,9);
-other1 = (0,24);
+other1 = (0,23);
 target = (0,17);
 type = TTInterpolate;
 },
@@ -342,15 +342,15 @@ horizontal = 1;
 options = 4;
 origin = (0,9);
 other1 = (0,4);
-target = (0,29);
+target = (0,27);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,9);
-other1 = (0,35);
-target = (0,29);
+other1 = (0,33);
+target = (0,27);
 type = TTInterpolate;
 }
 );
@@ -376,7 +376,6 @@ nodes = (
 (81,697,qs),
 (82,717,o),
 (112,743,o),
-(133,743,qs),
 (154,743,o),
 (183,712,o),
 (182,687,qs),
@@ -388,7 +387,6 @@ nodes = (
 (454,694,qs),
 (464,711,o),
 (494,730,o),
-(510,730,qs),
 (528,730,o),
 (556,708,o),
 (560,671,o),

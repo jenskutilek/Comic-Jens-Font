@@ -225,22 +225,22 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,24);
+origin = (0,23);
 target = (0,18);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,35);
+origin = (0,34);
 target = (0,11);
 type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,24);
+origin = (0,23);
 other1 = (0,5);
-target = (0,35);
+target = (0,34);
 type = TTInterpolate;
 }
 );
@@ -270,7 +270,6 @@ nodes = (
 (134,630,ls),
 (109,630,o),
 (79,655,o),
-(79,676,qs),
 (79,698,o),
 (108,724,o),
 (135,725,qs),

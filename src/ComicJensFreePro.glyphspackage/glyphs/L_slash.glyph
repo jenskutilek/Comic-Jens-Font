@@ -139,16 +139,16 @@ type = TTSnap;
 {
 horizontal = 1;
 options = 4;
-origin = (0,52);
-target = (0,40);
+origin = (0,50);
+target = (0,39);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,21);
-other1 = (0,36);
-target = (0,52);
+other1 = (0,35);
+target = (0,50);
 type = TTInterpolate;
 },
 {
@@ -156,15 +156,15 @@ horizontal = 1;
 options = 4;
 origin = (0,21);
 other1 = (0,6);
-target = (0,52);
+target = (0,50);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,21);
-other1 = (0,26);
-target = (0,40);
+other1 = (0,25);
+target = (0,39);
 type = TTInterpolate;
 },
 {
@@ -172,7 +172,7 @@ horizontal = 1;
 options = 4;
 origin = (0,21);
 other1 = (0,16);
-target = (0,40);
+target = (0,39);
 type = TTInterpolate;
 }
 );
@@ -202,9 +202,6 @@ nodes = (
 (106,673,qs),
 (107,695,o),
 (136,721,o),
-(157,721,qs,{
-name = at01;
-}),
 (176,721,o),
 (207,694,o),
 (206,671,qs),
@@ -233,7 +230,6 @@ name = sv03;
 }),
 (488,91,o),
 (517,66,o),
-(517,44,qs),
 (517,22,o),
 (488,-4,o),
 (463,-6,qs,{

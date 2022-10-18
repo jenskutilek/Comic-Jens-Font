@@ -302,6 +302,21 @@ origin = (0,37);
 other1 = (0,17);
 target = (0,12);
 type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,37);
+other1 = (0,6);
+target = (0,12);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,6);
+target = (0,32);
+type = TTShift;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";

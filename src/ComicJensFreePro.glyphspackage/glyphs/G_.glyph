@@ -264,7 +264,7 @@ type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,51);
+origin = (0,50);
 type = TTSnap;
 },
 {
@@ -277,15 +277,15 @@ type = TTStem;
 {
 horizontal = 1;
 origin = (0,5);
-other1 = (0,37);
+other1 = (0,36);
 target = (0,11);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,37);
-target = (0,32);
+origin = (0,36);
+target = (0,31);
 type = TTStem;
 }
 );
@@ -327,9 +327,6 @@ name = sv01;
 (187,374,qs),
 (143,242,o),
 (175,69,o),
-(246,69,qs,{
-name = sv02;
-}),
 (316,69,o),
 (442,172,o),
 (473,250,q),

@@ -173,7 +173,7 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,42);
+origin = (0,39);
 target = (0,32);
 type = TTStem;
 },
@@ -187,7 +187,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 8;
-origin = (0,42);
+origin = (0,39);
 other1 = (0,27);
 target = (0,7);
 type = TTInterpolate;
@@ -196,12 +196,12 @@ type = TTInterpolate;
 horizontal = 1;
 options = 4;
 origin = (0,27);
-target = (0,21);
+target = (0,18);
 type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,42);
+origin = (0,39);
 type = TTSnap;
 }
 );
@@ -222,7 +222,6 @@ nodes = (
 (449,764,qs),
 (473,762,o),
 (503,735,o),
-(503,714,qs),
 (503,693,o),
 (475,668,o),
 (449,668,qs),
@@ -234,7 +233,6 @@ nodes = (
 (346,438,qs),
 (371,437,o),
 (400,412,o),
-(400,392,qs),
 (400,372,o),
 (370,345,o),
 (346,344,qs),
@@ -247,7 +245,6 @@ nodes = (
 (451,118,qs),
 (480,118,o),
 (512,94,o),
-(512,72,qs),
 (512,49,o),
 (480,21,o),
 (452,20,qs),

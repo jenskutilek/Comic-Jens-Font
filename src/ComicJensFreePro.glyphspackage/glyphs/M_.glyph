@@ -255,12 +255,12 @@ pos = (369,725);
 hints = (
 {
 horizontal = 1;
-origin = (0,25);
+origin = (0,24);
 type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,48);
+origin = (0,47);
 type = TTSnap;
 },
 {
@@ -270,37 +270,37 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,17);
+origin = (0,16);
 type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,25);
-other1 = (0,39);
-target = (0,17);
+origin = (0,24);
+other1 = (0,38);
+target = (0,16);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,25);
-other1 = (0,33);
-target = (0,17);
+origin = (0,24);
+other1 = (0,32);
+target = (0,16);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,33);
-target = (0,43);
+origin = (0,32);
+target = (0,42);
 type = TTShift;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,17);
-other1 = (0,13);
-target = (0,39);
+origin = (0,16);
+other1 = (0,12);
+target = (0,38);
 type = TTInterpolate;
 }
 );
@@ -317,7 +317,6 @@ nodes = (
 (87,671,qs),
 (88,695,o),
 (115,731,o),
-(142,731,qs),
 (168,731,o),
 (199,702,o),
 (212,675,qs),
