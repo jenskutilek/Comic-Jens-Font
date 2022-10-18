@@ -358,22 +358,74 @@ type = TTInterpolate;
 {
 horizontal = 1;
 origin = (0,44);
-settings = type = TTDelta;
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"10" = 8;
+"11" = 8;
+"12" = 8;
+"13" = 8;
+"14" = 8;
+"15" = 8;
+"16" = 8;
+"17" = 8;
+"18" = 8;
+"19" = 8;
+"20" = 8;
+"21" = 8;
+"27" = 0;
+};
+};
+};
+type = TTDelta;
 },
 {
 horizontal = 1;
 origin = (0,58);
-settings = type = TTDelta;
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"10" = 8;
+"17" = 8;
+"18" = 8;
+"19" = 8;
+"9" = 8;
+};
+};
+};
+type = TTDelta;
 },
 {
 horizontal = 1;
 origin = (0,50);
-settings = type = TTDelta;
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"10" = -8;
+"12" = -8;
+"15" = 8;
+"17" = 0;
+"20" = 8;
+"21" = 8;
+"24" = 8;
+"27" = 8;
+"9" = -8;
+};
+};
+};
+type = TTDelta;
 },
 {
 horizontal = 1;
 origin = (0,66);
-settings = type = TTDelta;
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"9" = -8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
