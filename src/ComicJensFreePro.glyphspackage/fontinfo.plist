@@ -1,5 +1,5 @@
 {
-.appVersion = "3155";
+.appVersion = "3140";
 .formatVersion = 3;
 axes = (
 {
@@ -648,11 +648,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 }
@@ -759,11 +759,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 },
@@ -2575,6 +2575,18 @@ f_f.ss01 = {
 "@MMK_R_o" = -130;
 "@MMK_R_r" = -110;
 };
+f_f.ss01.001 = {
+"@MMK_R_a" = -110;
+"@MMK_R_b" = -80;
+"@MMK_R_c" = -100;
+"@MMK_R_d" = -110;
+"@MMK_R_e" = -130;
+"@MMK_R_i" = -60;
+"@MMK_R_l" = -70;
+"@MMK_R_n" = -90;
+"@MMK_R_o" = -130;
+"@MMK_R_r" = -110;
+};
 five = {
 backslash = 50;
 five = 30;
@@ -3080,18 +3092,6 @@ fraction = -15;
 "zhedescender-cy" = {
 "en-cy" = -20;
 "endescender-cy" = -20;
-};
-f_f.ss01.001 = {
-"@MMK_R_n" = -90;
-"@MMK_R_r" = -110;
-"@MMK_R_a" = -110;
-"@MMK_R_b" = -80;
-"@MMK_R_c" = -100;
-"@MMK_R_d" = -110;
-"@MMK_R_e" = -130;
-"@MMK_R_i" = -60;
-"@MMK_R_l" = -70;
-"@MMK_R_o" = -130;
 };
 };
 master01 = {
