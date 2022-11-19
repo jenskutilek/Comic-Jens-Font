@@ -135,12 +135,20 @@ name = "Get Hints From Master";
 value = "92936CB7-D294-4857-B41D-63B9425360A1";
 },
 {
+name = "Enforce Compatibility Check";
+value = 0;
+},
+{
+name = de.kutilek.corretto.active;
+value = "1";
+},
+{
 name = de.kutilek.corretto.ttx;
 value = ttf_ttx;
 },
 {
-name = "Enforce Compatibility Check";
-value = 0;
+name = de.kutilek.corretto.webfonts;
+value = woff2;
 }
 );
 date = "2022-01-05 09:58:05 +0000";
