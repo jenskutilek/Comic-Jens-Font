@@ -11,7 +11,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (243,-10);
+pos = (213,-10);
 ref = gravecomb.case;
 }
 );

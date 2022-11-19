@@ -1,5 +1,5 @@
 {
-.appVersion = "3140";
+.appVersion = "3146";
 .formatVersion = 3;
 axes = (
 {
@@ -687,6 +687,7 @@ stemValues = (
 100,
 136
 );
+visible = 1;
 },
 {
 axesValues = (

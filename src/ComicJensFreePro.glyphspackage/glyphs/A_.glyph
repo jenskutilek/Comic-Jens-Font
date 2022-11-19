@@ -15,7 +15,7 @@ pos = (630,-3);
 },
 {
 name = top;
-pos = (365,725);
+pos = (355,725);
 }
 );
 layerId = master01;
