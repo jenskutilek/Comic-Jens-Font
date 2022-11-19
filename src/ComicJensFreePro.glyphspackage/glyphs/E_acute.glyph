@@ -282,7 +282,7 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,40);
+origin = (0,1);
 target = (0,31);
 type = TTStem;
 },
@@ -303,7 +303,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 8;
-origin = (0,40);
+origin = (0,1);
 other1 = (0,27);
 target = (0,11);
 type = TTInterpolate;

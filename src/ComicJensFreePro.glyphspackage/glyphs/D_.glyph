@@ -196,14 +196,14 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,28);
+origin = (0,27);
 target = (0,4);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,20);
+origin = (0,19);
 target = (1,5);
 type = TTStem;
 },
@@ -218,7 +218,7 @@ type = TTShift;
 horizontal = 1;
 options = 4;
 origin = (0,4);
-target = (1,14);
+target = (1,13);
 type = TTShift;
 }
 );

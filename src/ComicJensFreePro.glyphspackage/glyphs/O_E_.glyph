@@ -246,14 +246,14 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,53);
+origin = (0,51);
 target = (1,13);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,48);
+origin = (0,46);
 target = (0,37);
 type = TTStem;
 },
@@ -274,7 +274,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 8;
-origin = (0,48);
+origin = (0,46);
 other1 = (0,33);
 target = (0,11);
 type = TTInterpolate;
