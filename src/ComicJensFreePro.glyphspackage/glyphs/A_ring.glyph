@@ -13,7 +13,7 @@ pos = (1,0);
 ref = A;
 },
 {
-pos = (65,10);
+pos = (55,10);
 ref = ringcomb.case;
 }
 );
