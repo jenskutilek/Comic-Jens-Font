@@ -687,7 +687,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 },
 {
 axesValues = (
@@ -834,6 +833,9 @@ pos = (0,750);
 },
 {
 pos = (0,-340);
+},
+{
+pos = (-2,1024);
 }
 );
 id = master01;
@@ -1014,6 +1016,7 @@ stemValues = (
 100,
 136
 );
+visible = 1;
 }
 );
 instances = (
