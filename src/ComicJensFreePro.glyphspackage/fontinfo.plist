@@ -695,6 +695,7 @@ stemValues = (
 100,
 136
 );
+visible = 1;
 },
 {
 axesValues = (
@@ -1024,7 +1025,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 }
 );
 instances = (
