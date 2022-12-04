@@ -120,8 +120,8 @@ shapes = (
 ref = t.calt;
 },
 {
-pos = (117,-26);
-ref = cedilla;
+pos = (-88,0);
+ref = cedillacomb;
 }
 );
 width = 429;

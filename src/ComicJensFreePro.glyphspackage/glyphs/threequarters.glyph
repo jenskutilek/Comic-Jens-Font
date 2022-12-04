@@ -211,8 +211,8 @@ layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
 alignment = -1;
-pos = (7,-30);
-ref = threesuperior;
+pos = (7,370);
+ref = three.dnom;
 },
 {
 alignment = -1;

@@ -194,8 +194,8 @@ shapes = (
 ref = T;
 },
 {
-pos = (125,-12);
-ref = cedilla;
+pos = (-80,14);
+ref = cedillacomb;
 }
 );
 width = 599;

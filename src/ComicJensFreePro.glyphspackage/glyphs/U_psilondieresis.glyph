@@ -147,7 +147,7 @@ shapes = (
 {
 alignment = -1;
 pos = (8,0);
-ref = Upsilon;
+ref = Y;
 },
 {
 pos = (-7,-30);

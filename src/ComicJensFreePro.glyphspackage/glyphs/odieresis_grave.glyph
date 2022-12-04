@@ -55,7 +55,13 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-ref = odieresis;
+alignment = -1;
+pos = (-1,0);
+ref = o;
+},
+{
+pos = (-43,-20);
+ref = dieresiscomb;
 },
 {
 alignment = -1;

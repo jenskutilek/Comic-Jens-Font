@@ -55,7 +55,12 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-ref = aring;
+alignment = -1;
+ref = a.005;
+},
+{
+pos = (-7,20);
+ref = ringcomb;
 },
 {
 alignment = -1;
