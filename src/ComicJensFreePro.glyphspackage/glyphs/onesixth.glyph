@@ -61,13 +61,17 @@ color = 6;
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
 shapes = (
 {
-ref = onesuperior;
+alignment = -1;
+pos = (0,430);
+ref = one.dnom;
 },
 {
+alignment = -1;
 pos = (369,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (465,0);
 ref = six.dnom;
 }

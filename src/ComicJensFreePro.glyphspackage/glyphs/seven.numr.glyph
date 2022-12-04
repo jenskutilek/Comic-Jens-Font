@@ -6,7 +6,8 @@ color = 6;
 layerId = master01;
 shapes = (
 {
-ref = sevensuperior;
+pos = (0,420);
+ref = seven.dnom;
 }
 );
 userData = {
