@@ -143,23 +143,28 @@ hints = (
 {
 horizontal = 1;
 origin = (0,21);
-stem = -1;
-target = (0,17);
-type = TTStem;
+stem = 2;
+type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,17);
-stem = -1;
-target = (0,8);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,21);
-target = (0,14);
+origin = (0,6);
+target = (0,21);
 type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,21);
+stem = -1;
+target = (0,3);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,3);
+stem = -1;
+target = (0,12);
+type = TTStem;
 }
 );
 layerId = "92936CB7-D294-4857-B41D-63B9425360A1";

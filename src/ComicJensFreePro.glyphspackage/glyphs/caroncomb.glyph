@@ -127,19 +127,19 @@ type = TTSnap;
 horizontal = 1;
 options = 4;
 origin = (0,25);
-target = (0,11);
+target = (0,13);
 type = TTStem;
 },
 {
 horizontal = 1;
 origin = (0,25);
-target = (0,7);
+target = (0,9);
 type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,7);
-target = (0,15);
+origin = (0,9);
+target = (0,17);
 type = TTShift;
 }
 );
