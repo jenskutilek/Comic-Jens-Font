@@ -131,8 +131,9 @@ name = "Write lastChange";
 value = 0;
 },
 {
+disabled = 1;
 name = "Get Hints From Master";
-value = "92936CB7-D294-4857-B41D-63B9425360A1";
+value = master01;
 },
 {
 name = "Enforce Compatibility Check";
@@ -151,7 +152,7 @@ name = de.kutilek.corretto.webfonts;
 value = woff2;
 }
 );
-date = "2022-01-05 09:58:05 +0000";
+date = "2023-10-01 14:59:48 +0000";
 familyName = "Comic Jens Free Pro";
 featurePrefixes = (
 {
@@ -5007,7 +5008,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2007 - 2022 by Jens Kutilek. All rights reserved.";
+value = "Copyright 2007 - 2023 by Jens Kutilek. All rights reserved.";
 }
 );
 },
