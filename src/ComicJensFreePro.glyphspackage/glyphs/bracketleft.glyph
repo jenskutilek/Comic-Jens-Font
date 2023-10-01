@@ -2,7 +2,27 @@
 glyphname = bracketleft;
 layers = (
 {
-color = 3;
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,28);
+target = (0,15,0,19);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,40);
+target = (0,8,0,12);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,40);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {

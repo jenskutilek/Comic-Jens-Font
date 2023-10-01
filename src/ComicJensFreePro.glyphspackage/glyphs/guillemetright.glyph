@@ -2,7 +2,32 @@
 glyphname = guillemetright;
 layers = (
 {
-color = 3;
+hints = (
+{
+horizontal = 1;
+origin = (1,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,27);
+target = (0,4);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (1,14);
+target = (0,19);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (1,14);
+stem = -1;
+target = (1,27);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
