@@ -14,6 +14,56 @@ name = top;
 pos = (165,745);
 }
 );
+hints = (
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,38);
+target = (0,44);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,54);
+target = (0,23);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,69);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,38);
+other1 = (0,47,0,51);
+target = (0,23);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,44);
+other1 = (0,29);
+target = (0,54);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+other1 = (0,60,0,64);
+target = (0,69);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -28,8 +78,11 @@ nodes = (
 (75,151,o),
 (77,112,o),
 (80,69,c),
-(72,10,o),
-(92,-19,o),
+(79,61,o),
+(78,52,o),
+(78,45,cs),
+(78,2,o),
+(98,-19,o),
 (130,-19,cs),
 (164,-19,o),
 (181,7,o),
@@ -193,129 +246,6 @@ nodes = (
 );
 }
 );
-width = 592;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (300,0);
-},
-{
-name = top;
-pos = (165,745);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,43);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,27);
-target = (0,22);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,14);
-target = (0,38);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,7);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,27);
-other1 = (0,20);
-target = (0,38);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-other1 = (0,33);
-target = (0,14);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,43);
-other1 = (0,11);
-target = (0,7);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(100,-19,o),
-(74,27,o),
-(80,69,q),
-(68,382,o),
-(102,737,q),
-(104,756,o),
-(133,783,o),
-(176,783,o),
-(203,752,o),
-(202,726,q),
-(194,547,o),
-(176,341,q),
-(210,426,o),
-(317,522,o),
-(386,522,q),
-(425,522,o),
-(482,484,o),
-(508,413,o),
-(500,315,o),
-(440,233,o),
-(380,207,q),
-(457,114,o),
-(559,80,q),
-(598,67,o),
-(598,31,q),
-(598,12,o),
-(567,-14,o),
-(542,-14,q),
-(478,-14,o),
-(305,129,o),
-(273,202,q),
-(263,223,o),
-(285,261,o),
-(310,266,q),
-(351,275,o),
-(395,319,o),
-(405,386,o),
-(387,427,o),
-(366,427,q),
-(313,427,o),
-(212,251,o),
-(181,58,q),
-(181,-19,o),
-(130,-19,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 592;
 }
 );

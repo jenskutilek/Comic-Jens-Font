@@ -147,30 +147,6 @@ nodes = (
 }
 );
 width = 548;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-ref = a.003;
-},
-{
-alignment = 1;
-pos = (22,0);
-ref = circumflexcomb;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 548;
 }
 );
 unicode = 226;

@@ -2,6 +2,18 @@
 glyphname = fraction;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,23);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,11);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -79,47 +91,6 @@ nodes = (
 (100,563,o),
 (172,683,o),
 (220,733,q)
-);
-}
-);
-width = 96;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,17);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,8);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-192,-81,o),
-(-217,-54,o),
-(-217,-33,qs),
-(-217,-19,o),
-(-208,0,qs),
-(-51,337,o),
-(196,710,qs),
-(218,743,o),
-(252,743,qs),
-(273,743,o),
-(302,716,o),
-(302,696,qs),
-(302,679,o),
-(290,661,qs),
-(51,300,o),
-(-117,-35,qs),
-(-140,-81,o),
-(-174,-81,qs)
 );
 }
 );

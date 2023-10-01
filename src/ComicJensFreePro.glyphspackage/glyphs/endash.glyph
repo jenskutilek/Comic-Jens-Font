@@ -2,6 +2,20 @@
 glyphname = endash;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,11);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -54,47 +68,6 @@ nodes = (
 (422,243,o),
 (213,229,o),
 (107,227,q)
-);
-}
-);
-width = 643;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,15);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,15);
-target = (0,4);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(91,228,o),
-(63,257,o),
-(63,296,o),
-(91,326,o),
-(124,328,qs),
-(204,333,o),
-(432,340,o),
-(523,340,qs),
-(552,340,o),
-(582,314,o),
-(582,277,o),
-(554,249,o),
-(528,247,qs),
-(434,239,o),
-(200,228,o),
-(124,228,qs)
 );
 }
 );

@@ -2,6 +2,32 @@
 glyphname = seven.ss03;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,27);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,11);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (0,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,5);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -96,67 +122,6 @@ nodes = (
 (136,601,o),
 (62,603,o),
 (24,605,q)
-);
-}
-);
-width = 424;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,23);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,12);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,12);
-target = (0,7);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,7);
-target = (0,18);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(162,-27,o),
-(140,19,o),
-(151,47,qs),
-(198,165,o),
-(262,413,o),
-(281,592,q),
-(151,601,o),
-(42,604,qs),
-(-20,606,o),
-(-20,655,qs),
-(-20,675,o),
-(7,705,o),
-(39,705,qs),
-(110,705,o),
-(276,692,o),
-(321,682,qs),
-(357,674,o),
-(385,631,o),
-(381,594,qs),
-(347,276,o),
-(253,27,qs),
-(243,1,o),
-(211,-27,o),
-(192,-27,qs)
 );
 }
 );

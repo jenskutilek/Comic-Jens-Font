@@ -2,6 +2,27 @@
 glyphname = degree;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (1,5);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (1,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -110,72 +131,6 @@ nodes = (
 );
 }
 );
-width = 437;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,5);
-target = (1,4);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,0);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,0);
-target = (1,8);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(169,395,o),
-(94,438,o),
-(52,514,o),
-(52,607,o),
-(98,681,o),
-(182,723,o),
-(272,723,o),
-(342,683,o),
-(380,612,o),
-(380,519,o),
-(338,438,o),
-(264,395,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(242,479,o),
-(277,530,o),
-(277,602,o),
-(249,637,o),
-(224,637,q),
-(191,637,o),
-(151,590,o),
-(151,522,o),
-(188,479,o)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 437;
 }
 );

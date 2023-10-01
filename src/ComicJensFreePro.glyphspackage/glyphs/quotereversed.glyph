@@ -2,6 +2,20 @@
 glyphname = quotereversed;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,8);
+stem = -1;
+target = (0,17);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -62,48 +76,6 @@ nodes = (
 (151,664,o),
 (182,642,o),
 (185,622,q)
-);
-}
-);
-width = 321;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,7);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,7);
-stem = -1;
-target = (0,16);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(182,389,o),
-(152,423,qs),
-(125,453,o),
-(87,561,o),
-(87,609,qs),
-(87,634,o),
-(113,664,o),
-(137,664,qs),
-(158,664,o),
-(186,637,o),
-(188,609,qs),
-(192,560,o),
-(215,490,o),
-(238,454,qs),
-(254,429,o),
-(237,389,o),
-(213,389,qs)
 );
 }
 );

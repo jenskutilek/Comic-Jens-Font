@@ -2,6 +2,18 @@
 glyphname = slash;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,20);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -22,8 +34,11 @@ nodes = (
 (201,486,o),
 (80,278,o),
 (10,55,cs),
-(-4,10,o),
-(19,-15,o),
+(7,46,o),
+(6,37,o),
+(6,30,cs),
+(6,1,o),
+(25,-15,o),
 (47,-15,cs)
 );
 }
@@ -79,57 +94,6 @@ nodes = (
 );
 }
 );
-width = 441;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,8);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,19);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(26,-15,o),
-(-1,21,o),
-(10,55,q),
-(63,223,o),
-(234,533,o),
-(337,676,q),
-(351,695,o),
-(380,710,o),
-(394,710,q),
-(407,710,o),
-(429,697,o),
-(440,675,o),
-(437,646,o),
-(427,631,q),
-(330,488,o),
-(160,185,o),
-(100,27,q),
-(92,6,o),
-(64,-15,o),
-(47,-15,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 441;
 }
 );

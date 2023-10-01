@@ -136,21 +136,6 @@ nodes = (
 }
 );
 width = 654;
-},
-{
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-pos = (1,0);
-ref = A;
-},
-{
-pos = (65,10);
-ref = ringcomb.case;
-}
-);
-width = 654;
 }
 );
 unicode = 197;

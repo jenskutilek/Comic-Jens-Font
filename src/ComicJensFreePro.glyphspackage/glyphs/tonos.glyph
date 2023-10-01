@@ -2,6 +2,19 @@
 glyphname = tonos;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,20);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,20);
+target = (0,8);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -22,8 +35,11 @@ nodes = (
 (67,617,o),
 (53,568,o),
 (37,525,cs),
-(20,480,o),
-(45,457,o),
+(33,515,o),
+(31,506,o),
+(31,498,cs),
+(31,471,o),
+(51,457,o),
 (72,457,cs)
 );
 }
@@ -56,46 +72,6 @@ nodes = (
 (49,567,o),
 (76,634,o),
 (78,676,q)
-);
-}
-);
-width = 218;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,15);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,15);
-target = (0,7);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(49,457,o),
-(25,494,o),
-(37,525,qs),
-(61,591,o),
-(75,655,qs),
-(82,688,o),
-(114,718,o),
-(134,718,qs),
-(157,718,o),
-(184,683,o),
-(178,647,qs),
-(170,599,o),
-(131,502,o),
-(108,474,qs),
-(94,457,o),
-(72,457,qs)
 );
 }
 );

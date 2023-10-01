@@ -130,30 +130,6 @@ nodes = (
 }
 );
 width = 671;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-pos = (5,0);
-ref = Y;
-},
-{
-pos = (-10,-30);
-ref = dieresiscomb.case;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 671;
 }
 );
 unicode = 376;

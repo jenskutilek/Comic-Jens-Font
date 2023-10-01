@@ -50,29 +50,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 398;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-ref = l;
-},
-{
-pos = (-34,73);
-ref = caroncomb.alt001;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 398;
 }
 );
 unicode = 318;

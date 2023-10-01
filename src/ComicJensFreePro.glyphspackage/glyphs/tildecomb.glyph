@@ -8,7 +8,7 @@ name = _top;
 pos = (234,500);
 }
 );
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -30,6 +30,89 @@ nodes = (
 (43,672,cs),
 (9,620,o),
 (67,567,o),
+(119,619,cs),
+(132,632,o),
+(145,635,o),
+(156,635,cs),
+(192,635,o),
+(217,592,o),
+(300,592,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,32);
+stem = 4;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,32);
+target = (0,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,32);
+target = (0,23);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,32);
+stem = -1;
+target = (0,29);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,29);
+target = (0,14);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,14);
+target = (0,5);
+type = TTShift;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,592,o),
+(400,617,o),
+(426,657,cs),
+(463,714,o),
+(444,751,o),
+(414,751,cs),
+(402,751,o),
+(389,745,o),
+(376,732,cs),
+(348,704,o),
+(332,691,o),
+(305,691,cs),
+(259,691,o),
+(217,729,o),
+(154,729,cs),
+(119,729,o),
+(69,712,o),
+(43,672,cs),
+(36,661,o),
+(33,650,o),
+(33,640,cs),
+(33,617,o),
+(51,598,o),
+(75,598,cs),
+(89,598,o),
+(104,604,o),
 (119,619,cs),
 (132,632,o),
 (145,635,o),
@@ -96,110 +179,6 @@ nodes = (
 );
 }
 );
-width = 500;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (234,500);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,37);
-stem = 4;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,37);
-target = (0,24);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,37);
-target = (0,9);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,37);
-stem = -1;
-target = (0,4);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,4);
-target = (0,19);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,19);
-target = (0,29);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(275,592,o),
-(234,602,o),
-(195,622,o),
-(167,635,o),
-(156,635,q),
-(145,635,o),
-(127,627,o),
-(119,619,q),
-(98,598,o),
-(75,598,q),
-(62,598,o),
-(42,611,o),
-(32,632,o),
-(34,658,o),
-(43,672,q),
-(53,687,o),
-(80,709,o),
-(110,722,o),
-(140,729,o),
-(154,729,q),
-(172,729,o),
-(210,720,o),
-(269,697,o),
-(294,691,o),
-(305,691,q),
-(323,691,o),
-(352,708,o),
-(376,732,q),
-(395,751,o),
-(414,751,q),
-(425,751,o),
-(442,738,o),
-(448,713,o),
-(440,678,o),
-(426,657,q),
-(406,627,o),
-(336,592,o),
-(300,592,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 500;
 }
 );

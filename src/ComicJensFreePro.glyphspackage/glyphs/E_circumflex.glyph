@@ -258,21 +258,6 @@ nodes = (
 }
 );
 width = 571;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-ref = E;
-},
-{
-pos = (148,33);
-ref = circumflexcomb.case;
-}
-);
-width = 571;
 }
 );
 unicode = 202;

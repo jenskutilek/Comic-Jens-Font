@@ -2,6 +2,20 @@
 glyphname = upperHalfBlock;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+target = (0,3);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -26,35 +40,6 @@ nodes = (
 (768,238,l),
 (0,238,l),
 (0,750,l)
-);
-}
-);
-width = 768;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,0);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,0);
-stem = -1;
-target = (0,3);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,750,l),
-(768,750,l),
-(768,238,l),
-(0,238,l)
 );
 }
 );

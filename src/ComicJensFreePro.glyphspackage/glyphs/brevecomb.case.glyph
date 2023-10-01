@@ -8,6 +8,34 @@ name = _top;
 pos = (311,735);
 }
 );
+hints = (
+{
+horizontal = 1;
+origin = (0,26);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,26);
+target = (0,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,26);
+stem = -1;
+target = (0,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,17);
+target = (0,5);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -91,88 +119,6 @@ nodes = (
 (187,826,o),
 (155,862,o),
 (155,889,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 0;
-isGlobal = 0;
-magnetic = 5;
-x = 0;
-y = 937;
-}
-);
-};
-width = 500;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (311,735);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,25);
-stem = 2;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,25);
-target = (0,12);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,25);
-stem = -1;
-target = (0,7);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,7);
-target = (0,18);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(235,768,o),
-(178,815,qs),
-(156,833,o),
-(129,881,o),
-(129,904,qs),
-(129,925,o),
-(152,953,o),
-(171,953,qs),
-(185,953,o),
-(205,937,o),
-(215,921,qs),
-(254,863,o),
-(313,863,qs),
-(345,863,o),
-(383,892,o),
-(393,923,qs),
-(400,944,o),
-(420,966,o),
-(438,966,qs),
-(458,966,o),
-(481,935,o),
-(481,912,qs),
-(481,871,o),
-(438,805,o),
-(364,768,o),
-(317,768,qs)
 );
 }
 );

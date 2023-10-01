@@ -58,17 +58,6 @@ nodes = (
 }
 );
 width = 424;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-pos = (-12,-31);
-ref = caroncomb;
-}
-);
-width = 424;
 }
 );
 unicode = 711;

@@ -111,21 +111,6 @@ nodes = (
 }
 );
 width = 687;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = Z;
-},
-{
-alignment = -1;
-pos = (89,-312);
-ref = macroncomb;
-}
-);
-width = 687;
 }
 );
 unicode = 437;

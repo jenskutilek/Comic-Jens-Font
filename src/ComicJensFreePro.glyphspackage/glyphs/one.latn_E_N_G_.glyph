@@ -2,6 +2,41 @@
 glyphname = one.latn_ENG;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,33);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,33);
+other1 = (0,26,0,30);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,33);
+other1 = (0,20);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,20);
+target = (0,14);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -22,8 +57,14 @@ nodes = (
 (151,576,o),
 (117,537,o),
 (70,494,cs),
-(15,444,o),
-(83,374,o),
+(56,481,o),
+(50,466,o),
+(50,453,cs),
+(50,426,o),
+(73,403,o),
+(100,403,cs),
+(112,403,o),
+(124,408,o),
 (135,417,cs),
 (172,448,o),
 (222,521,o),
@@ -78,78 +119,6 @@ nodes = (
 (177,462,o),
 (146,426,o),
 (127,411,q)
-);
-}
-);
-width = 395;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,0);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,7);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,0);
-other1 = (0,21);
-target = (0,7);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (0,0);
-other1 = (0,17);
-target = (0,7);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,17);
-target = (0,12);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(241,-37,o),
-(272,-8,o),
-(273,22,qs),
-(286,399,o),
-(293,615,qs),
-(294,637,o),
-(272,674,o),
-(246,674,qs),
-(228,674,o),
-(200,653,o),
-(188,629,q),
-(136,554,o),
-(70,494,qs),
-(50,475,o),
-(50,453,qs),
-(50,433,o),
-(80,404,o),
-(100,404,qs),
-(119,404,o),
-(135,417,qs),
-(165,442,o),
-(197,491,q),
-(172,216,o),
-(172,21,qs),
-(172,-7,o),
-(201,-37,o)
 );
 }
 );

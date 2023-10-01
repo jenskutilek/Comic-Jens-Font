@@ -2,6 +2,37 @@
 glyphname = nmod;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,34);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,25);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,25);
+target = (0,17);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,34);
+target = (0,11);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -94,79 +125,6 @@ nodes = (
 (91,465,o),
 (86,569,o),
 (86,622,q)
-);
-}
-);
-width = 520;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,30);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,6);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,6);
-target = (0,13);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,13);
-target = (0,25);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,30);
-target = (0,19);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(105,372,o),
-(98,421,qs),
-(86,505,o),
-(86,622,qs),
-(86,648,o),
-(114,680,o),
-(135,680,qs),
-(159,680,o),
-(186,648,o),
-(185,618,qs),
-(184,577,l),
-(207,628,o),
-(277,677,o),
-(316,677,qs),
-(395,677,o),
-(454,556,o),
-(437,435,qs),
-(433,411,o),
-(406,385,o),
-(387,385,qs),
-(361,385,o),
-(334,418,o),
-(337,449,qs),
-(344,523,o),
-(330,587,o),
-(299,587,qs),
-(262,587,o),
-(210,496,o),
-(195,423,qs),
-(184,372,o),
-(144,372,qs)
 );
 }
 );

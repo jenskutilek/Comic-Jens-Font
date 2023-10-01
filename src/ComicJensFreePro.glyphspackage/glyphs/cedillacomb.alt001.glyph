@@ -57,6 +57,35 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+origin = (0,28);
+stem = 6;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,28);
+target = (0,4);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,28);
+stem = -1;
+target = (0,22);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,22);
+target = (0,10);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -142,79 +171,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 500;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (346,0);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,19);
-stem = 6;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,19);
-target = (0,14);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,19);
-stem = -1;
-target = (0,26);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,26);
-target = (0,9);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(303,-247,o),
-(270,-233,qs),
-(251,-225,o),
-(234,-205,o),
-(234,-177,o),
-(255,-158,o),
-(274,-158,qs),
-(283,-158,o),
-(331,-165,o),
-(348,-165,qs),
-(373,-165,o),
-(373,-146,qs),
-(373,-136,o),
-(358,-127,o),
-(341,-126,qs),
-(273,-123,o),
-(273,-79,qs),
-(273,-54,o),
-(306,-26,o),
-(333,-26,qs),
-(369,-26,o),
-(436,-60,o),
-(472,-117,o),
-(470,-151,qs),
-(467,-195,o),
-(401,-247,o),
-(348,-247,qs)
-);
-}
-);
 width = 500;
 }
 );

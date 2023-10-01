@@ -41,6 +41,21 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+origin = (0,20);
+stem = 4;
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,20);
+stem = -1;
+target = (0,8);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -61,8 +76,11 @@ nodes = (
 (249,789,o),
 (227,735,o),
 (206,694,cs),
-(180,643,o),
-(202,618,o),
+(198,678,o),
+(194,664,o),
+(194,653,cs),
+(194,630,o),
+(210,618,o),
 (228,618,cs)
 );
 }
@@ -113,54 +131,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 500;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (221,551);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,15);
-stem = 4;
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,15);
-stem = -1;
-target = (0,6);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(206,618,o),
-(188,659,o),
-(206,694,qs),
-(245,771,o),
-(262,853,qs),
-(274,912,o),
-(319,912,qs),
-(351,912,o),
-(377,865,o),
-(374,830,qs),
-(371,799,o),
-(339,718,o),
-(311,675,qs),
-(293,646,o),
-(249,618,o),
-(228,618,qs)
-);
-}
-);
 width = 500;
 }
 );

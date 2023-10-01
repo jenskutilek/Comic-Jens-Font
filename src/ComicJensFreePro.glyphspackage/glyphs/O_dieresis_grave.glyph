@@ -55,35 +55,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 744;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-pos = (7,0);
-ref = O;
-},
-{
-pos = (20,-40);
-ref = dieresiscomb.case;
-},
-{
-alignment = -1;
-pos = (225,188);
-ref = gravecomb.case;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 744;
 }
 );
 }

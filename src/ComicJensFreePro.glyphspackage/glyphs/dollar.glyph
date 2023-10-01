@@ -2,6 +2,94 @@
 glyphname = dollar;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,26,1,8);
+target = (0,14,1,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,26,1,8);
+target = (1,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,17);
+target = (0,35,1,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,2,1,17);
+target = (1,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,17);
+other1 = (0,32,1,17);
+target = (0,2,1,17);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,35,1,17);
+target = (0,38,1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,17);
+target = (0,44,1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,26,1,8);
+target = (0,23,1,17);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,17);
+target = (0,11,1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,26,1,8);
+other1 = (0,5,1,17);
+target = (0,35,1,17);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,26,1,8);
+other1 = (0,8,1,8);
+target = (0,35,1,17);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,17);
+other1 = (0,29,1,8);
+target = (0,2,1,17);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -22,8 +110,11 @@ nodes = (
 (181,74,o),
 (151,87,o),
 (122,111,cs),
-(77,148,o),
-(26,101,o),
+(88,139,o),
+(50,119,o),
+(50,84,cs),
+(50,73,o),
+(53,61,o),
 (62,49,cs),
 (86,15,o),
 (140,-22,o),
@@ -202,202 +293,6 @@ nodes = (
 );
 }
 );
-width = 493;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-target = (0,15);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,15);
-target = (1,8);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-target = (0,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,56);
-stem = -1;
-target = (0,60);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,26);
-target = (2,0);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,26);
-target = (0,34);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (2,0);
-target = (0,45);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,26);
-stem = -1;
-target = (0,30);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-other1 = (1,5);
-target = (2,0);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-other1 = (0,18);
-target = (2,0);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,15);
-other1 = (2,6);
-target = (0,26);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,15);
-other1 = (0,46);
-target = (0,26);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(164,-141,o),
-(140,-107,o),
-(144,-83,q),
-(146,-72,o),
-(153,-25,o),
-(155,-14,q),
-(126,-5,o),
-(77,28,o),
-(62,49,q),
-(50,67,o),
-(50,102,o),
-(73,125,o),
-(106,124,o),
-(122,111,q),
-(143,93,o),
-(169,83,q),
-(183,178,o),
-(200,300,o),
-(207,353,q),
-(174,368,o),
-(123,410,o),
-(91,460,o),
-(80,517,o),
-(86,549,q),
-(96,610,o),
-(185,691,o),
-(252,699,q),
-(260,767,l),
-(263,790,o),
-(292,817,o),
-(312,817,q),
-(336,817,o),
-(363,783,o),
-(360,757,q),
-(351,691,l),
-(368,685,o),
-(398,670,o),
-(410,661,q),
-(425,649,o),
-(435,617,o),
-(424,588,o),
-(396,575,o),
-(379,580,q),
-(374,581,o),
-(348,593,o),
-(339,596,q),
-(313,413,l),
-(353,392,o),
-(405,343,o),
-(433,282,o),
-(438,206,o),
-(429,159,q),
-(422,126,o),
-(390,65,o),
-(341,16,o),
-(280,-15,o),
-(246,-20,q),
-(234,-89,l),
-(230,-114,o),
-(206,-141,o),
-(187,-141,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(289,93,o),
-(323,142,o),
-(331,180,q),
-(340,221,o),
-(323,281,o),
-(297,304,q),
-(291,265,o),
-(277,173,o),
-(262,82,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(239,600,l),
-(215,592,o),
-(187,556,o),
-(184,531,q),
-(182,510,o),
-(200,477,o),
-(222,461,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 493;
 }
 );

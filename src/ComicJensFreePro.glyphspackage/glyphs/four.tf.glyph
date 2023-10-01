@@ -2,7 +2,7 @@
 glyphname = four.tf;
 layers = (
 {
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -54,6 +54,123 @@ nodes = (
 (4,349,cs),
 (-2,297,o),
 (17,254,o),
+(87,261,c),
+(201,261,o),
+(391,269,o),
+(490,273,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,15);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,5);
+other1 = (0,2,1,30);
+target = (1,15);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,30);
+target = (0,11,1,30);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,30);
+target = (0,2,1,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,8);
+target = (0,11,1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (1,15);
+other1 = (0,14);
+target = (0,2,1,30);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,8);
+target = (1,21);
+type = TTShift;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,337,o),
+(270,176,o),
+(271,17,cs),
+(271,-22,o),
+(290,-41,o),
+(317,-41,cs),
+(344,-41,o),
+(367,-22,o),
+(367,13,c),
+(373,176,o),
+(372,340,o),
+(364,502,cs),
+(362,537,o),
+(342,556,o),
+(314,556,cs),
+(286,556,o),
+(262,537,o),
+(263,498,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(526,275,o),
+(544,295,o),
+(544,318,cs),
+(544,341,o),
+(529,364,o),
+(490,364,cs),
+(388,363,o),
+(182,356,o),
+(80,356,c),
+(98,319,l),
+(114,456,o),
+(137,556,o),
+(153,644,cs),
+(162,693,o),
+(129,711,o),
+(106,711,cs),
+(86,711,o),
+(61,700,o),
+(54,664,cs),
+(37,574,o),
+(17,467,o),
+(5,358,c),
+(4,349,o),
+(3,337,o),
+(3,332,cs),
+(3,288,o),
+(25,255,o),
 (87,261,c),
 (201,261,o),
 (391,269,o),
@@ -155,134 +272,6 @@ nodes = (
 );
 }
 );
-width = 550;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,54);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,17);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,54);
-other1 = (0,3);
-target = (0,17);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3);
-target = (0,48);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3);
-target = (0,28);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,28);
-target = (0,38);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,28);
-target = (0,11);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,17);
-other1 = (0,32);
-target = (0,28);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(297,-41,o),
-(271,-12,o),
-(271,17,q),
-(268,264,l),
-(218,262,o),
-(125,261,o),
-(87,261,q),
-(61,258,o),
-(27,271,o),
-(7,295,o),
-(2,329,o),
-(4,349,q),
-(14,438,o),
-(41,596,o),
-(54,664,q),
-(59,691,o),
-(91,711,o),
-(106,711,q),
-(115,711,o),
-(134,704,o),
-(149,688,o),
-(156,662,o),
-(153,644,q),
-(142,584,o),
-(114,445,o),
-(102,356,q),
-(136,356,o),
-(221,357,o),
-(266,359,q),
-(263,498,l),
-(262,527,o),
-(293,556,o),
-(314,556,q),
-(335,556,o),
-(362,528,o),
-(364,502,q),
-(366,467,o),
-(368,397,o),
-(369,362,q),
-(490,364,l),
-(519,364,o),
-(544,335,o),
-(544,318,q),
-(544,301,o),
-(517,275,o),
-(490,273,q),
-(466,271,o),
-(405,269,o),
-(371,268,q),
-(371,204,o),
-(369,77,o),
-(367,13,q),
-(367,-13,o),
-(337,-41,o),
-(317,-41,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 550;
 }
 );

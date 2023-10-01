@@ -8,7 +8,7 @@ name = _top;
 pos = (291,480);
 }
 );
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -24,6 +24,73 @@ nodes = (
 (157,688,cs),
 (153,617,o),
 (201,556,o),
+(296,556,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(265,642,o),
+(248,658,o),
+(249,686,cs),
+(250,709,o),
+(267,736,o),
+(306,736,cs),
+(335,736,o),
+(358,721,o),
+(356,691,cs),
+(354,657,o),
+(325,642,o),
+(296,642,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+stem = 4;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (1,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,11);
+stem = -1;
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5);
+target = (1,5);
+type = TTStem;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(373,556,o),
+(439,602,o),
+(447,678,cs),
+(455,756,o),
+(407,822,o),
+(308,822,cs),
+(218,822,o),
+(157,757,o),
+(157,680,cs),
+(157,612,o),
+(205,556,o),
 (296,556,cs)
 );
 },
@@ -130,97 +197,6 @@ magnetic = 5;
 x = -234;
 y = 0;
 }
-);
-};
-width = 500;
-},
-{
-anchors = (
-{
-name = _top;
-pos = (291,480);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-stem = 4;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,11);
-target = (1,10);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,11);
-stem = -1;
-target = (0,5);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,5);
-target = (1,5);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(230,556,o),
-(154,630,o),
-(157,688,q),
-(161,747,o),
-(247,822,o),
-(308,822,q),
-(378,822,o),
-(453,741,o),
-(447,678,q),
-(441,623,o),
-(357,556,o),
-(296,556,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(322,642,o),
-(355,669,o),
-(356,691,q),
-(357,713,o),
-(329,736,o),
-(306,736,q),
-(280,736,o),
-(250,707,o),
-(249,686,q),
-(247,642,o),
-(296,642,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 87;
-isGlobal = 0;
-magnetic = 5;
-x = -234;
-y = 0;
-}
-);
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
 );
 };
 width = 500;

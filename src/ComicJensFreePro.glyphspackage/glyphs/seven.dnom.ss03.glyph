@@ -2,7 +2,27 @@
 glyphname = seven.dnom.ss03;
 layers = (
 {
-color = 6;
+hints = (
+{
+horizontal = 1;
+origin = (0,30);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+target = (0,20);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,20);
+target = (0,5);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -60,73 +80,6 @@ shapes = (
 alignment = -1;
 pos = (0,-420);
 ref = sevensuperior.ss03;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 402;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,26);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,12);
-target = (0,6);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,6);
-target = (0,21);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(129,-48,o),
-(105,-4,o),
-(116,35,qs),
-(139,121,o),
-(235,263,q),
-(120,265,o),
-(87,267,qs),
-(63,268,o),
-(38,294,o),
-(38,312,qs),
-(38,334,o),
-(72,360,o),
-(104,360,qs),
-(138,360,o),
-(265,352,o),
-(278,349,qs),
-(308,344,o),
-(338,312,o),
-(338,290,qs),
-(338,278,o),
-(330,257,o),
-(322,243,qs),
-(244,101,o),
-(214,7,qs),
-(205,-22,o),
-(178,-48,o),
-(157,-48,qs)
-);
 }
 );
 userData = {

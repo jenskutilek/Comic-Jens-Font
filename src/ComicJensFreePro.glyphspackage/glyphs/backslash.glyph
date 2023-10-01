@@ -2,6 +2,18 @@
 glyphname = backslash;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,20);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,8);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -76,47 +88,6 @@ nodes = (
 (80,590,o),
 (63,630,o),
 (63,650,q)
-);
-}
-);
-width = 489;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,17);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,8);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(354,-40,o),
-(337,7,qs),
-(229,297,o),
-(69,623,qs),
-(61,640,o),
-(61,652,qs),
-(61,672,o),
-(92,699,o),
-(112,699,qs),
-(141,699,o),
-(158,667,qs),
-(236,523,o),
-(381,183,o),
-(429,38,qs),
-(436,16,o),
-(428,-19,o),
-(403,-40,o),
-(387,-40,qs)
 );
 }
 );

@@ -2,6 +2,20 @@
 glyphname = bullet;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,14);
+stem = -1;
+target = (0,8);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -55,47 +69,6 @@ nodes = (
 (117,203,o),
 (67,269,o),
 (67,313,q)
-);
-}
-);
-width = 353;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,15);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,15);
-stem = -1;
-target = (0,7);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(163,185,o),
-(104,215,o),
-(67,270,o),
-(67,307,qs),
-(67,336,o),
-(97,388,o),
-(151,420,o),
-(186,420,qs),
-(234,420,o),
-(296,352,o),
-(296,301,qs),
-(296,268,o),
-(278,249,q),
-(276,218,o),
-(229,185,o),
-(197,185,qs)
 );
 }
 );

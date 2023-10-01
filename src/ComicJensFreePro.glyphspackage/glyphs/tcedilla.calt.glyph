@@ -111,20 +111,6 @@ ref = cedilla;
 }
 );
 width = 429;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = t.calt;
-},
-{
-pos = (-88,0);
-ref = cedillacomb;
-}
-);
-width = 429;
 }
 );
 }

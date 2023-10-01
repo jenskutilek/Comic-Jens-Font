@@ -14,13 +14,51 @@ name = top;
 pos = (338,725);
 }
 );
+hints = (
+{
+horizontal = 1;
+origin = (2,12);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (0,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5);
+target = (0,23);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (2,12);
+other1 = (1,11);
+target = (0,11);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,11);
+target = (1,5);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(190,635,o),
-(432,633,o),
+(158,638,o),
+(279,635,o),
+(387,635,cs),
+(447,635,o),
+(504,636,o),
 (544,638,cs),
 (580,640,o),
 (597,659,o),
@@ -28,11 +66,17 @@ nodes = (
 (597,714,o),
 (579,735,o),
 (527,734,cs),
-(389,730,o),
-(258,727,o),
+(449,732,o),
+(373,730,o),
+(296,730,cs),
+(236,730,o),
+(176,731,o),
 (112,734,cs),
-(39,737,o),
-(34,650,o),
+(73,736,o),
+(54,712,o),
+(54,688,cs),
+(54,667,o),
+(69,647,o),
 (100,644,cs)
 );
 },
@@ -163,111 +207,6 @@ nodes = (
 );
 }
 );
-width = 625;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (162,5);
-},
-{
-name = top;
-pos = (338,725);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,39);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,14);
-target = (0,20);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,20);
-target = (0,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (0,39);
-other1 = (0,31);
-target = (0,14);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,31);
-target = (0,26);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(136,-14,o),
-(107,17,o),
-(106,44,qs),
-(104,128,o),
-(114,452,o),
-(125,642,q),
-(100,644,l),
-(76,646,o),
-(51,676,o),
-(57,713,o),
-(89,735,o),
-(112,734,qs),
-(256,730,o),
-(388,731,o),
-(527,734,qs),
-(562,735,o),
-(597,710,o),
-(597,684,qs),
-(597,664,o),
-(569,639,o),
-(544,638,qs),
-(363,633,o),
-(227,637,q),
-(220,493,o),
-(216,405,q),
-(358,412,o),
-(425,409,qs),
-(457,407,o),
-(487,383,o),
-(487,335,o),
-(455,309,o),
-(397,309,o),
-(373,310,qs),
-(285,312,o),
-(213,312,q),
-(208,147,o),
-(210,51,qs),
-(211,21,o),
-(184,-14,o),
-(159,-14,qs)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 625;
 }
 );

@@ -65,6 +65,53 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+origin = (1,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,21);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,17);
+other1 = (0,30);
+target = (0,21);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (1,17);
+other1 = (1,8);
+target = (0,21);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,30);
+target = (0,2,1,5);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,30);
+target = (0,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (0,11,1,5);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -204,106 +251,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 452;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,41);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,11);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,41);
-other1 = (0,3);
-target = (0,11);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-origin = (0,41);
-other1 = (0,23);
-target = (0,11);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3);
-target = (0,37);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,3);
-target = (0,20);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,20);
-target = (0,27);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(212,-65,o),
-(187,-34,o),
-(188,-5,qs),
-(191,48,l),
-(134,48,o),
-(72,64,o),
-(46,103,o),
-(46,141,qs),
-(46,225,o),
-(59,306,qs),
-(67,356,o),
-(111,356,qs),
-(134,356,o),
-(162,324,o),
-(160,294,qs),
-(156,251,o),
-(155,233,qs),
-(149,175,o),
-(147,140,q),
-(183,138,o),
-(198,138,q),
-(206,244,ls),
-(211,302,o),
-(255,302,qs),
-(305,302,o),
-(305,233,qs),
-(305,188,o),
-(301,143,q),
-(351,147,o),
-(360,147,qs),
-(384,147,o),
-(412,124,o),
-(412,105,qs),
-(412,89,o),
-(391,65,o),
-(374,61,qs),
-(343,54,o),
-(292,51,q),
-(291,34,o),
-(283,-11,qs),
-(272,-65,o),
-(235,-65,qs)
-);
-}
-);
 width = 452;
 }
 );

@@ -18,6 +18,39 @@ name = top;
 pos = (324,715);
 }
 );
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (0,45);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,33);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,15);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+other1 = (0,11,0,15);
+target = (0,33);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (0,33);
+target = (0,54);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -26,8 +59,11 @@ nodes = (
 (63,575,o),
 (48,493,o),
 (43,380,cs),
-(34,179,o),
-(79,-11,o),
+(42,364,o),
+(42,348,o),
+(42,332,cs),
+(42,150,o),
+(91,-11,o),
 (232,-11,cs),
 (322,-11,o),
 (411,39,o),
@@ -176,122 +212,6 @@ nodes = (
 );
 }
 );
-width = 605;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (233,10);
-},
-{
-name = bottomAttach;
-pos = (570,14);
-},
-{
-name = top;
-pos = (324,715);
-}
-);
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,5);
-target = (0,25);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,35);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,49);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,5);
-other1 = (0,2);
-target = (0,35);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-origin = (0,35);
-target = (0,14);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(483,-25,o),
-(426,74,o),
-(419,163,q),
-(387,73,o),
-(299,-11,o),
-(232,-11,qs),
-(133,-11,o),
-(35,197,o),
-(43,380,qs),
-(46,453,o),
-(65,585,o),
-(86,672,qs),
-(91,693,o),
-(119,717,o),
-(138,717,qs),
-(162,717,o),
-(190,682,o),
-(184,654,qs),
-(178,625,ls),
-(162,548,o),
-(145,426,o),
-(142,359,qs),
-(138,282,o),
-(161,156,o),
-(209,85,o),
-(241,85,qs),
-(282,85,o),
-(338,152,o),
-(360,229,qs),
-(396,349,o),
-(414,490,q),
-(415,536,o),
-(427,634,o),
-(434,661,qs),
-(446,709,o),
-(487,709,qs),
-(508,709,o),
-(533,682,o),
-(535,629,o),
-(527,557,o),
-(514,486,q),
-(497,341,o),
-(500,132,o),
-(519,99,qs),
-(530,79,o),
-(561,53,qs),
-(577,39,o),
-(577,0,o),
-(549,-25,o),
-(526,-25,qs)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 605;
 }
 );

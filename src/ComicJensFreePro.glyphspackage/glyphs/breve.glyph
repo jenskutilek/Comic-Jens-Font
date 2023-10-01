@@ -51,17 +51,6 @@ nodes = (
 }
 );
 width = 378;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-pos = (-123,-13);
-ref = brevecomb;
-}
-);
-width = 378;
 }
 );
 unicode = 728;

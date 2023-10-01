@@ -4,6 +4,34 @@ kernLeft = two;
 kernRight = two;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,20);
+target = (0,26);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,36);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,36);
+target = (0,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,26);
+target = (0,8);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -49,8 +77,11 @@ nodes = (
 (169,695,o),
 (100,624,o),
 (88,538,cs),
-(79,471,o),
-(151,469,o),
+(83,501,o),
+(103,484,o),
+(125,484,cs),
+(142,484,o),
+(160,495,o),
 (168,515,cs)
 );
 }
@@ -138,116 +169,6 @@ nodes = (
 );
 }
 );
-width = 546;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,40);
-target = (0,35);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,23);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,23);
-target = (0,12);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,35);
-target = (0,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,40);
-other1 = (0,30);
-target = (0,12);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,35);
-other1 = (0,8);
-target = (0,23);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(55,-14,o),
-(29,12,o),
-(29,32,q),
-(29,45,o),
-(38,67,o),
-(53,85,q),
-(62,96,o),
-(186,238,o),
-(275,361,o),
-(323,466,o),
-(329,513,q),
-(334,552,o),
-(300,600,o),
-(231,600,o),
-(184,558,o),
-(168,515,q),
-(162,499,o),
-(133,481,o),
-(101,488,o),
-(85,516,o),
-(88,538,q),
-(98,607,o),
-(198,695,o),
-(270,695,q),
-(324,695,o),
-(402,650,o),
-(441,569,o),
-(439,518,q),
-(437,474,o),
-(403,380,o),
-(339,278,o),
-(244,163,o),
-(163,80,q),
-(232,88,o),
-(393,98,o),
-(452,98,q),
-(479,98,o),
-(509,72,o),
-(509,31,o),
-(480,2,o),
-(455,1,q),
-(332,-6,o),
-(170,-12,o),
-(103,-12,q),
-(97,-12,o),
-(80,-14,o),
-(74,-14,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 546;
 }
 );

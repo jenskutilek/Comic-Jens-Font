@@ -113,17 +113,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 406;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-pos = (0,426);
-ref = eight.dnom;
-}
-);
-width = 406;
 }
 );
 unicode = 8312;

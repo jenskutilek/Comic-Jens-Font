@@ -98,6 +98,71 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,64);
+target = (0,0);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,25);
+target = (0,37);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,37);
+target = (0,19);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+target = (0,55);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,64);
+other1 = (0,52);
+target = (0,25);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,52);
+target = (0,6);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,52);
+target = (0,43);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,43);
+target = (0,16);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,25);
+target = (0,28);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -283,139 +348,6 @@ nodes = (
 (164,203,o),
 (182,222,q),
 (155,224,l)
-);
-}
-);
-width = 621;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-target = (0,48);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,28);
-target = (0,18);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,18);
-target = (0,33);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,48);
-target = (0,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,56);
-other1 = (0,7);
-target = (0,28);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,7);
-target = (0,44);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,7);
-target = (0,14);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,14);
-target = (0,35);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,28);
-target = (0,26);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(194,-14,o),
-(123,-10,qs),
-(43,-6,o),
-(43,43,qs),
-(43,72,o),
-(68,92,q),
-(120,157,o),
-(179,222,q),
-(151,222,o),
-(133,224,qs),
-(112,227,o),
-(89,252,o),
-(89,268,qs),
-(89,326,o),
-(182,326,qs),
-(220,326,o),
-(273,320,q),
-(327,374,o),
-(384,428,q),
-(241,425,o),
-(123,431,qs),
-(97,432,o),
-(67,460,o),
-(67,480,qs),
-(67,502,o),
-(97,528,o),
-(125,528,qs),
-(223,528,o),
-(477,516,qs),
-(499,515,o),
-(527,489,o),
-(527,466,qs),
-(527,435,o),
-(495,411,q),
-(447,358,o),
-(392,301,q),
-(430,292,ls),
-(457,286,o),
-(480,258,o),
-(480,241,qs),
-(480,220,o),
-(447,197,o),
-(420,201,qs),
-(331,214,o),
-(310,216,q),
-(203,109,o),
-(173,78,q),
-(250,82,o),
-(351,84,qs),
-(524,87,ls),
-(550,87,o),
-(579,63,o),
-(579,43,qs),
-(579,-7,o),
-(504,-10,qs),
-(417,-14,o),
-(315,-14,qs)
 );
 }
 );

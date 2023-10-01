@@ -2,6 +2,18 @@
 glyphname = blackCircle;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,20);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -70,50 +82,6 @@ nodes = (
 (245,534,o),
 (366,569,o),
 (426,572,q)
-);
-}
-);
-width = 761;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,20);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,7);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(277,-22,o),
-(152,62,o),
-(87,199,o),
-(87,276,qs),
-(87,373,o),
-(189,507,o),
-(340,572,o),
-(411,572,qs),
-(453,572,o),
-(471,549,q),
-(481,551,o),
-(489,551,qs),
-(540,551,o),
-(620,462,o),
-(664,326,o),
-(664,194,o),
-(624,107,o),
-(535,36,o),
-(477,-1,o),
-(408,-22,o),
-(363,-22,qs)
 );
 }
 );

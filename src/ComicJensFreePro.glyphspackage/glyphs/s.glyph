@@ -70,6 +70,54 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,35);
+target = (0,26);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,17);
+other1 = (0,29);
+target = (0,26);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,8);
+other1 = (0,11);
+target = (0,35);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+other1 = (0,23,0);
+target = (0,35);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,17);
+other1 = (0,5,0);
+target = (0,26);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -192,130 +240,6 @@ nodes = (
 );
 }
 );
-width = 395;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (156,0);
-},
-{
-name = top;
-pos = (237,500);
-}
-);
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-target = (0,34);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,46);
-target = (0,11);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,34);
-other1 = (0,16);
-target = (0,46);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-other1 = (0,39);
-target = (0,11);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (0,22);
-other1 = (0,6);
-target = (0,11);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (0,34);
-other1 = (0,29);
-target = (0,46);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(105,-20,o),
-(35,4,o),
-(-9,45,o),
-(-9,68,qs),
-(-9,84,o),
-(9,104,o),
-(26,104,qs),
-(37,104,o),
-(60,95,o),
-(86,82,o),
-(110,74,o),
-(127,74,qs),
-(152,74,o),
-(184,103,o),
-(187,127,qs),
-(190,153,o),
-(174,206,o),
-(109,302,o),
-(89,359,o),
-(91,388,qs),
-(95,451,o),
-(180,523,o),
-(248,523,qs),
-(284,523,o),
-(348,496,o),
-(388,452,o),
-(388,431,qs),
-(388,413,o),
-(367,390,o),
-(349,390,qs),
-(340,390,o),
-(322,399,o),
-(293,422,o),
-(263,436,o),
-(243,436,qs),
-(222,436,o),
-(194,410,o),
-(193,387,qs),
-(192,374,o),
-(205,342,o),
-(270,244,o),
-(295,164,o),
-(291,122,qs),
-(287,80,o),
-(245,16,o),
-(178,-20,o),
-(140,-20,qs)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 395;
 },
 {
@@ -521,165 +445,6 @@ nodes = (
 userData = {
 com.typemytype.robofont.mark = (
 0.619,
-1,
-0.6,
-1
-);
-};
-width = 395;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (156,0);
-},
-{
-name = top;
-pos = (237,500);
-}
-);
-associatedMasterId = "92936CB7-D294-4857-B41D-63B9425360A1";
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(87,-11,o),
-(162,-8,o),
-(224,21,cs),
-(280,47,o),
-(325,94,o),
-(333,157,cs),
-(343,241,o),
-(300,289,o),
-(245,325,cs),
-(213,346,o),
-(190,360,o),
-(193,389,cs),
-(196,416,o),
-(215,427,o),
-(237,427,cs),
-(252,427,o),
-(269,422,o),
-(286,412,cs),
-(320,392,o),
-(370,428,o),
-(333,476,cs),
-(311,505,o),
-(275,523,o),
-(235,523,cs),
-(166,523,o),
-(104,470,o),
-(96,399,cs),
-(88,327,o),
-(124,286,o),
-(172,251,cs),
-(205,227,o),
-(234,204,o),
-(231,167,cs),
-(229,136,o),
-(209,113,o),
-(174,97,cs),
-(141,82,o),
-(93,79,o),
-(50,77,cs),
-(6,76,o),
-(-11,56,o),
-(-11,31,cs),
-(-11,3,o),
-(13,-11,o),
-(46,-11,cs)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,18);
-target = (0,27);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,41);
-target = (0,4);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,27);
-other1 = (0,12);
-target = (0,41);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,18);
-other1 = (0,33);
-target = (0,4);
-type = TTInterpolate;
-}
-);
-layerId = "B23474EC-6CE5-487E-ADDC-0F1D47ABE968";
-name = "Aug 3 20, 22:51";
-shapes = (
-{
-closed = 1;
-nodes = (
-(20,-11,o),
-(-11,11,o),
-(-11,52,o),
-(20,76,o),
-(50,77,qs),
-(100,79,o),
-(155,88,o),
-(174,97,qs),
-(228,122,o),
-(231,167,qs),
-(232,188,o),
-(209,224,o),
-(172,251,qs),
-(126,284,o),
-(91,354,o),
-(96,399,qs),
-(102,452,o),
-(183,523,o),
-(235,523,qs),
-(264,523,o),
-(316,498,o),
-(333,476,qs),
-(349,455,o),
-(342,417,o),
-(304,402,o),
-(286,412,qs),
-(260,427,o),
-(237,427,qs),
-(219,427,o),
-(195,408,o),
-(193,389,qs),
-(191,370,o),
-(214,345,o),
-(245,325,qs),
-(297,291,o),
-(340,210,o),
-(333,157,qs),
-(327,113,o),
-(270,43,o),
-(224,21,qs),
-(156,-11,o),
-(46,-11,qs)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
 1,
 0.6,
 1

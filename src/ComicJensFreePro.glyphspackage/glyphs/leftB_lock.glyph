@@ -2,6 +2,18 @@
 glyphname = leftBlock;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,2);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -26,33 +38,6 @@ nodes = (
 (384,-274,l),
 (0,-274,l),
 (0,750,l)
-);
-}
-);
-width = 768;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,3);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,0);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,750,l),
-(384,750,l),
-(384,-274,l),
-(0,-274,l)
 );
 }
 );

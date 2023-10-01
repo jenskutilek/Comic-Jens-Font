@@ -121,21 +121,6 @@ ref = macroncomb.case;
 }
 );
 width = 429;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = t.calt;
-},
-{
-alignment = -1;
-pos = (-34,-556);
-ref = macroncomb.case;
-}
-);
-width = 429;
 }
 );
 }

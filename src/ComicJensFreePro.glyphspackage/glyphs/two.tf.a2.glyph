@@ -23,17 +23,6 @@ ref = two.a2;
 }
 );
 width = 550;
-},
-{
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-pos = (2,0);
-ref = two.a2;
-}
-);
-width = 550;
 }
 );
 }

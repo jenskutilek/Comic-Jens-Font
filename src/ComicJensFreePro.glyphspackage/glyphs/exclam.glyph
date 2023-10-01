@@ -2,6 +2,26 @@
 glyphname = exclam;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (1,11);
+stem = 2;
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,5);
+target = (0,17);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,8);
+type = TTSnap;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -108,84 +128,6 @@ nodes = (
 );
 }
 );
-width = 389;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (1,15);
-stem = -1;
-target = (1,7);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (1,7);
-target = (0,17);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,8);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(164,214,o),
-(134,245,o),
-(138,282,q),
-(149,391,o),
-(168,584,o),
-(176,684,q),
-(178,714,o),
-(214,737,o),
-(231,737,q),
-(248,737,o),
-(281,710,o),
-(280,678,q),
-(278,578,o),
-(252,380,o),
-(235,270,q),
-(230,244,o),
-(203,214,o),
-(182,214,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(118,-24,o),
-(75,15,o),
-(75,39,q),
-(75,56,o),
-(94,89,o),
-(123,116,o),
-(159,132,o),
-(176,132,q),
-(205,132,o),
-(240,95,o),
-(240,60,q),
-(240,43,o),
-(224,12,o),
-(199,-11,o),
-(166,-24,o),
-(148,-24,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 389;
 }
 );

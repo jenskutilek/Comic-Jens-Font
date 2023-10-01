@@ -56,6 +56,48 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+origin = (0,44);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,44);
+target = (0,23);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,44);
+other1 = (0,20,0,29);
+target = (0,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,23);
+other1 = (0,5,0,41);
+target = (0,14);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -211,117 +253,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 406;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,24);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,24);
-target = (1,10);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,10);
-target = (2,6);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,10);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,24);
-other1 = (1,5);
-target = (2,6);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,10);
-other1 = (2,11);
-target = (0,10);
-type = TTInterpolate;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(113,-73,o),
-(43,-11,o),
-(43,39,qs),
-(43,105,o),
-(111,153,q),
-(75,189,o),
-(75,236,qs),
-(75,271,o),
-(112,333,o),
-(178,371,o),
-(220,371,qs),
-(254,371,o),
-(269,356,q),
-(303,356,o),
-(355,305,o),
-(355,268,qs),
-(355,231,o),
-(307,175,o),
-(265,149,q),
-(287,128,o),
-(313,81,o),
-(313,50,qs),
-(313,-5,o),
-(236,-73,o),
-(174,-73,qs)
-);
-},
-{
-closed = 1;
-nodes = (
-(191,17,o),
-(213,35,o),
-(213,51,qs),
-(213,63,o),
-(196,85,o),
-(180,98,q),
-(142,72,o),
-(142,47,qs),
-(142,34,o),
-(159,17,o),
-(175,17,qs)
-);
-},
-{
-closed = 1;
-nodes = (
-(223,220,o),
-(254,251,o),
-(254,270,qs),
-(254,276,o),
-(244,287,o),
-(239,291,q),
-(237,291,ls),
-(210,286,o),
-(173,257,o),
-(173,238,qs),
-(173,221,o),
-(194,203,q)
-);
-}
-);
 width = 406;
 },
 {

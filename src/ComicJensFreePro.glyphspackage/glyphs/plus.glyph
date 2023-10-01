@@ -2,6 +2,44 @@
 glyphname = plus;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (1,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (1,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,14);
+target = (0,8,1,14);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,2,1,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2,1,14);
+target = (0,2,1,5);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8,1,14);
+target = (0,8,1,5);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -119,103 +157,6 @@ nodes = (
 );
 }
 );
-width = 595;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,39);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,16);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,4);
-target = (0,13);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,4);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,4);
-target = (0,33);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,13);
-target = (0,22);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(273,59,o),
-(244,87,o),
-(245,114,q),
-(247,192,o),
-(245,272,q),
-(108,267,l),
-(80,266,o),
-(52,293,o),
-(52,334,o),
-(81,363,o),
-(110,366,q),
-(139,369,o),
-(206,372,o),
-(243,373,q),
-(238,511,l),
-(236,537,o),
-(267,563,o),
-(307,563,o),
-(337,539,o),
-(339,513,q),
-(342,480,o),
-(346,410,o),
-(347,374,q),
-(389,374,o),
-(466,372,o),
-(500,370,q),
-(524,369,o),
-(547,341,o),
-(547,308,o),
-(523,281,o),
-(500,281,q),
-(464,280,o),
-(387,279,o),
-(348,277,q),
-(348,230,o),
-(344,146,o),
-(341,113,q),
-(339,86,o),
-(311,59,o),
-(291,59,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 595;
 }
 );

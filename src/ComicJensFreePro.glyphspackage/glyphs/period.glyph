@@ -2,7 +2,7 @@
 glyphname = period;
 layers = (
 {
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -12,6 +12,37 @@ nodes = (
 (101,51,cs),
 (98,13,o),
 (121,-21,o),
+(168,-21,cs),
+(224,-21,o),
+(249,31,o),
+(252,70,cs),
+(255,116,o),
+(226,138,o),
+(198,138,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 8;
+origin = (0,5);
+stem = -1;
+target = (0,11);
+type = TTStem;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,138,o),
+(101,92,o),
+(101,44,cs),
+(101,9,o),
+(124,-21,o),
 (168,-21,cs),
 (224,-21,o),
 (249,31,o),
@@ -59,47 +90,6 @@ nodes = (
 );
 }
 );
-width = 363;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 8;
-origin = (0,11);
-stem = -1;
-target = (0,5);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(134,-21,o),
-(99,21,o),
-(101,51,qs),
-(103,85,o),
-(160,138,o),
-(198,138,qs),
-(221,138,o),
-(255,102,o),
-(252,70,qs),
-(249,35,o),
-(206,-21,o),
-(168,-21,qs)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 363;
 }
 );

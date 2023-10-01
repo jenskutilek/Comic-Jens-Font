@@ -16,6 +16,18 @@ options = 10;
 origin = (0,0);
 scale = (1.02174,1);
 type = Cap;
+},
+{
+horizontal = 1;
+origin = (0,3);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+target = (0,2);
+type = TTStem;
 }
 );
 layerId = master01;
@@ -56,43 +68,6 @@ nodes = (
 (318,-209,o),
 (105,-225,o),
 (-4,-227,q)
-);
-}
-);
-width = 442;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,11);
-target = (0,4);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-24,-214,o),
-(-50,-185,o),
-(-50,-149,o),
-(-24,-120,o),
-(0,-120,qs),
-(442,-120,ls),
-(466,-120,o),
-(492,-149,o),
-(492,-185,o),
-(466,-214,o),
-(442,-214,qs),
-(0,-214,ls)
 );
 }
 );

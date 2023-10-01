@@ -83,6 +83,41 @@ name = top;
 pos = (233,624);
 }
 );
+hints = (
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,23,1,2);
+target = (0,23,1,14);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,23,1,2);
+target = (0,8,1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,23,1,14);
+target = (0,8,1,14);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,23,1,2);
+stem = -1;
+target = (0,2);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -123,8 +158,11 @@ nodes = (
 (18,481,o),
 (6,458,o),
 (6,437,cs),
-(6,416,o),
-(18,382,o),
+(6,419,o),
+(15,390,o),
+(61,390,cs),
+(68,390,o),
+(75,391,o),
 (83,392,cs),
 (176,407,o),
 (270,418,o),
@@ -135,103 +173,6 @@ nodes = (
 (452,497,o),
 (434,519,o),
 (393,519,cs)
-);
-}
-);
-width = 429;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (258,0);
-},
-{
-name = top;
-pos = (233,624);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,40);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-target = (0,31);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-target = (0,15);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,31);
-target = (0,6);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,22);
-stem = -1;
-target = (0,19);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(232,-19,o),
-(207,11,qs),
-(181,43,o),
-(156,145,o),
-(156,220,qs),
-(156,272,o),
-(162,404,q),
-(83,392,ls),
-(46,386,o),
-(6,411,o),
-(6,437,qs),
-(6,456,o),
-(32,483,o),
-(57,488,qs),
-(121,500,o),
-(168,505,q),
-(174,606,ls),
-(175,633,o),
-(204,664,o),
-(246,664,o),
-(275,637,o),
-(274,614,qs),
-(268,515,l),
-(348,519,o),
-(393,519,qs),
-(420,519,o),
-(452,495,o),
-(452,455,o),
-(423,427,o),
-(398,426,qs),
-(338,422,o),
-(263,415,q),
-(257,273,o),
-(257,216,qs),
-(257,158,o),
-(274,88,o),
-(296,60,qs),
-(309,43,o),
-(308,6,o),
-(281,-19,o),
-(262,-19,qs)
 );
 }
 );

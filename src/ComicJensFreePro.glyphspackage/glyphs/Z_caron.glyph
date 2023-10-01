@@ -137,20 +137,6 @@ nodes = (
 }
 );
 width = 687;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = Z;
-},
-{
-pos = (158,81);
-ref = caroncomb.case;
-}
-);
-width = 687;
 }
 );
 unicode = 381;

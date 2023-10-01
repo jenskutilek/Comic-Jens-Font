@@ -22,6 +22,105 @@ name = top2;
 pos = (656,763);
 }
 );
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,29);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (2,23);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,14,1,11);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (1,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,8);
+stem = -1;
+target = (2,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,14,1,11);
+stem = -1;
+target = (0,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,11);
+target = (0,14,1,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,14,1,11);
+target = (1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,2);
+target = (0,23,1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,11);
+target = (0,23,1,11);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,11);
+other1 = (1,11,2,17);
+target = (1,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,11);
+other1 = (1,11,2,8);
+target = (1,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,2);
+other1 = (1,2,2,17);
+target = (1,2);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14,1,2);
+other1 = (1,2,2,8);
+target = (1,2);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -209,209 +308,6 @@ nodes = (
 (145,384,o),
 (58,383,o),
 (14,383,q)
-);
-}
-);
-width = 886;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (259,-7);
-},
-{
-name = bottom2;
-pos = (685,13);
-},
-{
-name = top;
-pos = (209,624);
-},
-{
-name = top2;
-pos = (656,646);
-}
-);
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,74);
-target = (0,64);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,50);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,22);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,22);
-target = (0,34);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-target = (0,14);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-target = (0,59);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,59);
-target = (0,6);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,34);
-target = (0,40);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-other1 = (0,24);
-target = (0,34);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,22);
-other1 = (0,32);
-target = (0,34);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,59);
-other1 = (0,57);
-target = (0,40);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,59);
-other1 = (0,41);
-target = (0,40);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-origin = (0,22);
-stem = -1;
-target = (0,18);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,34);
-stem = -1;
-target = (0,28);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(232,-26,o),
-(193,10,qs),
-(163,38,o),
-(130,126,o),
-(129,213,qs),
-(129,264,o),
-(133,392,q),
-(53,381,ls),
-(10,375,o),
-(-24,404,o),
-(-24,424,qs),
-(-24,463,o),
-(27,474,qs),
-(71,484,o),
-(138,492,q),
-(144,595,ls),
-(146,623,o),
-(175,653,o),
-(196,653,qs),
-(215,653,o),
-(245,627,o),
-(244,603,qs),
-(238.232,503.891,l),
-(391,520,o),
-(596,528,q),
-(601,619,ls),
-(603,647,o),
-(632,677,o),
-(653,677,qs),
-(672,677,o),
-(702,651,o),
-(701,627,qs),
-(695.528,530.549,l),
-(738,532,o),
-(820,532,qs),
-(849,532,o),
-(879,508,o),
-(879,491,qs),
-(879,472,o),
-(851,448,o),
-(825,447,qs),
-(690.647,439.531,l),
-(684,304,o),
-(684,229,qs),
-(684,166,o),
-(703,99,o),
-(723,73,qs),
-(737,55,o),
-(734,18,o),
-(707,-6,o),
-(689,-6,qs),
-(659,-6,o),
-(634,24,qs),
-(612,51,o),
-(583,146,o),
-(583,233,qs),
-(583,309,o),
-(590,433,q),
-(388,421,o),
-(233,404,q),
-(228,278,o),
-(230,209,qs),
-(232,136,o),
-(261,69,o),
-(293,69,qs),
-(312,69,o),
-(339,77,o),
-(357,84,qs),
-(376,92,o),
-(406,73,o),
-(411,36,o),
-(396,18,qs),
-(380,-1,o),
-(327,-26,o),
-(293,-26,qs)
 );
 }
 );

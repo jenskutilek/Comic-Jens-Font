@@ -2,6 +2,48 @@
 glyphname = divide;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,2);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,5);
+stem = -1;
+target = (1,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,2);
+stem = -1;
+target = (2,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (2,11);
+stem = -1;
+target = (2,5);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -150,128 +192,6 @@ nodes = (
 );
 }
 );
-width = 595;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,15);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,15);
-target = (0,10);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,15);
-stem = -1;
-target = (1,5);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (1,5);
-stem = -1;
-target = (1,13);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,15);
-stem = -1;
-target = (2,17);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (2,17);
-stem = -1;
-target = (2,9);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(95,246,o),
-(66,276,o),
-(66,298,q),
-(66,314,o),
-(88,340,o),
-(113,345,q),
-(140,351,o),
-(220,359,o),
-(314,365,o),
-(415,368,o),
-(463,368,q),
-(502,368,o),
-(533,341,o),
-(533,321,q),
-(533,279,o),
-(477,276,q),
-(391,272,o),
-(206,260,o),
-(125,250,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(258,67,o),
-(224,113,o),
-(224,142,q),
-(224,167,o),
-(258,207,o),
-(297,207,q),
-(327,207,o),
-(376,178,o),
-(376,143,q),
-(376,128,o),
-(359,100,o),
-(334,79,o),
-(303,67,o),
-(288,67,q)
-);
-},
-{
-closed = 1;
-nodes = (
-(276,428,o),
-(245,439,o),
-(220,459,o),
-(204,486,o),
-(204,502,q),
-(204,519,o),
-(219,542,o),
-(241,555,o),
-(268,561,o),
-(280,561,q),
-(291,561,o),
-(318,552,o),
-(341,535,o),
-(356,509,o),
-(356,492,q),
-(356,458,o),
-(316,428,o),
-(291,428,q)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
 width = 595;
 }
 );

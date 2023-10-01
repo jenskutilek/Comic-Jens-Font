@@ -105,21 +105,6 @@ nodes = (
 }
 );
 width = 551;
-},
-{
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-ref = longs;
-},
-{
-alignment = -1;
-pos = (261,0);
-ref = idotless;
-}
-);
-width = 551;
 }
 );
 }

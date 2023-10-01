@@ -48,28 +48,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 568;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = "U-cy";
-},
-{
-pos = (49,-14);
-ref = macroncomb.case;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 568;
 }
 );
 unicode = 1262;

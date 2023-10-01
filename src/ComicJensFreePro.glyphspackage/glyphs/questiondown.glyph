@@ -105,18 +105,6 @@ nodes = (
 }
 );
 width = 531;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-angle = 180;
-pos = (531,494);
-ref = question;
-}
-);
-width = 531;
 }
 );
 unicode = 191;

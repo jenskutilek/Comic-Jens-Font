@@ -87,49 +87,6 @@ nodes = (
 }
 );
 width = 768;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,11);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,6);
-type = TTSnap;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(365,-324,o),
-(334,-299,o),
-(334,-274,qs),
-(334,750,ls),
-(334,775,o),
-(365,800,o),
-(403,800,o),
-(434,775,o),
-(434,750,qs),
-(434,-274,ls),
-(434,-299,o),
-(403,-324,o)
-);
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.656,
-1,
-0.6,
-1
-);
-};
-width = 768;
 }
 );
 unicode = 9474;

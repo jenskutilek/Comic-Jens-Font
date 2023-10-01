@@ -74,6 +74,46 @@ nodes = (
 }
 );
 };
+hints = (
+{
+horizontal = 1;
+origin = (0,47);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,31);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,15);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,47);
+other1 = (0,24,0,28);
+target = (0,31);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,47);
+other1 = (0,40,0,44);
+target = (0,31);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,40,0,44);
+target = (0,5,0,9);
+type = TTShift;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -111,8 +151,11 @@ nodes = (
 (116,725,o),
 (97,739,o),
 (70,739,cs),
-(33,739,o),
-(19,703,o),
+(41,739,o),
+(26,716,o),
+(26,689,cs),
+(26,681,o),
+(27,674,o),
 (29,666,cs),
 (61,543,o),
 (166,379,o),
@@ -198,105 +241,6 @@ nodes = (
 (81,536,o),
 (39,635,o),
 (27,674,q)
-);
-}
-);
-width = 657;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (259,-6);
-},
-{
-name = top;
-pos = (343,725);
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = (0,37);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,12);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,24);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,37);
-other1 = (0,17);
-target = (0,12);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,37);
-other1 = (0,6);
-target = (0,12);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,6);
-target = (0,32);
-type = TTShift;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(236,-29,o),
-(207,3,o),
-(209,29,qs),
-(213,84,o),
-(225,173,qs),
-(236,259,o),
-(242,331,q),
-(175,384,o),
-(52,578,o),
-(29,666,qs),
-(21,696,o),
-(44,739,o),
-(70,739,qs),
-(112,739,o),
-(126,691,qs),
-(149,612,o),
-(230,478,o),
-(298,408,q),
-(332,434,o),
-(389,491,o),
-(425,533,qs),
-(489,608,o),
-(536,686,qs),
-(564,731,o),
-(596,731,qs),
-(622,731,o),
-(645,688,o),
-(634,659,qs),
-(622,627,o),
-(535,504,o),
-(503,471,qs),
-(418,384,o),
-(343,335,q),
-(331,158,o),
-(309,21,qs),
-(305,-3,o),
-(277,-29,o),
-(258,-29,qs)
 );
 }
 );

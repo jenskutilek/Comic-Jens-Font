@@ -2,6 +2,27 @@
 glyphname = ordmasculine;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (1,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5);
+target = (1,5);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -97,67 +118,6 @@ nodes = (
 (298,625,o),
 (291,639,o),
 (286,639,q)
-);
-}
-);
-width = 475;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (0,12);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,12);
-target = (1,10);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,6);
-target = (1,3);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(145,396,o),
-(51,466,o),
-(51,529,qs),
-(51,580,o),
-(114,680,o),
-(216,744,o),
-(273,744,qs),
-(335,744,o),
-(407,654,o),
-(407,577,qs),
-(407,492,o),
-(305,396,o),
-(218,396,qs)
-);
-},
-{
-closed = 1;
-nodes = (
-(304,486,o),
-(304,582,qs),
-(304,654,o),
-(262,654,qs),
-(240,654,o),
-(187,617,o),
-(151,562,o),
-(151,537,qs),
-(151,513,o),
-(191,486,o),
-(224,486,qs)
 );
 }
 );

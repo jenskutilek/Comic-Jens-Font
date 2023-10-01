@@ -87,17 +87,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 384;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-pos = (0,430);
-ref = zero.dnom;
-}
-);
-width = 384;
 }
 );
 unicode = 8304;

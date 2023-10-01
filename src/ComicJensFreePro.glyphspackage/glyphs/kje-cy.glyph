@@ -47,28 +47,6 @@ com.typemytype.robofont.mark = (
 );
 };
 width = 590;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = kgreenlandic;
-},
-{
-pos = (2,0);
-ref = acutecomb;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 590;
 }
 );
 unicode = 1116;

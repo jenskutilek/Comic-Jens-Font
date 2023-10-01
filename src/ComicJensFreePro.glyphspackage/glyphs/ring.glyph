@@ -78,25 +78,6 @@ nodes = (
 }
 );
 width = 406;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-pos = (-100,-104);
-ref = ringcomb;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 406;
 }
 );
 unicode = 730;

@@ -2,6 +2,104 @@
 glyphname = H_T_H;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (1,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (3,13);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (4,12);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (6,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (5,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (5,8);
+target = (4,9,5,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (4,9,5,2);
+target = (4,5,5,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (5,8);
+target = (6,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (5,8);
+target = (0,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (5,8);
+target = (3,6);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (5,8);
+target = (1,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (1,17);
+other1 = (2,2);
+target = (3,6);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,2);
+target = (2,3);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (6,17);
+other1 = (6,5,7,7);
+target = (6,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (6,5,7,7);
+target = (6,5,7,3);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -319,233 +417,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 1663;
-},
-{
-hints = (
-{
-horizontal = 1;
-origin = (1,38);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,28);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (2,26);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,13);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,41);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (2,13);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (2,13);
-target = (2,4);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (2,4);
-target = (2,20);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (2,13);
-target = (0,21);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (2,13);
-target = (0,33);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (2,13);
-target = (1,21);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (2,13);
-target = (1,10);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (1,38);
-other1 = (1,32);
-target = (1,21);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,32);
-target = (1,17);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,13);
-other1 = (0,6);
-target = (0,21);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,6);
-target = (0,28);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1497,-26,o),
-(1468,5,o),
-(1469,32,qs),
-(1474,139,o),
-(1477,258,q),
-(1402,261,o),
-(1311,261,qs),
-(1247,261,o),
-(1215,260,q),
-(1214,154,o),
-(1209,38,qs),
-(1208,11,o),
-(1178,-16,o),
-(1158,-16,qs),
-(1138,-16,o),
-(1108,14,o),
-(1109,42,qs),
-(1117,313,o),
-(1113,541,qs),
-(1112,569,o),
-(1140,599,o),
-(1162,599,qs),
-(1186,599,o),
-(1212,567,o),
-(1213,527,qs),
-(1216,443,o),
-(1216,350,q),
-(1240,351,o),
-(1289,351,qs),
-(1383,351,o),
-(1480,346,q),
-(1484,547,ls),
-(1485,609,o),
-(1536,609,qs),
-(1558,609,o),
-(1585,577,o),
-(1585,552,qs),
-(1585,228,o),
-(1569,29,qs),
-(1567,1,o),
-(1537,-26,o),
-(1518,-26,qs)
-);
-},
-{
-closed = 1;
-nodes = (
-(94,-23,o),
-(65,7,o),
-(65,35,qs),
-(65,120,o),
-(71,284,qs),
-(73,342,o),
-(76,457,o),
-(76,514,qs),
-(76,540,o),
-(103,568,o),
-(127,568,qs),
-(148,568,o),
-(176,538,o),
-(176,512,qs),
-(176,430,o),
-(173,333,q),
-(270,346,o),
-(441,346,q),
-(441,522,ls),
-(441,550,o),
-(468,580,o),
-(490,580,qs),
-(513,580,o),
-(541,553,o),
-(541,524,qs),
-(541,50,ls),
-(541,15,o),
-(511,-16,o),
-(490,-16,qs),
-(470,-16,o),
-(441,16,o),
-(441,46,qs),
-(441,256,l),
-(293,256,o),
-(171,242,q),
-(162,32,ls),
-(161,3,o),
-(134,-23,o),
-(114,-23,qs)
-);
-},
-{
-closed = 1;
-nodes = (
-(788,-18,o),
-(761,12,o),
-(762,40,qs),
-(770,329,o),
-(773,481,q),
-(677,478,ls),
-(628,477,ls),
-(603,477,o),
-(580,499,o),
-(580,517,qs),
-(580,566,o),
-(639,568,qs),
-(778,574,o),
-(1005,574,qs),
-(1030,574,o),
-(1059,546,o),
-(1059,529,qs),
-(1059,487,o),
-(1002,487,qs),
-(950,487,o),
-(873,484,q),
-(873,342,o),
-(867,135,o),
-(858,32,qs),
-(856,7,o),
-(830,-18,o),
-(811,-18,qs)
-);
-}
-);
 width = 1663;
 }
 );

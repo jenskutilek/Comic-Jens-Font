@@ -128,16 +128,6 @@ nodes = (
 }
 );
 width = 621;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = zstroke;
-}
-);
-width = 621;
 }
 );
 }

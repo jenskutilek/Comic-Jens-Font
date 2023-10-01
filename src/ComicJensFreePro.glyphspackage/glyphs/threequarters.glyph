@@ -204,27 +204,6 @@ nodes = (
 }
 );
 width = 843;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-alignment = -1;
-pos = (7,370);
-ref = three.dnom;
-},
-{
-alignment = -1;
-pos = (349,0);
-ref = fraction;
-},
-{
-pos = (408,0);
-ref = four.dnom;
-}
-);
-width = 843;
 }
 );
 unicode = 190;

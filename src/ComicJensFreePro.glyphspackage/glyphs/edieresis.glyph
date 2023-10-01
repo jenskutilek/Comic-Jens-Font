@@ -151,28 +151,6 @@ nodes = (
 }
 );
 width = 498;
-},
-{
-color = 6;
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-ref = e;
-},
-{
-pos = (-67,-20);
-ref = dieresiscomb;
-}
-);
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
-width = 498;
 }
 );
 unicode = 235;

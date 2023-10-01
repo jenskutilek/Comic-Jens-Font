@@ -2,6 +2,36 @@
 glyphname = five.dnom;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,31);
+target = (0,22);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (0,9,1,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,31);
+other1 = (0,5,0,9);
+target = (1,8);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5,0,9);
+target = (0,16);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {
@@ -50,8 +80,11 @@ nodes = (
 (325,336,o),
 (308,359,o),
 (266,361,cs),
-(229,363,o),
-(166,364,o),
+(246,362,o),
+(218,363,o),
+(191,363,cs),
+(169,363,o),
+(148,362,o),
 (133,361,cs),
 (70,355,o),
 (68,277,o),
@@ -136,89 +169,6 @@ com.typemytype.robofont.mark = (
 1
 );
 };
-width = 354;
-},
-{
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (0,41);
-target = (0,7);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,23);
-target = (0,33);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,41);
-other1 = (0,35);
-target = (0,23);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,35);
-target = (0,13);
-type = TTStem;
-}
-);
-layerId = "92936CB7-D294-4857-B41D-63B9425360A1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(100,-43,o),
-(41,-12,o),
-(41,17,qs),
-(41,35,o),
-(68,59,o),
-(95,54,qs),
-(124,48,o),
-(150,48,qs),
-(168,48,o),
-(186,63,o),
-(186,74,qs),
-(186,88,o),
-(159,105,o),
-(131,105,qs),
-(94,105,o),
-(61,142,o),
-(63,174,qs),
-(67,227,o),
-(91,300,q),
-(81,320,o),
-(105,357,o),
-(133,361,qs),
-(148,363,o),
-(191,363,qs),
-(226,363,o),
-(266,361,qs),
-(296,360,o),
-(325,331,o),
-(325,311,qs),
-(325,293,o),
-(298,266,o),
-(271,266,qs),
-(224,266,o),
-(179,269,q),
-(170,231,o),
-(166,191,q),
-(232,185,o),
-(289,122,o),
-(289,79,qs),
-(289,23,o),
-(209,-43,o),
-(147,-43,qs)
-);
-}
-);
 width = 354;
 }
 );
