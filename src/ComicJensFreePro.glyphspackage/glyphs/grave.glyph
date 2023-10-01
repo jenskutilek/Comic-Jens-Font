@@ -102,12 +102,12 @@ color = 6;
 hints = (
 {
 horizontal = 1;
-place = (538, 21);
+place = (538,21);
 type = TTSnap;
 },
 {
 horizontal = 1;
-place = (538, 191);
+place = (538,191);
 stem = -1;
 type = TTStem;
 }
