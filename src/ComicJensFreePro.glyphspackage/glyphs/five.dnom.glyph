@@ -12,13 +12,6 @@ type = TTStem;
 },
 {
 horizontal = 1;
-options = 4;
-origin = (1,8);
-target = (0,9,1,17);
-type = TTStem;
-},
-{
-horizontal = 1;
 origin = (0,31);
 other1 = (0,5,0,9);
 target = (1,8);
@@ -29,6 +22,13 @@ horizontal = 1;
 options = 4;
 origin = (0,5,0,9);
 target = (0,16);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (0,9,1,17);
 type = TTStem;
 }
 );

@@ -832,6 +832,11 @@ size = 0;
 name = "box top";
 pos = 800;
 size = 0;
+},
+{
+name = "dnom top";
+pos = 335;
+size = 30;
 }
 );
 }
