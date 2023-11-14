@@ -1,5 +1,5 @@
 {
-.appVersion = "3220";
+.appVersion = "3227";
 .formatVersion = 3;
 axes = (
 {
@@ -696,7 +696,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 },
 {
 axesValues = (
@@ -5013,6 +5012,15 @@ value = "Copyright 2007 - 2023 by Jens Kutilek. All rights reserved.";
 );
 },
 {
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "A wonderful font based on the handwriting of Jens Kutilek and destined to conquer the world.";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -5024,19 +5032,6 @@ value = "Jens Kutilek";
 {
 key = designerURL;
 value = "https://www.kutilek.de/";
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Jens Kutilek";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://www.kutilek.de/comic-jens/free/";
 },
 {
 key = licenses;
@@ -5052,8 +5047,17 @@ key = licenseURL;
 value = "http://creativecommons.org/licenses/by-nd/3.0/";
 },
 {
-key = vendorID;
-value = JENS;
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Jens Kutilek";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://www.kutilek.de/comic-jens/free/";
 },
 {
 key = trademarks;
@@ -5065,13 +5069,8 @@ value = "Comic Jens is a trademark of Jens Kutilek.";
 );
 },
 {
-key = descriptions;
-values = (
-{
-language = dflt;
-value = "A wonderful font based on the handwriting of Jens Kutilek and destined to conquer the world.";
-}
-);
+key = vendorID;
+value = JENS;
 }
 );
 settings = {
