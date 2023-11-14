@@ -25,27 +25,27 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,8,1,2);
-target = (0,8,1,11);
+origin = (1,17);
+target = (1,11);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,8,1,11);
-target = (0,29,1,11);
+origin = (1,11);
+target = (1,8);
 type = TTShift;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,8,1,2);
-target = (0,29,1,2);
+origin = (1,17);
+target = (1,2);
 type = TTShift;
 },
 {
 horizontal = 1;
-origin = (0,8,1,2);
+origin = (1,17);
 stem = -1;
 target = (0,2);
 type = TTStem;

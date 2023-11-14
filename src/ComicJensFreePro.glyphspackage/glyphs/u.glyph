@@ -95,7 +95,7 @@ type = TTStem;
 {
 horizontal = 1;
 origin = (0,18);
-target = (0,34);
+target = (0,33);
 type = TTShift;
 }
 );

@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3151";
 .formatVersion = 3;
 axes = (
 {
@@ -657,11 +657,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 }
@@ -768,11 +768,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 },
@@ -821,8 +821,8 @@ size = -51;
 },
 {
 name = desc;
-pos = -406;
-size = -39;
+pos = -328;
+size = -22;
 },
 {
 name = "box bottom";

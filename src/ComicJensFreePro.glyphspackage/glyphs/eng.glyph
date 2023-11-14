@@ -103,8 +103,11 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,23);
-type = TTSnap;
+options = 4;
+origin = (0,42);
+other1 = (0,35,0,39);
+target = (0,54);
+type = TTInterpolate;
 }
 );
 layerId = master01;

@@ -30,15 +30,15 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,17,1,8);
-target = (0,26);
+origin = (1,5);
+target = (1,8);
 type = TTShift;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,14,1,17);
-target = (0,2,1,17);
+origin = (1,17);
+target = (1,14);
 type = TTShift;
 },
 {
@@ -48,7 +48,7 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,14,1,17);
+origin = (1,17);
 type = TTSnap;
 },
 {
@@ -56,14 +56,14 @@ horizontal = 1;
 options = 8;
 origin = (0,2);
 other1 = (0,5);
-target = (0,14,1,17);
+target = (1,17);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,14,1,17);
-target = (0,17,1,8);
+origin = (1,17);
+target = (1,5);
 type = TTStem;
 }
 );

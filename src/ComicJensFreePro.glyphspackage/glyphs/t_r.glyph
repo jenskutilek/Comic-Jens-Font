@@ -147,21 +147,7 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,33,1,14);
-target = (0,42,1,14);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,33,1,14);
-target = (0,33,1,23);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,42,1,14);
+origin = (0,42);
 target = (0,39);
 type = TTShift;
 },
@@ -174,16 +160,17 @@ type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,33,1,14);
-target = (0,30);
-type = TTShift;
+options = 4;
+origin = (0,30);
+target = (0,42);
+type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
 origin = (0,30);
-target = (0,42,0,46);
-type = TTStem;
+target = (0,33);
+type = TTShift;
 }
 );
 layerId = master01;

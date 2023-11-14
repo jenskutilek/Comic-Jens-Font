@@ -59,6 +59,23 @@ horizontal = 1;
 origin = (1,32);
 target = (1,42);
 type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,36);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"12" = -8;
+"13" = -8;
+"14" = -8;
+"15" = -8;
+"16" = -8;
+"17" = -8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

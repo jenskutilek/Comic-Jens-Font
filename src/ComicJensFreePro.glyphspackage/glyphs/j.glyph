@@ -32,11 +32,6 @@ origin = (0,11);
 stem = 2;
 target = (0,5);
 type = TTStem;
-},
-{
-horizontal = 1;
-origin = (1,23);
-type = TTSnap;
 }
 );
 layerId = master01;

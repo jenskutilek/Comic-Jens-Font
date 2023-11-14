@@ -28,7 +28,6 @@ pos = (369,725);
 hints = (
 {
 horizontal = 1;
-options = 4;
 origin = (0,56);
 target = (0,25);
 type = TTShift;

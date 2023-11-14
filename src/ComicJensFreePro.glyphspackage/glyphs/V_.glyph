@@ -36,6 +36,20 @@ origin = (0,5);
 other1 = (0,20,0,24);
 target = (0,27);
 type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (0,27);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"12" = 8;
+"15" = 8;
+"18" = 8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

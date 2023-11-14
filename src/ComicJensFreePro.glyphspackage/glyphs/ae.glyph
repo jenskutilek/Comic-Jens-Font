@@ -116,7 +116,7 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,39);
+origin = (0,40);
 target = (1,2);
 type = TTStem;
 },
@@ -130,46 +130,58 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (1,20);
+origin = (1,21);
 target = (0,21);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (1,27);
-target = (1,39);
+origin = (1,28);
+target = (1,40);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 8;
-origin = (0,39);
-other1 = (0,33,1,42);
-target = (1,27);
+origin = (0,40);
+other1 = (0,31);
+target = (1,28);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 8;
 origin = (0,6);
-other1 = (0,18,1,14);
-target = (1,20);
+other1 = (1,12);
+target = (1,21);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,18,1,14);
-target = (0,21,0,30);
+origin = (1,12);
+target = (0,30);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,33,1,42);
-target = (1,2,1,11);
+origin = (0,31);
+target = (1,11);
 type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,12);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"17" = -8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;
@@ -207,9 +219,10 @@ nodes = (
 (492,331,cs),
 (453,316,o),
 (406,305,o),
-(346,295,cs),
-(266,282,o),
-(201,273,o),
+(346,295,c),
+(289,286,l),
+(235,277,o),
+(190,268,o),
 (155,253,cs),
 (85,222,o),
 (50,180,o),
@@ -231,9 +244,10 @@ nodes = (
 (160,135,o),
 (172,157,o),
 (203,173,cs),
-(244,194,o),
-(290,199,o),
-(366,212,cs),
+(230,187,o),
+(260,194,o),
+(299,201,c),
+(366,212,l),
 (420,221,o),
 (484,231,o),
 (537,251,cs),
