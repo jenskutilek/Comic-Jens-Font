@@ -34,15 +34,15 @@ type = TTStem;
 {
 horizontal = 1;
 origin = (0,24);
-other1 = (0,40,1,12);
+other1 = (1,12);
 target = (0,12);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,40,1,12);
-target = (0,40,1,8);
+origin = (1,12);
+target = (1,5);
 type = TTStem;
 },
 {

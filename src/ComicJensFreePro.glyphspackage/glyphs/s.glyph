@@ -87,25 +87,9 @@ type = TTStem;
 },
 {
 horizontal = 1;
-options = 8;
-origin = (0,17);
-other1 = (0,29);
-target = (0,26);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (0,8);
-other1 = (0,11);
-target = (0,35);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
 options = 4;
 origin = (0,8);
-other1 = (0,23,0);
+other1 = (0,23);
 target = (0,35);
 type = TTInterpolate;
 },
@@ -113,7 +97,7 @@ type = TTInterpolate;
 horizontal = 1;
 options = 4;
 origin = (0,17);
-other1 = (0,5,0);
+other1 = (0,5);
 target = (0,26);
 type = TTInterpolate;
 }

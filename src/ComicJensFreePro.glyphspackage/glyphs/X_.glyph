@@ -118,6 +118,20 @@ origin = (0,14,1,15);
 other1 = (0,14,1,3);
 target = (0,2,2,15);
 type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (2,9);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"12" = 8;
+"15" = 8;
+"18" = 8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

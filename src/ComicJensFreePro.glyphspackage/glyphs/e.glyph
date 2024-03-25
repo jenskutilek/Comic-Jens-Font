@@ -94,6 +94,22 @@ type = TTStem;
 horizontal = 1;
 origin = (0,21);
 type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,21);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"11" = -8;
+"13" = -8;
+"15" = -8;
+"17" = -8;
+"19" = -8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

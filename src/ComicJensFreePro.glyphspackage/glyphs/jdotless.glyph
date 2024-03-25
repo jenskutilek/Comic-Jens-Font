@@ -24,11 +24,6 @@ type = TTStem;
 horizontal = 1;
 origin = (0,35);
 type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,23);
-type = TTSnap;
 }
 );
 layerId = master01;

@@ -86,11 +86,6 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = (0,53);
-type = TTSnap;
-},
-{
-horizontal = 1;
 origin = (0,27);
 type = TTSnap;
 },
@@ -132,6 +127,24 @@ origin = (0,5);
 other1 = (0,11,0,15);
 target = (0,40);
 type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (0,27);
+target = (0,53);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,27);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"12" = 8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

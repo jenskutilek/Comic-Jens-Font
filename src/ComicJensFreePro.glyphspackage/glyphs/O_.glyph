@@ -33,6 +33,19 @@ options = 4;
 origin = (0,8);
 target = (1,5);
 type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,8);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"12" = 8;
+"15" = 8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

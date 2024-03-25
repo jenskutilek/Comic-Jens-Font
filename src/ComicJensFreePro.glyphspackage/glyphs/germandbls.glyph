@@ -114,13 +114,13 @@ type = TTInterpolate;
 horizontal = 1;
 options = 4;
 origin = (0,23);
-target = (0,44,0,48);
+target = (0,44);
 type = TTStem;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,44,0,48);
+origin = (0,44);
 target = (0,20);
 type = TTShift;
 }

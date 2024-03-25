@@ -196,6 +196,23 @@ options = 4;
 origin = (1,48);
 target = (1,39);
 type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,48);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"11" = -8;
+"13" = -8;
+"15" = -8;
+"17" = -8;
+"19" = -8;
+"9" = -8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

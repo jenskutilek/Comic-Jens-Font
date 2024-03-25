@@ -88,15 +88,15 @@ type = TTStem;
 {
 horizontal = 1;
 origin = (6,17);
-other1 = (6,5,7,7);
+other1 = (7,4);
 target = (6,8);
 type = TTInterpolate;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (6,5,7,7);
-target = (6,5,7,3);
+origin = (7,4);
+target = (7,3);
 type = TTStem;
 }
 );

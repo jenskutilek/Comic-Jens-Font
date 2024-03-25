@@ -180,6 +180,18 @@ horizontal = 1;
 origin = (1,2);
 target = (0,2);
 type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,2);
+settings = {
+deltaV = {
+"{100, 0, 0, 0, 0, 0}" = {
+"19" = 8;
+};
+};
+};
+type = TTDelta;
 }
 );
 layerId = master01;

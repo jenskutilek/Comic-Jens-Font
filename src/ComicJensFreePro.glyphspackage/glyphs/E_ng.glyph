@@ -37,7 +37,7 @@ type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,35);
+origin = (0,34);
 type = TTSnap;
 },
 {
@@ -45,7 +45,7 @@ horizontal = 1;
 options = 4;
 origin = (0,56);
 other1 = (0,40,0,44);
-target = (0,35);
+target = (0,34);
 type = TTInterpolate;
 },
 {
