@@ -2,27 +2,6 @@
 glyphname = periodcentered;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(142,403,o),
-(99,361,o),
-(96,316,cs),
-(93,278,o),
-(116,244,o),
-(163,244,cs),
-(219,244,o),
-(244,296,o),
-(247,335,cs),
-(250,381,o),
-(221,403,o),
-(193,403,cs)
-);
-}
-);
-};
 hints = (
 {
 horizontal = 1;
