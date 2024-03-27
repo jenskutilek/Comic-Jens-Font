@@ -16,14 +16,6 @@ pos = (-140,-22);
 ref = dotaccentcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 626;
 },
 {
@@ -40,14 +32,6 @@ pos = (-139,-26);
 ref = dotaccentcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 626;
 }
 );

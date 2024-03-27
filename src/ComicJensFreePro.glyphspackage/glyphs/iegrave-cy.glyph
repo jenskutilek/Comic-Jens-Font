@@ -62,14 +62,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 473;
 },
 {
@@ -81,14 +73,6 @@ alignment = -1;
 ref = egrave;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 473;
 }
 );

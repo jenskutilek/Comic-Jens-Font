@@ -15,14 +15,6 @@ pos = (146,0);
 ref = hungarumlautcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 673;
 },
 {
@@ -39,14 +31,6 @@ pos = (128,-34);
 ref = hungarumlautcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 673;
 }
 );

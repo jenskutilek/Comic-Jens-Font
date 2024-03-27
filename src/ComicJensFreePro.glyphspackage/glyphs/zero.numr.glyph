@@ -10,14 +10,6 @@ pos = (0,430);
 ref = zero.dnom;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 384;
 },
 {
@@ -29,14 +21,6 @@ alignment = -1;
 ref = zerosuperior;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 384;
 }
 );

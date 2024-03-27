@@ -10,14 +10,6 @@ pos = (-97,-35);
 ref = gravecomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 309;
 },
 {

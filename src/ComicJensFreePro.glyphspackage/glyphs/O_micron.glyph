@@ -11,14 +11,6 @@ shapes = (
 ref = O;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 730;
 },
 {
@@ -30,14 +22,6 @@ alignment = -1;
 ref = O;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 730;
 }
 );

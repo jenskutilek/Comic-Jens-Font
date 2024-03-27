@@ -16,14 +16,6 @@ pos = (202,0);
 ref = acutecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.741,
-1,
-1
-);
-};
 width = 675;
 },
 {

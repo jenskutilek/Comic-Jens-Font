@@ -17,14 +17,6 @@ pos = (-34,73);
 ref = caroncomb.alt001;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 398;
 },
 {
@@ -41,14 +33,6 @@ pos = (36,7);
 ref = commaabovecomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 398;
 }
 );

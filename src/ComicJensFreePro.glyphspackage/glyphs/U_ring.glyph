@@ -15,14 +15,6 @@ pos = (23,0);
 ref = ringcomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 605;
 },
 {
@@ -39,14 +31,6 @@ pos = (25,-1);
 ref = ringcomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 605;
 }
 );

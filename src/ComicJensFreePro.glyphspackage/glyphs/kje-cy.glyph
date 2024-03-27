@@ -14,14 +14,6 @@ pos = (2,0);
 ref = acutecomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 590;
 },
 {
@@ -38,14 +30,6 @@ pos = (2,0);
 ref = acutecomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 590;
 }
 );

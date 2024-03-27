@@ -15,14 +15,6 @@ pos = (138,19);
 ref = circumflexcomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 578;
 },
 {
@@ -39,14 +31,6 @@ pos = (172,51);
 ref = circumflexcomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 578;
 }
 );

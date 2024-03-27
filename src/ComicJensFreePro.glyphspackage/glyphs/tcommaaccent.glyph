@@ -16,14 +16,6 @@ pos = (-124,-70);
 ref = commaaccentcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 429;
 },
 {
@@ -40,14 +32,6 @@ pos = (-171,-93);
 ref = commaaccentcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 429;
 }
 );

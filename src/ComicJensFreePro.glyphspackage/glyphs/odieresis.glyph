@@ -17,14 +17,6 @@ pos = (-43,-20);
 ref = dieresiscomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.741,
-1,
-1
-);
-};
 width = 572;
 },
 {

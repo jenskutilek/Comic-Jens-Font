@@ -15,14 +15,6 @@ pos = (213,75);
 ref = caroncomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 576;
 },
 {
@@ -39,14 +31,6 @@ pos = (196,71);
 ref = caroncomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 576;
 }
 );

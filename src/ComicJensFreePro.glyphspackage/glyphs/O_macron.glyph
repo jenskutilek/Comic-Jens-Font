@@ -15,14 +15,6 @@ pos = (120,-4);
 ref = macroncomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 730;
 },
 {
@@ -39,14 +31,6 @@ pos = (125,-5);
 ref = macroncomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 730;
 }
 );

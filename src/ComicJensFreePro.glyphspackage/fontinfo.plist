@@ -5090,9 +5090,6 @@ name = Dot;
 }
 );
 unitsPerEm = 1024;
-userData = {
-UFOFormat = 2;
-};
 versionMajor = 3;
 versionMinor = 0;
 }

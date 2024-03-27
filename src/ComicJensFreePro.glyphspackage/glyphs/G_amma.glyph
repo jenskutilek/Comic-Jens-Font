@@ -11,14 +11,6 @@ pos = (31,0);
 ref = "Ge-cy";
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 573;
 },
 {
@@ -31,14 +23,6 @@ pos = (19,0);
 ref = "Ge-cy";
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 573;
 }
 );

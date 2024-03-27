@@ -23,14 +23,6 @@ pos = (222,96);
 ref = acutecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 654;
 },
 {
@@ -47,23 +39,6 @@ pos = (267,96);
 ref = acutecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 0;
-isGlobal = 0;
-magnetic = 5;
-x = 0;
-y = 1024;
-}
-);
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 654;
 }
 );

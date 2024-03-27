@@ -799,14 +799,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-1,
-0.666,
-0.6,
-1
-);
-};
 width = 1647;
 },
 {

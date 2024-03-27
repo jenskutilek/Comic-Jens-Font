@@ -9,14 +9,6 @@ shapes = (
 ref = periodcentered;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 347;
 },
 {
@@ -28,14 +20,6 @@ alignment = -1;
 ref = periodcentered;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 347;
 }
 );

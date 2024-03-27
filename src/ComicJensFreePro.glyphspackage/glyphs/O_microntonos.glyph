@@ -17,14 +17,6 @@ pos = (161,0);
 ref = O;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 891;
 },
 {
@@ -42,14 +34,6 @@ pos = (4,5);
 ref = tonos;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 891;
 }
 );

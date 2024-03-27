@@ -10,14 +10,6 @@ pos = (0,94);
 ref = guillemetright;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 577;
 },
 {
@@ -30,14 +22,6 @@ pos = (0,94);
 ref = guillemetright;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 577;
 }
 );

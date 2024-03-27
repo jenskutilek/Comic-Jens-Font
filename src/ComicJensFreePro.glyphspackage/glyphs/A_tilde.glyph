@@ -15,14 +15,6 @@ pos = (221,10);
 ref = tildecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 652;
 },
 {
@@ -39,14 +31,6 @@ pos = (253,7);
 ref = tildecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 652;
 }
 );
