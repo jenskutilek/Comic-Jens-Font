@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -657,11 +657,11 @@ size = 29;
 },
 {
 pos = 6;
-size = "-51";
+size = -51;
 },
 {
-pos = "-406";
-size = "-39";
+pos = -406;
+size = -39;
 }
 );
 }
@@ -696,7 +696,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 },
 {
 axesValues = (
@@ -768,11 +767,11 @@ size = 29;
 },
 {
 pos = 6;
-size = "-51";
+size = -51;
 },
 {
-pos = "-406";
-size = "-39";
+pos = -406;
+size = -39;
 }
 );
 },
