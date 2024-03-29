@@ -5024,7 +5024,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2007 - 2023 by Jens Kutilek. All rights reserved.";
+value = "Copyright 2007 - 2024 by Jens Kutilek. All rights reserved.";
 }
 );
 },
