@@ -914,6 +914,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = de.kutilek.corretto.gasp;
 value = "8: gSgS, 96: GSGS, 65535: gSgS";
 },
