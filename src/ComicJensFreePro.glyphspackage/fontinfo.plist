@@ -916,6 +916,10 @@ customParameters = (
 {
 name = de.kutilek.corretto.gasp;
 value = "8: gSgS, 96: GSGS, 65535: gSgS";
+},
+{
+name = fileName;
+value = "ComicJensFreePro3-Regular";
 }
 );
 instanceInterpolations = {
