@@ -4,92 +4,7 @@ kernLeft = f;
 kernRight = f;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-origin = (0,20);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,23);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,14);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (1,14);
-target = (0,11);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,11);
-target = (0,2);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,14);
-target = (1,2);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (1,17,2,14);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,17,2,14);
-target = (1,2,2,14);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,17,2,14);
-target = (1,20,2,5);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,20,2,5);
-target = (1,29,2,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,17,2,14);
-target = (0,14,2,17);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,20,2,5);
-target = (0,17,2,2);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,2);
-other1 = (1,8);
-target = (1,17,2,14);
-type = TTInterpolate;
-}
-);
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -185,6 +100,194 @@ nodes = (
 (-16,375,o),
 (-1,345,o),
 (45,351,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,75);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,17);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,50);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,50);
+target = (0,56);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,56);
+target = (1,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,50);
+target = (0,38);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,8);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (0,35);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (0,11);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (0,23);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,8);
+target = (0,59);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,11);
+target = (0,69);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,38);
+other1 = (0,44);
+target = (1,8);
+type = TTInterpolate;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,-26,o),
+(206,-11,o),
+(206,33,cs),
+(206,149,o),
+(209,253,o),
+(225,371,c),
+(268,376,o),
+(306,379,o),
+(332,381,cs),
+(355,383,o),
+(378,384,o),
+(401,385,c),
+(384,256,o),
+(379,122,o),
+(382,32,cs),
+(383,-7,o),
+(406,-26,o),
+(431,-26,cs),
+(454,-26,o),
+(483,-11,o),
+(483,33,cs),
+(483,155,o),
+(486,264,o),
+(505,392,c),
+(547,394,o),
+(588,395,o),
+(630,396,cs),
+(664,397,o),
+(681,416,o),
+(681,440,cs),
+(681,459,o),
+(665,482,o),
+(627,483,cs),
+(592,484,o),
+(557,484,o),
+(522,483,c),
+(549,613,o),
+(583,670,o),
+(635,670,cs),
+(671,670,o),
+(704,646,o),
+(733,622,cs),
+(742,615,o),
+(751,611,o),
+(760,611,cs),
+(791,611,o),
+(812,653,o),
+(778,697,cs),
+(755,726,o),
+(702,766,o),
+(636,766,cs),
+(575,766,o),
+(529,741,o),
+(494,695,c),
+(465,719,o),
+(414,740,o),
+(362,740,cs),
+(229,740,o),
+(164,633,o),
+(134,459,c),
+(103,456,o),
+(72,453,o),
+(41,449,cs),
+(-7,443,o),
+(-16,417,o),
+(-16,397,cs),
+(-16,375,o),
+(-1,345,o),
+(45,351,cs),
+(120,360,l),
+(107,239,o),
+(103,116,o),
+(105,32,cs),
+(106,-7,o),
+(129,-26,o),
+(154,-26,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(268,591,o),
+(306,644,o),
+(361,644,cs),
+(388,644,o),
+(424,632,o),
+(452,616,c),
+(436,577,o),
+(424,531,o),
+(415,479,c),
+(388,478,o),
+(360,477,o),
+(333,475,cs),
+(242,469,l)
 );
 }
 );

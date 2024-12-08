@@ -2,51 +2,7 @@
 glyphname = five;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-options = 4;
-origin = (1,26);
-target = (1,14);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (1,26);
-stem = 6;
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,8);
-target = (0,2);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,2);
-target = (1,0);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 8;
-origin = (1,26);
-other1 = (1,5);
-target = (0,8);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,5);
-target = (1,35,1,39);
-type = TTStem;
-}
-);
-layerId = master01;
+background = {
 shapes = (
 {
 closed = 1;
@@ -115,6 +71,116 @@ nodes = (
 (217,572,o),
 (248,663,c),
 (141,674,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,27);
+target = (0,15);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,27);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,48);
+target = (0,42);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,42);
+target = (0,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 8;
+origin = (0,27);
+other1 = (0,6);
+target = (0,48);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,6);
+target = (0,36);
+type = TTStem;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,612,l),
+(104,560,o),
+(89,502,o),
+(83,461,cs),
+(75,408,o),
+(76,363,o),
+(138,353,c),
+(167,341,o),
+(200,326,o),
+(229,312,cs),
+(304,275,o),
+(333,237,o),
+(328,160,cs),
+(322,73,o),
+(282,45,o),
+(231,45,cs),
+(195,45,o),
+(169,55,o),
+(134,63,cs),
+(97,72,o),
+(74,51,o),
+(74,24,cs),
+(74,3,o),
+(84,-12,o),
+(111,-24,cs),
+(144,-38,o),
+(189,-50,o),
+(238,-50,cs),
+(357,-50,o),
+(427,48,o),
+(435,145,cs),
+(446,270,o),
+(394,353,o),
+(256,407,cs),
+(228,418,o),
+(201,427,o),
+(177,434,c),
+(192,496,o),
+(213,560,o),
+(235,626,c),
+(321,635,o),
+(401,641,o),
+(451,644,cs),
+(487,646,o),
+(504,667,o),
+(504,691,cs),
+(504,714,o),
+(487,735,o),
+(450,735,cs),
+(322,735,o),
+(212,725,o),
+(83,709,cs),
+(42,704,o),
+(22,686,o),
+(22,655,cs),
+(22,626,o),
+(41,600,o),
+(88,607,cs)
 );
 }
 );

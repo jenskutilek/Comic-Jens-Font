@@ -36,14 +36,16 @@ type = TTStem;
 },
 {
 horizontal = 1;
-origin = (1,17);
-type = TTSnap;
-},
-{
-horizontal = 1;
 options = 4;
 origin = (1,17);
 target = (2,17);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,27);
+stem = -1;
+target = (1,17);
 type = TTStem;
 }
 );

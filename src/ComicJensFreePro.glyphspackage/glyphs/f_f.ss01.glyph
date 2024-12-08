@@ -9,144 +9,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(700,778,l),
-(593,778,o),
-(480,691,o),
-(480,404,cs),
-(480,267,o),
-(487,153,o),
-(496,11,c),
-(489,-18,l),
-(499,-45,o),
-(516,-57,o),
-(540,-57,cs),
-(570,-57,o),
-(590,-37,o),
-(589,1,cs),
-(584,135,o),
-(584,273,o),
-(584,409,cs),
-(584,598,o),
-(639,687,o),
-(690,687,c)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-origin = (0,29);
-type = TTSnap;
-},
-{
-horizontal = 1;
-origin = (0,29);
-target = (0,108);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,50);
-target = (0,41);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,73);
-target = (0,8);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,17,0,38);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,17,0,38);
-target = (0,38,0,67);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,17,0,38);
-target = (0,17,0,56);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,38,0,67);
-target = (0,56,0,67);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,96);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,96);
-target = (0,90);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,108);
-other1 = (0,79,0,83);
-target = (0,96);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,29);
-other1 = (0,59,0,63);
-target = (0,17,0,38);
-type = TTInterpolate;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,17,0,38);
-target = (0,8,0,14);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,38,0,67);
-target = (0,8,0,70);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,96);
-target = (0,79,0,102);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,90);
-target = (0,79,0,87);
-type = TTShift;
-}
-);
-layerId = master01;
-shapes = (
-{
-closed = 1;
-nodes = (
 (570,-57,o),
 (591,-37,o),
 (589,1,cs),
@@ -256,6 +118,259 @@ nodes = (
 (499,-45,o),
 (516,-57,o),
 (540,-57,cs)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,69);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,69);
+target = (0,91);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,48);
+target = (0,39);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,27);
+target = (3,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,33);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,33);
+target = (0,78);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,33);
+target = (0,54);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,78);
+target = (1,2);
+type = TTShift;
+},
+{
+horizontal = 1;
+origin = (0,14);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+target = (0,8);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,91);
+other1 = (2,5);
+target = (0,14);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,69);
+other1 = (1,6);
+target = (0,33);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,33);
+target = (3,8);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,78);
+target = (0,21);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,14);
+target = (0,82);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,8);
+target = (2,2);
+type = TTShift;
+}
+);
+layerId = master01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(570,-57,o),
+(591,-37,o),
+(589,1,cs),
+(583,101,o),
+(580,205,o),
+(579,308,c),
+(651,315,o),
+(723,317,o),
+(761,317,cs),
+(793,317,o),
+(815,335,o),
+(815,362,cs),
+(815,381,o),
+(804,405,o),
+(764,405,cs),
+(719,405,o),
+(653,401,o),
+(579,391,c),
+(579,397,o),
+(579,403,o),
+(579,409,cs),
+(579,422,l),
+(749,466,o),
+(828,551,o),
+(828,649,cs),
+(828,730,o),
+(780,778,o),
+(700,778,cs),
+(602,778,o),
+(499,708,o),
+(479,487,c),
+(418,480,o),
+(358,477,o),
+(301,474,c),
+(305,534,o),
+(312,591,o),
+(325,635,cs),
+(338,676,o),
+(363,700,o),
+(408,700,cs),
+(433,700,o),
+(453,695,o),
+(468,690,cs),
+(516,675,o),
+(542,725,o),
+(504,760,cs),
+(486,776,o),
+(453,789,o),
+(409,789,cs),
+(348,789,o),
+(277,764,o),
+(236,665,cs),
+(214,611,o),
+(204,534,o),
+(199,464,c),
+(159,459,o),
+(121,452,o),
+(87,439,cs),
+(37,421,o),
+(24,398,o),
+(24,366,cs),
+(24,320,o),
+(65,230,o),
+(98,164,cs),
+(126,108,o),
+(163,46,o),
+(209,-13,c),
+(219,-30,o),
+(235,-38,o),
+(254,-38,cs),
+(281,-38,o),
+(304,-18,o),
+(303,15,cs),
+(299,115,o),
+(297,215,o),
+(297,315,cs),
+(297,339,o),
+(297,364,o),
+(298,390,c),
+(355,393,o),
+(415,395,o),
+(475,403,c),
+(475,375,l),
+(384,356,o),
+(343,334,o),
+(343,276,cs),
+(343,199,o),
+(445,44,o),
+(489,-18,c),
+(499,-45,o),
+(516,-57,o),
+(540,-57,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(138,370,o),
+(167,376,o),
+(196,380,c),
+(196,348,ls),
+(196,260,o),
+(200,174,o),
+(206,96,c),
+(161,190,o),
+(130,278,o),
+(111,361,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(436,284,o),
+(457,290,o),
+(477,294,c),
+(479,222,o),
+(484,150,o),
+(490,73,c),
+(457,137,o),
+(428,212,o),
+(414,276,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(601,629,o),
+(646,687,o),
+(690,687,cs),
+(715,687,o),
+(725,668,o),
+(722,638,cs),
+(718,594,o),
+(691,538,o),
+(585,507,c)
 );
 }
 );

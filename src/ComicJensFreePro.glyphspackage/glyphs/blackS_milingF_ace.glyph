@@ -2,6 +2,60 @@
 glyphname = blackSmilingFace;
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,5);
+type = TTSnap;
+},
+{
+horizontal = 1;
+origin = (0,11);
+other1 = (1,11);
+target = (0,5);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,11);
+target = (1,5);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (1,11);
+target = (3,7);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (3,7);
+target = (2,4);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (2,4);
+stem = -1;
+target = (2,3);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (3,7);
+stem = -1;
+target = (3,0);
+type = TTStem;
+}
+);
 layerId = master01;
 shapes = (
 {

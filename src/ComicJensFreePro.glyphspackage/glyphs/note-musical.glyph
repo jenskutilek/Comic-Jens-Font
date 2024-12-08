@@ -2,6 +2,34 @@
 glyphname = "note-musical";
 layers = (
 {
+hints = (
+{
+horizontal = 1;
+origin = (0,43);
+target = (0,36,0,40);
+type = TTStem;
+},
+{
+horizontal = 1;
+origin = (0,30);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,43);
+other1 = (0,8,0,12);
+target = (0,30);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+origin = (0,43);
+other1 = (0,18);
+target = (0,30);
+type = TTInterpolate;
+}
+);
 layerId = master01;
 shapes = (
 {
