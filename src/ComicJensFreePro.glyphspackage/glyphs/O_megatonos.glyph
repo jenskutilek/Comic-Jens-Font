@@ -16,14 +16,6 @@ alignment = -1;
 ref = Omega;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 776;
 },
 {
@@ -40,14 +32,6 @@ pos = (-156,5);
 ref = tonos;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 776;
 }
 );

@@ -15,14 +15,6 @@ pos = (-214,3);
 ref = ogonekcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 240;
 },
 {
@@ -39,14 +31,6 @@ pos = (-211,26);
 ref = ogonekcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 240;
 }
 );

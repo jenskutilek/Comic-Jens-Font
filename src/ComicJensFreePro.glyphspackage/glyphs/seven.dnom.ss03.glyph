@@ -62,14 +62,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 402;
 },
 {
@@ -82,14 +74,6 @@ pos = (0,-420);
 ref = sevensuperior.ss03;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 402;
 }
 );

@@ -8,44 +8,6 @@ name = _top;
 pos = (291,480);
 }
 );
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(373,556,o),
-(439,602,o),
-(447,678,cs),
-(455,756,o),
-(407,822,o),
-(308,822,cs),
-(230,822,o),
-(162,770,o),
-(157,688,cs),
-(153,617,o),
-(201,556,o),
-(296,556,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(265,642,o),
-(248,658,o),
-(249,686,cs),
-(250,709,o),
-(267,736,o),
-(306,736,cs),
-(335,736,o),
-(358,721,o),
-(356,691,cs),
-(354,657,o),
-(325,642,o),
-(296,642,cs)
-);
-}
-);
-};
 hints = (
 {
 horizontal = 1;
@@ -112,23 +74,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 87;
-isGlobal = 0;
-magnetic = 5;
-x = -234;
-y = 0;
-}
-);
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 500;
 },
 {
@@ -188,17 +133,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 87;
-isGlobal = 0;
-magnetic = 5;
-x = -234;
-y = 0;
-}
-);
-};
 width = 500;
 }
 );

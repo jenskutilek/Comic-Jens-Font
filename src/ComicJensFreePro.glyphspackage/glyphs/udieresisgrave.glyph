@@ -20,14 +20,6 @@ pos = (227,-17);
 ref = gravecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 673;
 },
 {
@@ -49,14 +41,6 @@ pos = (232,-41);
 ref = gravecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 673;
 }
 );

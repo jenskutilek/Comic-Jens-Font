@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3249";
 .formatVersion = 3;
 axes = (
 {
@@ -657,11 +657,11 @@ size = 29;
 },
 {
 pos = 6;
-size = "-51";
+size = -51;
 },
 {
-pos = "-406";
-size = "-39";
+pos = -406;
+size = -39;
 }
 );
 }
@@ -768,11 +768,11 @@ size = 29;
 },
 {
 pos = 6;
-size = "-51";
+size = -51;
 },
 {
-pos = "-406";
-size = "-39";
+pos = -406;
+size = -39;
 }
 );
 },
@@ -851,6 +851,18 @@ pos = (0,-340);
 },
 {
 pos = (-2,1024);
+},
+{
+pos = (0,185);
+},
+{
+pos = (0,291);
+},
+{
+pos = (0,191);
+},
+{
+pos = (0,285);
 }
 );
 id = master01;
@@ -902,8 +914,13 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = de.kutilek.corretto.gasp;
 value = "8: gSgS, 96: GSGS, 65535: gSgS";
+},
+{
+name = fileName;
+value = "ComicJensFreePro3-Regular";
 }
 );
 instanceInterpolations = {
@@ -5091,9 +5108,6 @@ name = Dot;
 }
 );
 unitsPerEm = 1024;
-userData = {
-UFOFormat = 2;
-};
 versionMajor = 3;
 versionMinor = 0;
 }

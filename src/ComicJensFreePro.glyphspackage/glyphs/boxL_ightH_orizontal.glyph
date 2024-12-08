@@ -2,29 +2,6 @@
 glyphname = boxLightHorizontal;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(800,190,o),
-(818,213,o),
-(818,238,cs),
-(818,263,o),
-(800,286,o),
-(768,286,cs),
-(0,286,ls),
-(-36,286,o),
-(-50,258,o),
-(-50,238,cs),
-(-50,218,o),
-(-36,190,o),
-(0,190,cs),
-(768,190,ls)
-);
-}
-);
-};
 hints = (
 {
 name = _cap.hor;
@@ -53,14 +30,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 768;
 },
 {

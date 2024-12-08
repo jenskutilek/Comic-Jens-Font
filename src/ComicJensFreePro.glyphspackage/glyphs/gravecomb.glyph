@@ -52,23 +52,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 87;
-isGlobal = 0;
-magnetic = 5;
-x = -247;
-y = 0;
-}
-);
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 500;
 },
 {
@@ -106,17 +89,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 87;
-isGlobal = 0;
-magnetic = 5;
-x = -247;
-y = 0;
-}
-);
-};
 width = 500;
 }
 );

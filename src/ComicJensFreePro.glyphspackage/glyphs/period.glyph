@@ -2,27 +2,6 @@
 glyphname = period;
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(147,138,o),
-(104,96,o),
-(101,51,cs),
-(98,13,o),
-(121,-21,o),
-(168,-21,cs),
-(224,-21,o),
-(249,31,o),
-(252,70,cs),
-(255,116,o),
-(226,138,o),
-(198,138,cs)
-);
-}
-);
-};
 hints = (
 {
 horizontal = 1;
@@ -53,14 +32,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 363;
 },
 {

@@ -10,14 +10,6 @@ pos = (0,-120);
 ref = seven.dnom.ss03;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 402;
 },
 {
@@ -30,14 +22,6 @@ pos = (0,-540);
 ref = sevensuperior.ss03;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 402;
 }
 );

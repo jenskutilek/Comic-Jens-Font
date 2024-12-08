@@ -15,14 +15,6 @@ pos = (12,-20);
 ref = dieresiscomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 593;
 },
 {
@@ -39,14 +31,6 @@ pos = (12,-20);
 ref = dieresiscomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 593;
 }
 );

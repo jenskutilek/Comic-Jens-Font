@@ -9,14 +9,6 @@ shapes = (
 ref = sevensuperior.ss03;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 402;
 },
 {
@@ -28,14 +20,6 @@ alignment = -1;
 ref = sevensuperior.ss03;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 402;
 }
 );

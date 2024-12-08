@@ -22,14 +22,6 @@ pos = (225,188);
 ref = gravecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 744;
 },
 {
@@ -46,14 +38,6 @@ pos = (178,185);
 ref = gravecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 744;
 }
 );

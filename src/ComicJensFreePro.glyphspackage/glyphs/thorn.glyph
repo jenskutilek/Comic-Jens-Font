@@ -4,13 +4,6 @@ kernLeft = p;
 kernRight = p;
 layers = (
 {
-background = {
-shapes = (
-{
-ref = p;
-}
-);
-};
 hints = (
 {
 horizontal = 1;

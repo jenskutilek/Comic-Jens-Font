@@ -16,14 +16,6 @@ pos = (142,42);
 ref = gravecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 541;
 },
 {
@@ -35,14 +27,6 @@ alignment = -1;
 ref = Egrave;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 541;
 }
 );

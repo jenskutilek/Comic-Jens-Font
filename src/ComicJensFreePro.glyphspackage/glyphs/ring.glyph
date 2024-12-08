@@ -10,14 +10,6 @@ pos = (-100,-104);
 ref = ringcomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.741,
-1,
-1
-);
-};
 width = 406;
 },
 {

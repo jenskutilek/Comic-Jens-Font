@@ -15,14 +15,6 @@ pos = (-138,-10);
 ref = brevecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 297;
 },
 {
@@ -39,14 +31,6 @@ pos = (-136,7);
 ref = brevecomb.case;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 297;
 }
 );

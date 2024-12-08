@@ -13,14 +13,6 @@ pos = (-67,-20);
 ref = dieresiscomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 498;
 },
 {
@@ -32,14 +24,6 @@ alignment = -1;
 ref = edieresis;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 498;
 }
 );

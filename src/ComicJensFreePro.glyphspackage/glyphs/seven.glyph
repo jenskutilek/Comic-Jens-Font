@@ -61,18 +61,24 @@ nodes = (
 hints = (
 {
 horizontal = 1;
+origin = (0,23);
 origin = (0,51);
 type = TTSnap;
 },
 {
 horizontal = 1;
 options = 4;
+origin = (0,5);
+target = (0,11);
 origin = (0,23);
 target = (0,29);
 type = TTStem;
 },
 {
 horizontal = 1;
+origin = (0,23);
+other1 = (0,20,1,11);
+target = (0,5);
 origin = (0,51);
 other1 = (0,45);
 target = (0,23);
@@ -81,6 +87,8 @@ type = TTInterpolate;
 {
 horizontal = 1;
 options = 4;
+origin = (0,20,1,11);
+target = (0,29,1,11);
 origin = (0,45);
 target = (0,5);
 type = TTShift;
@@ -88,6 +96,8 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
+origin = (0,20,1,11);
+target = (0,17);
 origin = (0,45);
 target = (0,35);
 type = TTStem;
@@ -95,6 +105,8 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
+origin = (0,17);
+target = (0,29,1,5);
 origin = (0,35);
 target = (0,14);
 type = TTShift;
@@ -141,6 +153,28 @@ nodes = (
 (294,551,o),
 (294,486,o),
 (272,389,cs),
+(251,295,o),
+(195,142,o),
+(153,43,cs),
+(133,-4,o),
+(165,-27,o),
+(192,-27,cs),
+(223,-27,o),
+(234,-3,o),
+(246,23,cs),
+(298,134,o),
+(343,264,o),
+(374,394,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(543,309,o),
+(543,389,o),
+(473,389,cs),
+(381,389,o),
+(200,384,o),
 (271,385,l),
 (209,383,o),
 (149,380,o),
@@ -148,6 +182,9 @@ nodes = (
 (43,372,o),
 (43,283,o),
 (104,284,cs),
+(223,286,o),
+(423,297,o),
+(473,302,cs)
 (144,285,o),
 (194,286,o),
 (244,289,c),

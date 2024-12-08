@@ -71,17 +71,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 0;
-isGlobal = 0;
-magnetic = 5;
-x = 0;
-y = 937;
-}
-);
-};
 width = 500;
 },
 {
@@ -122,17 +111,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.guides = (
-{
-angle = 0;
-isGlobal = 0;
-magnetic = 5;
-x = 0;
-y = 937;
-}
-);
-};
 width = 500;
 }
 );

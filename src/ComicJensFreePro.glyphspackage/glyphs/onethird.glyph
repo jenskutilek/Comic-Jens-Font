@@ -17,14 +17,6 @@ pos = (465,0);
 ref = three.dnom;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 838;
 },
 {
@@ -46,14 +38,6 @@ pos = (465,0);
 ref = three.dnom;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 838;
 }
 );

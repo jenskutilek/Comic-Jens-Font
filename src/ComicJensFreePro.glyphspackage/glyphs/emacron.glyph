@@ -15,14 +15,6 @@ pos = (31,-20);
 ref = macroncomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.995,
-1,
-1
-);
-};
 width = 498;
 },
 {
@@ -39,14 +31,6 @@ pos = (5,-31);
 ref = macroncomb;
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.6,
-0.986,
-1,
-1
-);
-};
 width = 498;
 }
 );
