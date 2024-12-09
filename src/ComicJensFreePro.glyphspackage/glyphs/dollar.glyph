@@ -83,16 +83,12 @@ hints = (
 {
 horizontal = 1;
 options = 4;
-origin = (0,26,1,8);
-target = (0,14,1,17);
 origin = (0,6);
 target = (0,41);
 type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,26,1,8);
-target = (1,2);
 origin = (0,6);
 target = (0,2);
 type = TTStem;
@@ -100,16 +96,12 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,2,1,17);
-target = (0,35,1,17);
 origin = (0,32);
 target = (1,2);
 type = TTStem;
 },
 {
 horizontal = 1;
-origin = (0,2,1,17);
-target = (1,11);
 origin = (0,32);
 target = (0,28);
 type = TTStem;
@@ -117,9 +109,6 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,14,1,17);
-other1 = (0,32,1,17);
-target = (0,2,1,17);
 origin = (0,41);
 other1 = (1,5);
 target = (0,32);
@@ -128,8 +117,6 @@ type = TTInterpolate;
 {
 horizontal = 1;
 options = 4;
-origin = (0,35,1,17);
-target = (0,38,1,8);
 origin = (1,2);
 target = (0,15);
 type = TTShift;
@@ -137,8 +124,6 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
-origin = (0,2,1,17);
-target = (0,44,1,8);
 origin = (0,32);
 target = (0,24);
 type = TTShift;
@@ -146,8 +131,6 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
-origin = (0,26,1,8);
-target = (0,23,1,17);
 origin = (0,6);
 target = (0,53);
 type = TTShift;
@@ -155,8 +138,6 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
-origin = (0,14,1,17);
-target = (0,11,1,8);
 origin = (0,41);
 target = (2,8);
 type = TTShift;
@@ -164,9 +145,6 @@ type = TTShift;
 {
 horizontal = 1;
 options = 4;
-origin = (0,26,1,8);
-other1 = (0,5,1,17);
-target = (0,35,1,17);
 origin = (0,6);
 other1 = (0,38);
 target = (1,2);
@@ -175,9 +153,6 @@ type = TTInterpolate;
 {
 horizontal = 1;
 options = 4;
-origin = (0,26,1,8);
-other1 = (0,8,1,8);
-target = (0,35,1,17);
 origin = (0,6);
 other1 = (2,2);
 target = (1,2);
@@ -186,9 +161,6 @@ type = TTInterpolate;
 {
 horizontal = 1;
 options = 4;
-origin = (0,14,1,17);
-other1 = (0,29,1,8);
-target = (0,2,1,17);
 origin = (0,41);
 other1 = (0,12);
 target = (0,32);
@@ -200,65 +172,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(177,701,o),
-(101,638,o),
-(86,549,cs),
-(65,428,o),
-(167,368,o),
-(225,345,cs),
-(320,307,o),
-(348,259,o),
-(331,180,cs),
-(318,118,o),
-(285,74,o),
-(216,74,cs),
-(181,74,o),
-(151,87,o),
-(122,111,cs),
-(88,139,o),
-(50,119,o),
-(50,84,cs),
-(50,73,o),
-(53,61,o),
-(62,49,cs),
-(86,15,o),
-(140,-22,o),
-(214,-22,cs),
-(331,-22,o),
-(410,66,o),
-(429,159,cs),
-(460,315,o),
-(387,381,o),
-(284,427,cs),
-(208,461,o),
-(180,488,o),
-(184,531,cs),
-(189,583,o),
-(234,606,o),
-(278,606,cs),
-(331,606,o),
-(359,586,o),
-(379,580,cs),
-(428,565,o),
-(454,627,o),
-(410,661,cs),
-(383,682,o),
-(339,701,o),
-(283,701,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (139,-115,o),
 (156,-141,o),
 (187,-141,cs),
 (214,-141,o),
 (229,-120,o),
 (234,-89,cs),
-(282,193,o),
-(324,475,o),
-(360,757,cs),
 (246,-20,l),
 (345,-6,o),
 (412,75,o),
@@ -285,8 +204,6 @@ nodes = (
 (285,817,o),
 (264,797,o),
 (260,767,cs),
-(226,483,o),
-(188,199,o),
 (252,699,l),
 (162,688,o),
 (99,629,o),
@@ -343,14 +260,6 @@ nodes = (
 );
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 493;
 },
 {

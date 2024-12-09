@@ -65,15 +65,12 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = (1,11);
 origin = (0,7);
 type = TTSnap;
 },
 {
 horizontal = 1;
 options = 4;
-origin = (0,11);
-target = (0,2,1,9);
 origin = (0,26);
 target = (0,2);
 type = TTStem;
@@ -81,21 +78,17 @@ type = TTStem;
 {
 horizontal = 1;
 options = 4;
-origin = (0,2,1,9);
-target = (0,2);
 origin = (0,2);
 target = (0,14);
 type = TTShift;
 },
 {
 horizontal = 1;
-origin = (0,11);
 origin = (0,26);
 type = TTSnap;
 },
 {
 horizontal = 1;
-origin = (0,11);
 origin = (0,26);
 settings = {
 deltaV = {
@@ -114,9 +107,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(219,599,o),
-(376,608,o),
-(534,613,c),
 (120,595,o),
 (179,598,o),
 (238,600,c),
@@ -154,34 +144,8 @@ nodes = (
 (23,590,o),
 (61,592,cs)
 );
-},
-{
-closed = 1;
-nodes = (
-(292,-9,o),
-(314,5,o),
-(316,44,cs),
-(324,248,o),
-(333,441,o),
-(338,646,c),
-(240,639,l),
-(231,440,o),
-(222,249,o),
-(216,49,cs),
-(215,10,o),
-(240,-9,o),
-(265,-9,cs)
-);
 }
 );
-userData = {
-com.typemytype.robofont.mark = (
-0.619,
-1,
-0.6,
-1
-);
-};
 width = 599;
 },
 {

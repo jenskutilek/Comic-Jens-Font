@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3151";
 .formatVersion = 3;
 axes = (
 {
@@ -49,7 +49,7 @@ name = num_subs;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B Bdotaccent C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotaccent E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Esh Schwa F Fdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Mdotaccent N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Odieresis_grave Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Xdotaccent Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Zstroke E.001 Adieresis.comp I.init I.isol Z.ss02 F_F_S F_T_W H_T_H L_O_L W_T_F A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy Ii_Ii-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B Bdotaccent C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Ddotaccent Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Esh Schwa F Fdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lslash M Mdotaccent N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Odieresis Odieresis_grave Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Xdotaccent Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Zstroke E.001 Adieresis.comp I.init I.isol Z.ss02 F_F_S F_T_W H_T_H L_O_L W_T_F A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gestroke-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Zhedescender-cy Kadescender-cy Endescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Chedescender-cy Shha-cy Palochka-cy Schwa-cy Imacron-cy Obarred-cy Umacron-cy Ii_Ii-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis";
 name = Uppercase;
 }
 );
@@ -657,11 +657,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 }
@@ -696,7 +696,6 @@ stemValues = (
 100,
 136
 );
-visible = 1;
 },
 {
 axesValues = (
@@ -768,11 +767,11 @@ size = 29;
 },
 {
 pos = 6;
-size = -51;
+size = "-51";
 },
 {
-pos = -406;
-size = -39;
+pos = "-406";
+size = "-39";
 }
 );
 },
@@ -851,18 +850,6 @@ pos = (0,-340);
 },
 {
 pos = (-2,1024);
-},
-{
-pos = (0,185);
-},
-{
-pos = (0,291);
-},
-{
-pos = (0,191);
-},
-{
-pos = (0,285);
 }
 );
 id = master01;
@@ -1362,12 +1349,12 @@ m = -5;
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = 20;
-"Ya-cy" = -80;
 "Je-cy" = -180;
 "Lje-cy" = -70;
 "O-cy" = -50;
 "Obarred-cy" = -50;
 "Softsign-cy" = -20;
+"Ya-cy" = -80;
 "Ze-cy" = -15;
 "Zhe-cy" = -30;
 "Zhedescender-cy" = -30;
@@ -1386,12 +1373,10 @@ comma = -150;
 "es-cy" = -80;
 guillemetright = -70;
 hyphen = -90;
-"ya-cy" = -70;
 "ie-cy" = -70;
 "ii-cy" = -80;
 "iishort-cy" = -40;
 "imacron-cy" = -80;
-"yu-cy" = -70;
 "o-cy" = -70;
 "obarred-cy" = -70;
 period = -140;
@@ -1399,6 +1384,8 @@ semicolon = -110;
 "u-cy" = -50;
 "umacron-cy" = -50;
 "ve-cy" = -30;
+"ya-cy" = -70;
+"yu-cy" = -70;
 "ze-cy" = -60;
 };
 "@MMK_L_afii10022" = {
@@ -1441,9 +1428,9 @@ hyphen = -60;
 "Ha-cy" = -10;
 "Hadescender-cy" = -10;
 "Hardsign-cy" = 50;
-"Ya-cy" = -50;
 "Je-cy" = -70;
 "Lje-cy" = -65;
+"Ya-cy" = -50;
 colon = -40;
 comma = -110;
 guillemetright = -10;
@@ -1775,9 +1762,9 @@ comma = -50;
 "Ha-cy" = -30;
 "Hadescender-cy" = -30;
 "Hardsign-cy" = -10;
-"Ya-cy" = -40;
 "Lje-cy" = -30;
 "Softsign-cy" = -20;
+"Ya-cy" = -40;
 "Ze-cy" = -10;
 "Zhe-cy" = -30;
 "Zhedescender-cy" = -30;
@@ -1813,9 +1800,9 @@ hyphen = -20;
 "Es-cy" = -20;
 "Ha-cy" = -30;
 "Hadescender-cy" = -30;
-"Ya-cy" = -60;
 "Je-cy" = -90;
 "Lje-cy" = -60;
+"Ya-cy" = -60;
 "Ze-cy" = -10;
 "Zhe-cy" = -25;
 "Zhedescender-cy" = -25;
@@ -1832,8 +1819,8 @@ period = -80;
 "Em-cy" = -20;
 "Ha-cy" = -40;
 "Hadescender-cy" = -40;
-"Ya-cy" = -20;
 "Lje-cy" = -10;
+"Ya-cy" = -20;
 "Zhe-cy" = -10;
 "Zhedescender-cy" = -10;
 comma = -80;
@@ -1844,10 +1831,10 @@ period = -50;
 "@MMK_R_afii10037" = -15;
 "Che-cy" = -10;
 "Chedescender-cy" = -10;
-"Ya-cy" = 10;
 "Je-cy" = -30;
 "O-cy" = -10;
 "Obarred-cy" = -10;
+"Ya-cy" = 10;
 "Ze-cy" = -5;
 hyphen = -40;
 };
@@ -1897,9 +1884,9 @@ V = -20;
 "Es-cy" = -10;
 "Ge-cy" = 30;
 "Hardsign-cy" = 40;
-"Ya-cy" = 10;
 "O-cy" = -40;
 "Obarred-cy" = -40;
+"Ya-cy" = 10;
 "Zhe-cy" = 10;
 "Zhedescender-cy" = 10;
 comma = -30;
@@ -1912,9 +1899,9 @@ hyphen = -60;
 "Es-cy" = -10;
 "Ge-cy" = 30;
 "Hardsign-cy" = 40;
-"Ya-cy" = 10;
 "O-cy" = -40;
 "Obarred-cy" = -40;
+"Ya-cy" = 10;
 "Zhe-cy" = 10;
 "Zhedescender-cy" = 10;
 comma = -30;
@@ -1933,37 +1920,8 @@ hyphen = -60;
 comma = -50;
 period = -30;
 };
-"Ya-cy" = {
-"A-cy" = -20;
-"Es-cy" = -10;
-"Ha-cy" = -30;
-"Hadescender-cy" = -30;
-"Je-cy" = -20;
-"Lje-cy" = -10;
-};
 Idieresis = {
 Idieresis = 50;
-};
-"Yu-cy" = {
-"@MMK_R_afii10036" = -10;
-"@MMK_R_afii10037" = -20;
-"A-cy" = -25;
-"De-cy" = -30;
-"El-cy" = -30;
-"Em-cy" = -10;
-"Ereversed-cy" = -15;
-"Ha-cy" = -30;
-"Hadescender-cy" = -30;
-"Ya-cy" = -20;
-"Je-cy" = -30;
-"Lje-cy" = -20;
-"Ze-cy" = -10;
-"Zhe-cy" = -5;
-"Zhedescender-cy" = -5;
-comma = -80;
-guillemetright = -10;
-hyphen = -10;
-period = -60;
 };
 "Je-cy" = {
 "A-cy" = -30;
@@ -2013,9 +1971,9 @@ comma = -30;
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = -20;
-"Ya-cy" = -20;
 "Je-cy" = -10;
 "Lje-cy" = -20;
+"Ya-cy" = -20;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 comma = -100;
@@ -2031,9 +1989,9 @@ OE = {
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = -20;
-"Ya-cy" = -20;
 "Je-cy" = -10;
 "Lje-cy" = -20;
+"Ya-cy" = -20;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 period = -50;
@@ -2198,11 +2156,11 @@ zeta = -55;
 "Ha-cy" = -40;
 "Hadescender-cy" = -40;
 "Hardsign-cy" = 20;
-"Ya-cy" = -60;
 "Je-cy" = -110;
 "Lje-cy" = -70;
 "O-cy" = -50;
 "Obarred-cy" = -50;
+"Ya-cy" = -60;
 "Ze-cy" = -10;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
@@ -2293,6 +2251,35 @@ Xi = {
 "@MMK_R_Omicron" = -30;
 Phi = -30;
 };
+"Ya-cy" = {
+"A-cy" = -20;
+"Es-cy" = -10;
+"Ha-cy" = -30;
+"Hadescender-cy" = -30;
+"Je-cy" = -20;
+"Lje-cy" = -10;
+};
+"Yu-cy" = {
+"@MMK_R_afii10036" = -10;
+"@MMK_R_afii10037" = -20;
+"A-cy" = -25;
+"De-cy" = -30;
+"El-cy" = -30;
+"Em-cy" = -10;
+"Ereversed-cy" = -15;
+"Ha-cy" = -30;
+"Hadescender-cy" = -30;
+"Je-cy" = -30;
+"Lje-cy" = -20;
+"Ya-cy" = -20;
+"Ze-cy" = -10;
+"Zhe-cy" = -5;
+"Zhedescender-cy" = -5;
+comma = -80;
+guillemetright = -10;
+hyphen = -10;
+period = -60;
+};
 Zcaron = {
 "@MMK_R_Y" = -20;
 V = -20;
@@ -2307,8 +2294,8 @@ V = -20;
 "Ha-cy" = -10;
 "Hadescender-cy" = -10;
 "Hardsign-cy" = -10;
-"Ya-cy" = -20;
 "Lje-cy" = -15;
+"Ya-cy" = -20;
 comma = -50;
 period = -10;
 };
@@ -2507,8 +2494,8 @@ guillemetleft = {
 "Ha-cy" = -20;
 "Hadescender-cy" = -20;
 "Hardsign-cy" = -30;
-"Ya-cy" = -10;
 V = -30;
+"Ya-cy" = -10;
 "Ze-cy" = -30;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
@@ -2561,8 +2548,8 @@ hyphen = {
 "Ha-cy" = -60;
 "Hadescender-cy" = -60;
 "Hardsign-cy" = -50;
-"Ya-cy" = -30;
 V = -40;
+"Ya-cy" = -30;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 parenright = -40;
@@ -2720,11 +2707,11 @@ period = {
 "Ef-cy" = -30;
 "Es-cy" = -30;
 "Hardsign-cy" = -40;
-"Ya-cy" = 20;
 "O-cy" = -30;
 "Obarred-cy" = -30;
 "Tse-cy" = -30;
 V = -90;
+"Ya-cy" = 20;
 v = -40;
 };
 pi = {
@@ -3389,12 +3376,12 @@ m = -5;
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = 20;
-"Ya-cy" = -80;
 "Je-cy" = -180;
 "Lje-cy" = -70;
 "O-cy" = -50;
 "Obarred-cy" = -50;
 "Softsign-cy" = -20;
+"Ya-cy" = -80;
 "Ze-cy" = -15;
 "Zhe-cy" = -30;
 "Zhedescender-cy" = -30;
@@ -3413,12 +3400,10 @@ comma = -150;
 "es-cy" = -80;
 guillemetright = -70;
 hyphen = -90;
-"ya-cy" = -70;
 "ie-cy" = -70;
 "ii-cy" = -80;
 "iishort-cy" = -40;
 "imacron-cy" = -80;
-"yu-cy" = -70;
 "o-cy" = -70;
 "obarred-cy" = -70;
 period = -140;
@@ -3426,6 +3411,8 @@ semicolon = -110;
 "u-cy" = -50;
 "umacron-cy" = -50;
 "ve-cy" = -30;
+"ya-cy" = -70;
+"yu-cy" = -70;
 "ze-cy" = -60;
 };
 "@MMK_L_afii10022" = {
@@ -3468,9 +3455,9 @@ hyphen = -60;
 "Ha-cy" = -10;
 "Hadescender-cy" = -10;
 "Hardsign-cy" = 50;
-"Ya-cy" = -50;
 "Je-cy" = -70;
 "Lje-cy" = -65;
+"Ya-cy" = -50;
 colon = -40;
 comma = -110;
 guillemetright = -10;
@@ -3792,9 +3779,9 @@ comma = -50;
 "Ha-cy" = -30;
 "Hadescender-cy" = -30;
 "Hardsign-cy" = -10;
-"Ya-cy" = -40;
 "Lje-cy" = -30;
 "Softsign-cy" = -20;
+"Ya-cy" = -40;
 "Ze-cy" = -10;
 "Zhe-cy" = -30;
 "Zhedescender-cy" = -30;
@@ -3830,9 +3817,9 @@ hyphen = -20;
 "Es-cy" = -20;
 "Ha-cy" = -30;
 "Hadescender-cy" = -30;
-"Ya-cy" = -60;
 "Je-cy" = -90;
 "Lje-cy" = -60;
+"Ya-cy" = -60;
 "Ze-cy" = -10;
 "Zhe-cy" = -25;
 "Zhedescender-cy" = -25;
@@ -3849,8 +3836,8 @@ period = -80;
 "Em-cy" = -20;
 "Ha-cy" = -40;
 "Hadescender-cy" = -40;
-"Ya-cy" = -20;
 "Lje-cy" = -10;
+"Ya-cy" = -20;
 "Zhe-cy" = -10;
 "Zhedescender-cy" = -10;
 comma = -80;
@@ -3861,10 +3848,10 @@ period = -50;
 "@MMK_R_afii10037" = -15;
 "Che-cy" = -10;
 "Chedescender-cy" = -10;
-"Ya-cy" = 10;
 "Je-cy" = -30;
 "O-cy" = -10;
 "Obarred-cy" = -10;
+"Ya-cy" = 10;
 "Ze-cy" = -5;
 hyphen = -40;
 };
@@ -3914,9 +3901,9 @@ V = -20;
 "Es-cy" = -10;
 "Ge-cy" = 30;
 "Hardsign-cy" = 40;
-"Ya-cy" = 10;
 "O-cy" = -40;
 "Obarred-cy" = -40;
+"Ya-cy" = 10;
 "Zhe-cy" = 10;
 "Zhedescender-cy" = 10;
 comma = -30;
@@ -3929,9 +3916,9 @@ hyphen = -60;
 "Es-cy" = -10;
 "Ge-cy" = 30;
 "Hardsign-cy" = 40;
-"Ya-cy" = 10;
 "O-cy" = -40;
 "Obarred-cy" = -40;
+"Ya-cy" = 10;
 "Zhe-cy" = 10;
 "Zhedescender-cy" = 10;
 comma = -30;
@@ -3950,37 +3937,8 @@ hyphen = -60;
 comma = -50;
 period = -30;
 };
-"Ya-cy" = {
-"A-cy" = -20;
-"Es-cy" = -10;
-"Ha-cy" = -30;
-"Hadescender-cy" = -30;
-"Je-cy" = -20;
-"Lje-cy" = -10;
-};
 Idieresis = {
 Idieresis = 50;
-};
-"Yu-cy" = {
-"@MMK_R_afii10036" = -10;
-"@MMK_R_afii10037" = -20;
-"A-cy" = -25;
-"De-cy" = -30;
-"El-cy" = -30;
-"Em-cy" = -10;
-"Ereversed-cy" = -15;
-"Ha-cy" = -30;
-"Hadescender-cy" = -30;
-"Ya-cy" = -20;
-"Je-cy" = -30;
-"Lje-cy" = -20;
-"Ze-cy" = -10;
-"Zhe-cy" = -5;
-"Zhedescender-cy" = -5;
-comma = -80;
-guillemetright = -10;
-hyphen = -10;
-period = -60;
 };
 "Je-cy" = {
 "A-cy" = -30;
@@ -4043,9 +4001,9 @@ comma = -30;
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = -20;
-"Ya-cy" = -20;
 "Je-cy" = -10;
 "Lje-cy" = -20;
+"Ya-cy" = -20;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 comma = -100;
@@ -4061,9 +4019,9 @@ OE = {
 "Ha-cy" = -50;
 "Hadescender-cy" = -50;
 "Hardsign-cy" = -20;
-"Ya-cy" = -20;
 "Je-cy" = -10;
 "Lje-cy" = -20;
+"Ya-cy" = -20;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 period = -50;
@@ -4228,11 +4186,11 @@ zeta = -55;
 "Ha-cy" = -40;
 "Hadescender-cy" = -40;
 "Hardsign-cy" = 20;
-"Ya-cy" = -60;
 "Je-cy" = -110;
 "Lje-cy" = -70;
 "O-cy" = -50;
 "Obarred-cy" = -50;
+"Ya-cy" = -60;
 "Ze-cy" = -10;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
@@ -4323,6 +4281,35 @@ Xi = {
 "@MMK_R_Omicron" = -30;
 Phi = -30;
 };
+"Ya-cy" = {
+"A-cy" = -20;
+"Es-cy" = -10;
+"Ha-cy" = -30;
+"Hadescender-cy" = -30;
+"Je-cy" = -20;
+"Lje-cy" = -10;
+};
+"Yu-cy" = {
+"@MMK_R_afii10036" = -10;
+"@MMK_R_afii10037" = -20;
+"A-cy" = -25;
+"De-cy" = -30;
+"El-cy" = -30;
+"Em-cy" = -10;
+"Ereversed-cy" = -15;
+"Ha-cy" = -30;
+"Hadescender-cy" = -30;
+"Je-cy" = -30;
+"Lje-cy" = -20;
+"Ya-cy" = -20;
+"Ze-cy" = -10;
+"Zhe-cy" = -5;
+"Zhedescender-cy" = -5;
+comma = -80;
+guillemetright = -10;
+hyphen = -10;
+period = -60;
+};
 Zcaron = {
 "@MMK_R_Y" = -20;
 V = -20;
@@ -4337,8 +4324,8 @@ V = -20;
 "Ha-cy" = -10;
 "Hadescender-cy" = -10;
 "Hardsign-cy" = -10;
-"Ya-cy" = -20;
 "Lje-cy" = -15;
+"Ya-cy" = -20;
 comma = -50;
 period = -10;
 };
@@ -4525,8 +4512,8 @@ guillemetleft = {
 "Ha-cy" = -20;
 "Hadescender-cy" = -20;
 "Hardsign-cy" = -30;
-"Ya-cy" = -10;
 V = -30;
+"Ya-cy" = -10;
 "Ze-cy" = -30;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
@@ -4579,8 +4566,8 @@ hyphen = {
 "Ha-cy" = -60;
 "Hadescender-cy" = -60;
 "Hardsign-cy" = -50;
-"Ya-cy" = -30;
 V = -40;
+"Ya-cy" = -30;
 "Zhe-cy" = -20;
 "Zhedescender-cy" = -20;
 parenright = -40;
@@ -4738,11 +4725,11 @@ period = {
 "Ef-cy" = -30;
 "Es-cy" = -30;
 "Hardsign-cy" = -40;
-"Ya-cy" = 20;
 "O-cy" = -30;
 "Obarred-cy" = -30;
 "Tse-cy" = -30;
 V = -90;
+"Ya-cy" = 20;
 v = -40;
 };
 pi = {

@@ -2,60 +2,6 @@
 glyphname = plusminus;
 layers = (
 {
-hints = (
-{
-horizontal = 1;
-origin = (1,17);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (1,17);
-target = (1,11);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,2,2,14);
-type = TTSnap;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,2,2,14);
-target = (0,11,2,14);
-type = TTStem;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,2,2,14);
-target = (0,2,2,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-options = 4;
-origin = (0,11,2,14);
-target = (0,11,2,5);
-type = TTShift;
-},
-{
-horizontal = 1;
-origin = (0,2,2,14);
-stem = -1;
-target = (2,8);
-type = TTStem;
-},
-{
-horizontal = 1;
-origin = (0,2,2,14);
-stem = -1;
-target = (2,17);
-type = TTStem;
-}
-);
 layerId = master01;
 shapes = (
 {
