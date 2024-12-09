@@ -522,9 +522,15 @@ tag = ornm;
 code = "sub [A H M N R W X h k n w x Aring] cedillacomb' by cedillacomb.alt001;
 sub [L d l t t.ss01] caroncomb' by caroncomb.alt001;
 sub [t tbar tcaron tcedilla tcommaaccent tdotaccent ]' [a agrave aacute acircumflex atilde adieresis aring a_a amacron abreve aogonek aringacute acaron] by [t.calt tbar.calt tcaron.calt tcedilla.calt tcommaaccent.calt tdotaccent.calt];
-sub [two two.tf]' [two two.tf] by [two.a1 two.tf.a1];
-sub [two two.tf two.a1 two.tf.a1] [two two.tf]' by [two.a2 two.tf.a2];
+
 sub f_f.ss01' [n r] by f_f.ss01.001;
+
+sub two two' by two.a1;
+sub two.tf two.tf' by two.tf.a1;
+sub [two two.a1] two' by two.a2;
+sub [two.tf two.tf.a1] two.tf' by two.tf.a2;
+sub two zero two' by two.a1;
+sub two.tf zero.tf two.tf' by two.tf.a1;
 ";
 tag = calt;
 },
