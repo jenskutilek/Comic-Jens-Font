@@ -202,7 +202,7 @@
     <mtx name="arrowupdnbse" width="840" lsb="76"/>
     <mtx name="asciicircum" width="486" lsb="44"/>
     <mtx name="asciitilde" width="500" lsb="40"/>
-    <mtx name="asterisk" width="691" lsb="52"/>
+    <mtx name="asterisk" width="691" lsb="42"/>
     <mtx name="asterisk.sups" width="641" lsb="94"/>
     <mtx name="asteriskmath" width="595" lsb="51"/>
     <mtx name="at" width="764" lsb="50"/>
@@ -334,7 +334,7 @@
     <mtx name="grave" width="309" lsb="41"/>
     <mtx name="gravecomb" width="0" lsb="138"/>
     <mtx name="gravecomb.case" width="0" lsb="6"/>
-    <mtx name="greater" width="595" lsb="106"/>
+    <mtx name="greater" width="595" lsb="114"/>
     <mtx name="greaterequal" width="595" lsb="91"/>
     <mtx name="guillemotleft" width="581" lsb="55"/>
     <mtx name="guillemotleft.case" width="581" lsb="55"/>
@@ -390,7 +390,7 @@
     <mtx name="lambda_lambda" width="1047" lsb="-59"/>
     <mtx name="lcaron" width="398" lsb="57"/>
     <mtx name="ldot" width="353" lsb="57"/>
-    <mtx name="less" width="595" lsb="156"/>
+    <mtx name="less" width="595" lsb="144"/>
     <mtx name="lessequal" width="595" lsb="111"/>
     <mtx name="lfblock" width="768" lsb="0"/>
     <mtx name="lira" width="680" lsb="15"/>
@@ -422,7 +422,7 @@
     <mtx name="nine.numr" width="372" lsb="24"/>
     <mtx name="nine.tf" width="550" lsb="21"/>
     <mtx name="nonmarkingreturn" width="310" lsb="0"/>
-    <mtx name="notequal" width="595" lsb="79"/>
+    <mtx name="notequal" width="595" lsb="41"/>
     <mtx name="ntilde" width="629" lsb="41"/>
     <mtx name="nu" width="596" lsb="19"/>
     <mtx name="numbersign" width="712" lsb="39"/>
@@ -475,11 +475,11 @@
     <mtx name="pi" width="604" lsb="23"/>
     <mtx name="pi.mgrk" width="682" lsb="58"/>
     <mtx name="plus" width="595" lsb="52"/>
-    <mtx name="plusminus" width="595" lsb="77"/>
+    <mtx name="plusminus" width="595" lsb="54"/>
     <mtx name="product" width="730" lsb="93"/>
     <mtx name="psi" width="615" lsb="21"/>
     <mtx name="q" width="569" lsb="42"/>
-    <mtx name="qrcode" width="756" lsb="27"/>
+    <mtx name="qrcode" width="756" lsb="29"/>
     <mtx name="qrcode.inv" width="756" lsb="-1"/>
     <mtx name="question" width="538" lsb="49"/>
     <mtx name="questiondown" width="531" lsb="63"/>

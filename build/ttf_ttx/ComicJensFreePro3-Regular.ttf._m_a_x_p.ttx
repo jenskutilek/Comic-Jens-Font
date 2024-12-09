@@ -5,8 +5,8 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
     <numGlyphs value="986"/>
-    <maxPoints value="470"/>
-    <maxContours value="49"/>
+    <maxPoints value="546"/>
+    <maxContours value="54"/>
     <maxCompositePoints value="117"/>
     <maxCompositeContours value="5"/>
     <maxZones value="2"/>

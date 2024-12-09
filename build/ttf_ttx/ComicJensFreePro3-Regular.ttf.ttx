@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.53">
+  <GlyphOrder src="ComicJensFreePro3-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="ComicJensFreePro3-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="ComicJensFreePro3-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="ComicJensFreePro3-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="ComicJensFreePro3-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="ComicJensFreePro3-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="ComicJensFreePro3-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="ComicJensFreePro3-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="ComicJensFreePro3-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="ComicJensFreePro3-Regular.ttf._c_v_t.ttx"/>
+  <loca src="ComicJensFreePro3-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="ComicJensFreePro3-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="ComicJensFreePro3-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="ComicJensFreePro3-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="ComicJensFreePro3-Regular.ttf._g_a_s_p.ttx"/>
+  <GDEF src="ComicJensFreePro3-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="ComicJensFreePro3-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="ComicJensFreePro3-Regular.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="ComicJensFreePro3-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>
